@@ -1,5 +1,4 @@
-# project-template
+# Geographe Marine Park Synthesis
 
-[annotation and analysis workflows](https://docs.google.com/presentation/d/13mA4GZAn7qeACrePZP3Igtta2gYiFyDY_v7F3Dcj-m4/edit?usp=sharing)
-
-![alt text](/project-template.png "Template")
+This repository is used to combine data from 2014 and 2024 into a synthesis project, which is uploaded into GlobalArchive.
+The synthesis ID is TBC.
