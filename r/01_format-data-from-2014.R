@@ -2,11 +2,10 @@ library(tidyverse)
 library(CheckEM)
 
 caab_codes <- CheckEM::australia_life_history %>%
-  dplyr::distinct(caab, family, genus, species) %>%
-  rename(caab_code = caab)
+  dplyr::distinct(caab_code, family, genus, species) 
 
-GeographeAMP_complete_count <- readRDS("H:/south-west-network/data/geographe/raw/GeographeAMP_complete_count.RDS")
-GeographeAMP_complete_length <- readRDS("H:/south-west-network/data/geographe/raw/GeographeAMP_complete_length.RDS")
+GeographeAMP_complete_count <- readRDS("data/raw/GeographeAMP_complete_count.RDS")
+GeographeAMP_complete_length <- readRDS("data/raw/GeographeAMP_complete_length.RDS")
 
 test_count <- GeographeAMP_complete_count %>%
   dplyr::filter(count > 0)
@@ -15,7 +14,7 @@ test_length <- GeographeAMP_complete_length %>%
   dplyr::filter(number > 0)
 
 # Read in metadata ----
-metadata <- read_csv("data/geographe/raw/temp/2007-2014-Geographe-stereo-BRUVs.checked.metadata.csv") %>%
+metadata <- read_csv("data/raw/temp/2007-2014-Geographe-stereo-BRUVs.checked.metadata.csv") %>%
   dplyr::filter(campaignid %in% "2014-12_Geographe.Bay_stereoBRUVs") %>%
   CheckEM::clean_names() %>%
   dplyr::rename(latitude_dd = latitude,
@@ -36,8 +35,6 @@ metadata <- read_csv("data/geographe/raw/temp/2007-2014-Geographe-stereo-BRUVs.c
 
 names(metadata)
 unique(metadata$campaignid)
-unique(metadata$date) %>% sort()
-unique(metadata$time) %>% sort()
 unique(metadata$latitude_dd) %>% sort()
 unique(metadata$longitude_dd) %>% sort()
 unique(metadata$location) %>% sort()
@@ -45,11 +42,10 @@ unique(metadata$site) %>% sort()
 unique(metadata$depth_m) %>% sort()
 unique(metadata$successful_count) %>% sort()
 unique(metadata$successful_length) %>% sort()
-unique(metadata$successful_length) %>% sort()
 unique(metadata$status) %>% sort()
 
 # read in Count ----
-count_raw <- read_csv("data/geographe/raw/temp/2007-2014-Geographe-stereo-BRUVs.complete.maxn.csv") %>%
+count_raw <- read_csv("data/raw/temp/2007-2014-Geographe-stereo-BRUVs.complete.maxn.csv") %>%
   dplyr::filter(campaignid %in% "2014-12_Geographe.Bay_stereoBRUVs") %>%
   dplyr::filter(maxn > 0) %>%
   CheckEM::clean_names() %>%
@@ -70,7 +66,7 @@ count <- dplyr::left_join(count_raw, CheckEM::aus_synonyms) %>%
   ungroup()
 
 # read in length ----
-length_raw <- read_csv("data/geographe/raw/temp/2007-2014-Geographe-stereo-BRUVs.expanded.length.csv") %>%
+length_raw <- read_csv("data/raw/temp/2007-2014-Geographe-stereo-BRUVs.expanded.length.csv") %>%
   dplyr::filter(campaignid %in% "2014-12_Geographe.Bay_stereoBRUVs") %>%
   dplyr::select(campaignid, sample, family, genus, species, length, range) %>%
   dplyr::rename(length_mm = length,
@@ -98,7 +94,7 @@ length <- length_raw %>%
 names(length)
 
 # Read in habitat ----
-habitat <- read_csv("data/geographe/raw/temp/2014-12_Geographe.Bay_stereoBRUVs_habitat.csv") %>%
+habitat <- read_csv("data/raw/temp/2014-12_Geographe.Bay_stereoBRUVs_habitat.csv") %>%
   semi_join(metadata)
 
 
@@ -108,7 +104,7 @@ habitat <- read_csv("data/geographe/raw/temp/2014-12_Geographe.Bay_stereoBRUVs_h
 
 
 # write data to be uploaded ----
-write.csv(metadata, "data/geographe/uploads/2014-12_Geographe.Bay_stereoBRUVs_metadata.csv", row.names = F)
-write.csv(length, "data/geographe/uploads/2014-12_Geographe.Bay_stereoBRUVs_length.csv", row.names = F)
-write.csv(count, "data/geographe/uploads/2014-12_Geographe.Bay_stereoBRUVs_count.csv", row.names = F)
-write.csv(habitat, "data/geographe/uploads/2014-12_Geographe.Bay_stereoBRUVs_habitat.csv", row.names = F)
+write.csv(metadata, "data/uploads/2014-12_Geographe.Bay_stereoBRUVs_metadata.csv", row.names = F)
+write.csv(length, "data/uploads/2014-12_Geographe.Bay_stereoBRUVs_length.csv", row.names = F)
+write.csv(count, "data/uploads/2014-12_Geographe.Bay_stereoBRUVs_count.csv", row.names = F)
+write.csv(habitat, "data/uploads/2014-12_Geographe.Bay_stereoBRUVs_habitat.csv", row.names = F)
