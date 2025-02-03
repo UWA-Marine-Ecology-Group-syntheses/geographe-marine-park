@@ -63,7 +63,8 @@ count <- dplyr::left_join(count_raw, CheckEM::aus_synonyms) %>%
   dplyr::slice(which.max(count)) %>%
   left_join(caab_codes) %>%
   dplyr::filter(!is.na(caab_code)) %>% # only removes 3 unknowns
-  ungroup()
+  ungroup() %>%
+  dplyr::mutate(stage = "AD")
 
 # read in length ----
 length_raw <- read_csv("data/raw/temp/2007-2014-Geographe-stereo-BRUVs.expanded.length.csv") %>%
@@ -88,6 +89,7 @@ length <- length_raw %>%
   left_join(caab_codes) %>%
 
   dplyr::filter(!(sample %in% "492" & species %in% "vittiger")) %>%
+  dplyr::mutate(stage = "AD") %>%
 
   glimpse()
 
