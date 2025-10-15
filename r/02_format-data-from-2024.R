@@ -45,11 +45,11 @@ points <- read_points(here::here("data/raw/em export/")) %>%
   glimpse()
 
 maxn_points <- points %>% 
-  dplyr::group_by(campaignid, sample, filename, periodtime, frame, family, genus, species, stage) %>% # If you have MaxN'd by stage (e.g. Adult, Juvenile) add stage here
+  dplyr::group_by(campaignid, sample, filename, periodtime, frame, family, genus, species) %>% # If you have MaxN'd by stage (e.g. Adult, Juvenile) add stage here
   dplyr::mutate(number = as.numeric(number)) %>%
   dplyr::summarise(maxn = sum(number)) %>%
   dplyr::ungroup() %>%
-  dplyr::group_by(campaignid, sample, family, genus, species, stage) %>%
+  dplyr::group_by(campaignid, sample, family, genus, species) %>%
   dplyr::slice(which.max(maxn)) %>%
   dplyr::ungroup() %>%
   dplyr::filter(!is.na(maxn)) %>%
@@ -60,7 +60,7 @@ maxn_points <- points %>%
   dplyr::inner_join(metadata, by = join_by(campaignid, sample)) %>%
   dplyr::filter(successful_count %in% c("Yes")) %>% 
   dplyr::filter(maxn > 0) %>%
-  dplyr::select(campaignid, sample, family, genus, species, maxn, stage) %>%
+  dplyr::select(campaignid, sample, family, genus, species, maxn) %>%
   dplyr::glimpse()
 
 maxn <- bind_rows(get0("maxn_points"), get0("maxn_counts")) # this works even if you only have one type of data
@@ -110,10 +110,8 @@ count <- maxn %>%
   dplyr::select(campaignid, sample, scientific, count)%>%
   spread(scientific, count, fill = 0)
 
-
-
-
 count_families <- maxn %>%
+  dplyr::mutate(genus = ifelse(genus %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(genus))) %>%
   dplyr::mutate(scientific = paste(family, genus, species, sep = " ")) %>%
   filter(!(family %in% "Unknown")) %>%
   dplyr::select(c(family, genus, species, scientific)) %>%
@@ -124,6 +122,7 @@ complete_count <- count %>%
                cols = 3:ncol(.)) %>%
   inner_join(count_families, by = c("scientific")) %>%
   full_join(metadata)%>%
+  filter(successful_count %in% "Yes") %>%
   glimpse()
 
 complete_length <- length %>%
@@ -246,6 +245,17 @@ message(paste(total_count, "fish counted in the count data"))
 
 total_length <- sum(complete_length$number)
 message(paste(total_length, "fish counted in the length data"))
+
+length.vs.maxn <- complete_length %>%
+  dplyr::group_by(campaignid, sample, family, genus, species) %>%
+  dplyr::summarise(length_maxn = sum(number)) %>%
+  dplyr::ungroup() %>%
+  dplyr::full_join(complete_count) %>%
+  tidyr::replace_na(list(length_maxn = 0)) %>%
+  filter(!length_maxn %in% count) %>%
+  glimpse()
+
+message(paste(nrow(length.vs.maxn), "MaxN fish not measured for length"))
 
 points_without_number <- points %>%
   filter(number %in% c("NA", NA, 0, NULL, "", " "))
@@ -370,7 +380,8 @@ glimpse(over_rms)
 precision_limit <- 10 # in %
 
 over_precision <- complete_length %>%
-  dplyr::filter(as.numeric(precision) > precision_limit)
+  dplyr::mutate(precision_percent = (precision/length_mm) *100) %>%
+  dplyr::filter(precision_percent > precision_limit)
 
 message(paste(nrow(over_precision), "lengths over precision limit"))
 glimpse(over_precision)
