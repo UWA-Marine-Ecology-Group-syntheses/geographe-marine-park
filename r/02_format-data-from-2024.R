@@ -45,11 +45,11 @@ points <- read_points(here::here("data/raw/em export/")) %>%
   glimpse()
 
 maxn_points <- points %>% 
-  dplyr::group_by(campaignid, sample, filename, periodtime, frame, family, genus, species) %>% # If you have MaxN'd by stage (e.g. Adult, Juvenile) add stage here
+  dplyr::group_by(campaignid, sample, filename, periodtime, frame, family, genus, species, stage) %>% # If you have MaxN'd by stage (e.g. Adult, Juvenile) add stage here
   dplyr::mutate(number = as.numeric(number)) %>%
   dplyr::summarise(maxn = sum(number)) %>%
   dplyr::ungroup() %>%
-  dplyr::group_by(campaignid, sample, family, genus, species) %>%
+  dplyr::group_by(campaignid, sample, family, genus, species, stage) %>%
   dplyr::slice(which.max(maxn)) %>%
   dplyr::ungroup() %>%
   dplyr::filter(!is.na(maxn)) %>%
@@ -60,7 +60,7 @@ maxn_points <- points %>%
   dplyr::inner_join(metadata, by = join_by(campaignid, sample)) %>%
   dplyr::filter(successful_count %in% c("Yes")) %>% 
   dplyr::filter(maxn > 0) %>%
-  dplyr::select(campaignid, sample, family, genus, species, maxn) %>%
+  dplyr::select(campaignid, sample, family, genus, species, maxn, stage) %>%
   dplyr::glimpse()
 
 maxn <- bind_rows(get0("maxn_points"), get0("maxn_counts")) # this works even if you only have one type of data
