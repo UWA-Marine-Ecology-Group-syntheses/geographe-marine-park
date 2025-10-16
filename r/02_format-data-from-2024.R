@@ -10,6 +10,8 @@ library(here)
 
 name <- "2024-04_Geographe_stereo-BRUVs"
 
+
+# Read in metadata
 metadata <- read_metadata(here::here("data/raw/em export/"), method = "BRUVs") %>% # Change here to "DOVs"
   dplyr::select(campaignid, sample, 
                 status, 
@@ -41,6 +43,8 @@ metadata <- st_join(metadata_sf, regions, join = st_nearest_feature) %>%
   dplyr::select(-c(geometry)) %>%
   glimpse()
 
+
+# Read in the count and length data
 points <- read_points(here::here("data/raw/em export/")) %>%
   glimpse()
 
@@ -72,30 +76,13 @@ em_length3dpoints <- read_em_length(here::here("data/raw/em export/")) %>%
   # dplyr::rename(length_mm = length) %>%
   glimpse() 
 
-# Format data for upload to GA
-codes <- australia_life_history %>%
-  dplyr::select(family, genus, species, caab_code)
-
-count_upload <- maxn %>%
-  dplyr::mutate(family = ifelse(family %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(family))) %>%
-  dplyr::mutate(genus = ifelse(genus %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(genus))) %>%
-  dplyr::mutate(species = ifelse(species %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "spp", as.character(species))) %>%
-  dplyr::rename(count = maxn) %>%
-  left_join(codes)
-
-length_upload <- em_length3dpoints %>%
-  left_join(codes) %>%
-  dplyr::rename(rms_mm = rms, range_mm = range, precision_mm = precision)
-  
-write_csv(count_upload, paste0("data/uploads/", name, "_count.csv"))
-write_csv(length_upload, paste0("data/uploads/", name, "_length.csv"))
-
-
 # If only EventMeasure data then length only includes Length and 3D points data
 # If only Generic data then length only includes generic length data
 # If both exist, then length includes both Length and 3D points and generic length data
 length <- bind_rows(get0("em_length3dpoints"), get0("gen_length")) # this works even if you only have one type of data
 
+
+# Format data for checks
 count <- maxn %>%
   dplyr::mutate(family = ifelse(family %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(family))) %>%
   dplyr::mutate(genus = ifelse(genus %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(genus))) %>%
@@ -147,6 +134,8 @@ complete_length <- length %>%
   left_join(., metadata) %>%
   glimpse()
 
+
+# Check data
 number_of_samples <- metadata %>%
   dplyr::distinct(campaignid, sample)
 
@@ -400,3 +389,41 @@ saveRDS(complete_count,
 saveRDS(complete_length,
         file = here::here(paste0("data/staging/",
                                  name, "_complete-length.rds")))
+
+# Format data for upload to GA and final checks
+codes <- australia_life_history %>%
+  dplyr::select(family, genus, species, caab_code)
+
+count_upload <- maxn %>%
+  dplyr::mutate(family = ifelse(family %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(family))) %>%
+  dplyr::mutate(genus = ifelse(genus %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(genus))) %>%
+  dplyr::mutate(species = ifelse(species %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "spp", as.character(species))) %>%
+  {message(paste(length(which(.$family %in% "Unknown")), "rows removed because family is 'Unknown'"));
+    .} %>%
+  dplyr::filter(!family %in% "Unknown")%>%
+  dplyr::rename(count = maxn) %>%
+  left_join(codes)
+
+length_upload <- em_length3dpoints %>% # This includes only EM data, not generic length
+  dplyr::mutate(family = ifelse(family %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(family))) %>%
+  dplyr::mutate(genus = ifelse(genus %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(genus))) %>%
+  dplyr::mutate(species = ifelse(species %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "spp", as.character(species))) %>%
+  {message(paste(length(which(.$family %in% "Unknown")), "rows removed because family is 'Unknown'"));
+    .} %>%
+  dplyr::filter(!family %in% "Unknown")%>%
+  left_join(codes) %>%
+  dplyr::rename(rms_mm = rms, range_mm = range, precision_mm = precision, count = number)
+
+# Check missing caab codes (okay if from sp, sp1 etc.)
+n_no_caab_count <- length(count_upload$species[which(is.na(count_upload$caab_code))])
+sp_no_caab_count <- unique(count_upload$species[which(is.na(count_upload$caab_code))])
+n_no_caab_length <- length(length_upload$species[which(is.na(length_upload$caab_code))])
+sp_no_caab_length <- unique(length_upload$species[which(is.na(length_upload$caab_code))])
+
+message(paste(n_no_caab_count, "count rows without caab codes from species:", paste(sp_no_caab_count, collapse = ", ")))
+message(paste(n_no_caab_length, "length rows without caab codes from species:", paste(sp_no_caab_length, collapse = ", ")))
+
+# Save GA upload data
+write_csv(count_upload, paste0("data/uploads/", name, "_count.csv"))
+write_csv(length_upload, paste0("data/uploads/", name, "_length.csv"))
+
