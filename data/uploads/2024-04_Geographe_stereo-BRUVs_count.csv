@@ -19,7 +19,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-002,Labridae,Coris,auricularis,7,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-002,Labridae,Eupetrichthys,angustipes,1,AD,37384105
 2024-04_Geographe_stereo-BRUVs,GB-BV-002,Loliginidae,Sepioteuthis,australis,2,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-002,Monacanthidae,Acanthaluteres,sp1,8,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-002,Monacanthidae,Acanthaluteres,spp,8,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-002,Monacanthidae,Unknown,spp,3,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-002,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-002,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -38,7 +38,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-004,Carangidae,Trachurus,novaezelandiae,5,AD,37337003
 2024-04_Geographe_stereo-BRUVs,GB-BV-004,Dasyatidae,Bathytoshia,brevicaudata,1,AD,37035001
 2024-04_Geographe_stereo-BRUVs,GB-BV-004,Gerreidae,Parequula,melbournensis,1,AD,37349001
-2024-04_Geographe_stereo-BRUVs,GB-BV-004,Monacanthidae,Acanthaluteres,sp1,3,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-004,Monacanthidae,Acanthaluteres,spp,3,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-004,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-004,Monacanthidae,Scobinichthys,granulatus,4,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-004,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -73,7 +73,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-006,Labridae,Austrolabrus,maculatus,1,AD,37384025
 2024-04_Geographe_stereo-BRUVs,GB-BV-006,Labridae,Coris,auricularis,3,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-006,Labridae,Ophthalmolepis,lineolatus,2,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-006,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-006,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-006,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-006,Monacanthidae,Unknown,spp,15,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-006,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -83,7 +83,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-007,Arripidae,Arripis,georgianus,1,AD,37344001
 2024-04_Geographe_stereo-BRUVs,GB-BV-007,Gerreidae,Parequula,melbournensis,37,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-007,Heterodontidae,Heterodontus,portusjacksoni,1,AD,37007001
-2024-04_Geographe_stereo-BRUVs,GB-BV-007,Monacanthidae,Acanthaluteres,sp1,18,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-007,Monacanthidae,Acanthaluteres,spp,18,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-007,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-007,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-007,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -199,7 +199,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-015,Labridae,Coris,auricularis,9,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-015,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-015,Labridae,Ophthalmolepis,lineolatus,2,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-015,Monacanthidae,Acanthaluteres,sp1,82,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-015,Monacanthidae,Acanthaluteres,spp,82,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-015,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-015,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-015,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -251,7 +251,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-018,Labridae,Ophthalmolepis,lineolatus,3,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-018,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-018,Microcanthidae,Neatypus,obliquus,1,AD,37361002
-2024-04_Geographe_stereo-BRUVs,GB-BV-018,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-018,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-018,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-018,Monacanthidae,Unknown,spp,2,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-018,Mullidae,Upeneichthys,vlamingii,3,AD,37355029
@@ -301,7 +301,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-021,Neosebastidae,Neosebastes,bougainvillii,1,AD,37287004
 2024-04_Geographe_stereo-BRUVs,GB-BV-021,Pomacentridae,Chromis,klunzingeri,134,AD,37372044
 2024-04_Geographe_stereo-BRUVs,GB-BV-021,Pomacentridae,Chromis,westaustralis,1,AD,37372055
-2024-04_Geographe_stereo-BRUVs,GB-BV-021,Serranidae,Caesioperca,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-021,Serranidae,Caesioperca,spp,2,AD,37311919
 2024-04_Geographe_stereo-BRUVs,GB-BV-021,Serranidae,Epinephelides,armatus,1,AD,37311100
 2024-04_Geographe_stereo-BRUVs,GB-BV-021,Serranidae,Hypoplectrodes,nigroruber,2,AD,37311037
 2024-04_Geographe_stereo-BRUVs,GB-BV-021,Sparidae,Chrysophrys,auratus,6,AD,37353001
@@ -321,7 +321,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-023,Labridae,Ophthalmolepis,lineolatus,3,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-023,Labridae,Siphonognathus,spp,12,AD,37385905
 2024-04_Geographe_stereo-BRUVs,GB-BV-023,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-023,Monacanthidae,Acanthaluteres,sp1,49,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-023,Monacanthidae,Acanthaluteres,spp,49,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-023,Monacanthidae,Meuschenia,freycineti,2,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-023,Monacanthidae,Scobinichthys,granulatus,9,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-023,Mullidae,Upeneichthys,vlamingii,5,AD,37355029
@@ -363,7 +363,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-026,Labridae,Austrolabrus,maculatus,4,AD,37384025
 2024-04_Geographe_stereo-BRUVs,GB-BV-026,Labridae,Coris,auricularis,5,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-026,Labridae,Notolabrus,parilus,3,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-026,Labridae,Notolabrus,sp2,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-026,Labridae,Notolabrus,spp,2,AD,37384929
 2024-04_Geographe_stereo-BRUVs,GB-BV-026,Labridae,Ophthalmolepis,lineolatus,5,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-026,Labridae,Siphonognathus,spp,1,AD,37385905
 2024-04_Geographe_stereo-BRUVs,GB-BV-026,Microcanthidae,Neatypus,obliquus,17,AD,37361002
@@ -387,7 +387,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-027,Labridae,Ophthalmolepis,lineolatus,2,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-027,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-027,Loliginidae,Sepioteuthis,australis,2,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-027,Monacanthidae,Acanthaluteres,sp1,10,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-027,Monacanthidae,Acanthaluteres,spp,10,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-027,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-027,Monacanthidae,Scobinichthys,granulatus,8,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-027,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -402,7 +402,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Labridae,Coris,auricularis,6,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Labridae,Notolabrus,parilus,3,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-028,Monacanthidae,Acanthaluteres,sp1,35,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-028,Monacanthidae,Acanthaluteres,spp,35,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Monacanthidae,Scobinichthys,granulatus,7,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Mullidae,Upeneichthys,vlamingii,4,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Sphyraenidae,Sphyraena,novaehollandiae,3,AD,37382002
@@ -431,7 +431,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-031,Apogonidae,Ostorhinchus,rueppellii,2,AD,37327040
 2024-04_Geographe_stereo-BRUVs,GB-BV-031,Arripidae,Arripis,georgianus,9,AD,37344001
 2024-04_Geographe_stereo-BRUVs,GB-BV-031,Gerreidae,Parequula,melbournensis,2,AD,37349001
-2024-04_Geographe_stereo-BRUVs,GB-BV-031,Monacanthidae,Acanthaluteres,sp1,72,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-031,Monacanthidae,Acanthaluteres,spp,72,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-031,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-031,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-031,Sillaginidae,Sillaginodes,punctatus,1,AD,37330001
@@ -481,7 +481,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-035,Gerreidae,Parequula,melbournensis,1,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-035,Labridae,Coris,auricularis,1,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-035,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-035,Monacanthidae,Acanthaluteres,sp1,54,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-035,Monacanthidae,Acanthaluteres,spp,54,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-035,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-035,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-035,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -558,7 +558,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-042,Gerreidae,Parequula,melbournensis,1,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-042,Labridae,Coris,auricularis,1,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-042,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-042,Monacanthidae,Acanthaluteres,sp1,86,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-042,Monacanthidae,Acanthaluteres,spp,86,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-042,Monacanthidae,Scobinichthys,granulatus,8,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-042,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-042,Sillaginidae,Sillaginodes,punctatus,1,AD,37330001
@@ -589,7 +589,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-045,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-045,Labridae,Ophthalmolepis,lineolatus,6,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-045,Labridae,Pseudolabrus,biserialis,1,AD,37384149
-2024-04_Geographe_stereo-BRUVs,GB-BV-045,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-045,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-045,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-045,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-045,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -691,10 +691,10 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-051,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-051,Labridae,Ophthalmolepis,lineolatus,6,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-051,Labridae,Pseudolabrus,biserialis,1,AD,37384149
-2024-04_Geographe_stereo-BRUVs,GB-BV-051,Labridae,Unknown,sp2,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-051,Labridae,Unknown,spp,1,AD,37384900
 2024-04_Geographe_stereo-BRUVs,GB-BV-051,Microcanthidae,Neatypus,obliquus,15,AD,37361002
 2024-04_Geographe_stereo-BRUVs,GB-BV-051,Microcanthidae,Tilodon,sexfasciatus,1,AD,37361003
-2024-04_Geographe_stereo-BRUVs,GB-BV-051,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-051,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-051,Monacanthidae,Meuschenia,galii,1,AD,37465040
 2024-04_Geographe_stereo-BRUVs,GB-BV-051,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-051,Monacanthidae,Unknown,spp,1,AD,37465903
@@ -741,7 +741,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-054,Labridae,Eupetrichthys,angustipes,1,AD,37384105
 2024-04_Geographe_stereo-BRUVs,GB-BV-054,Labridae,Halichoeres,brownfieldi,3,AD,37384108
 2024-04_Geographe_stereo-BRUVs,GB-BV-054,Labridae,Ophthalmolepis,lineolatus,2,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-054,Monacanthidae,Acanthaluteres,sp1,19,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-054,Monacanthidae,Acanthaluteres,spp,19,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-054,Mullidae,Upeneichthys,stotti,1,AD,37355030
 2024-04_Geographe_stereo-BRUVs,GB-BV-054,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-054,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -791,7 +791,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-058,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-058,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-058,Labridae,Unknown,spp,1,AD,37384900
-2024-04_Geographe_stereo-BRUVs,GB-BV-058,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-058,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-058,Monacanthidae,Scobinichthys,granulatus,4,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-058,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-058,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -819,7 +819,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-061,Gerreidae,Parequula,melbournensis,6,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-061,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-061,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-061,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-061,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-061,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-061,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-061,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -836,7 +836,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-062,Labridae,Heteroscarus,acroptilus,1,AD,37385010
 2024-04_Geographe_stereo-BRUVs,GB-BV-062,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-062,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-062,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-062,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-062,Monacanthidae,Unknown,spp,50,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-062,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -851,7 +851,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-063,Gerreidae,Parequula,melbournensis,22,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-063,Labridae,Coris,auricularis,1,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-063,Labridae,Eupetrichthys,angustipes,2,AD,37384105
-2024-04_Geographe_stereo-BRUVs,GB-BV-063,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-063,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-063,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-063,Mullidae,Upeneichthys,stotti,4,AD,37355030
 2024-04_Geographe_stereo-BRUVs,GB-BV-063,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -938,7 +938,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-070,Carangidae,Trachurus,novaezelandiae,2,AD,37337003
 2024-04_Geographe_stereo-BRUVs,GB-BV-070,Heterodontidae,Heterodontus,portusjacksoni,1,AD,37007001
 2024-04_Geographe_stereo-BRUVs,GB-BV-070,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-070,Monacanthidae,Acanthaluteres,sp1,12,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-070,Monacanthidae,Acanthaluteres,spp,12,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-070,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-070,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-070,Sepiidae,Sepia,apama,1,AD,23607001
@@ -990,7 +990,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-074,Labridae,Coris,auricularis,15,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-074,Labridae,Haletta,semifasciata,1,AD,37385009
 2024-04_Geographe_stereo-BRUVs,GB-BV-074,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-074,Monacanthidae,Acanthaluteres,sp1,15,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-074,Monacanthidae,Acanthaluteres,spp,15,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-074,Monacanthidae,Scobinichthys,granulatus,13,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-074,Mullidae,Upeneichthys,vlamingii,3,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-074,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -1028,7 +1028,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Labridae,Eupetrichthys,angustipes,1,AD,37384105
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Labridae,Siphonognathus,spp,6,AD,37385905
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Labridae,Unknown,spp,1,AD,37384900
-2024-04_Geographe_stereo-BRUVs,GB-BV-077,Monacanthidae,Acanthaluteres,sp1,9,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-077,Monacanthidae,Acanthaluteres,spp,9,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Pinguipedidae,Parapercis,haackei,1,AD,37390004
@@ -1085,7 +1085,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-081,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-081,Labridae,Unknown,spp,1,AD,37384900
 2024-04_Geographe_stereo-BRUVs,GB-BV-081,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-081,Monacanthidae,Acanthaluteres,sp1,13,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-081,Monacanthidae,Acanthaluteres,spp,13,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-081,Monacanthidae,Eubalichthys,cyanoura,1,AD,37465055
 2024-04_Geographe_stereo-BRUVs,GB-BV-081,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-081,Monacanthidae,Unknown,spp,1,AD,37465903
@@ -1142,7 +1142,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-086,Aracanidae,Aracana,aurita,1,AD,37466003
 2024-04_Geographe_stereo-BRUVs,GB-BV-086,Gerreidae,Parequula,melbournensis,33,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-086,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-086,Monacanthidae,Acanthaluteres,sp1,64,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-086,Monacanthidae,Acanthaluteres,spp,64,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-086,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-086,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-086,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -1160,7 +1160,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-087,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-087,Labridae,Siphonognathus,spp,1,AD,37385905
 2024-04_Geographe_stereo-BRUVs,GB-BV-087,Loliginidae,Sepioteuthis,australis,4,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-087,Monacanthidae,Acanthaluteres,sp1,36,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-087,Monacanthidae,Acanthaluteres,spp,36,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-087,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-087,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-087,Mullidae,Upeneichthys,vlamingii,3,AD,37355029
@@ -1192,7 +1192,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-090,Labridae,Ophthalmolepis,lineolatus,3,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-090,Loliginidae,Sepioteuthis,australis,3,AD,23617005
 2024-04_Geographe_stereo-BRUVs,GB-BV-090,Microcanthidae,Neatypus,obliquus,4,AD,37361002
-2024-04_Geographe_stereo-BRUVs,GB-BV-090,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-090,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-090,Monacanthidae,Brachaluteres,jacksonianus,1,AD,37465025
 2024-04_Geographe_stereo-BRUVs,GB-BV-090,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-090,Pinguipedidae,Parapercis,haackei,2,AD,37390004
@@ -1236,7 +1236,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-094,Labridae,Ophthalmolepis,lineolatus,4,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-094,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-094,Loliginidae,Sepioteuthis,australis,2,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-094,Monacanthidae,Acanthaluteres,sp1,8,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-094,Monacanthidae,Acanthaluteres,spp,8,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-094,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-094,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-094,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -1254,7 +1254,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-095,Labridae,Eupetrichthys,angustipes,1,AD,37384105
 2024-04_Geographe_stereo-BRUVs,GB-BV-095,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-095,Labridae,Ophthalmolepis,lineolatus,4,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-095,Monacanthidae,Acanthaluteres,sp1,8,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-095,Monacanthidae,Acanthaluteres,spp,8,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-095,Mullidae,Upeneichthys,vlamingii,3,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-095,Myliobatidae,Myliobatis,tenuicaudatus,2,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-095,Pinguipedidae,Parapercis,haackei,1,AD,37390004
@@ -1281,7 +1281,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-097,Labridae,Eupetrichthys,angustipes,1,AD,37384105
 2024-04_Geographe_stereo-BRUVs,GB-BV-097,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-097,Labridae,Ophthalmolepis,lineolatus,2,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-097,Monacanthidae,Acanthaluteres,sp1,183,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-097,Monacanthidae,Acanthaluteres,spp,183,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-097,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-097,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-097,Monacanthidae,Unknown,spp,43,AD,37465903
@@ -1339,7 +1339,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-101,Labridae,Halichoeres,brownfieldi,1,AD,37384108
 2024-04_Geographe_stereo-BRUVs,GB-BV-101,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-101,Loliginidae,Sepioteuthis,australis,2,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-101,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-101,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-101,Monacanthidae,Scobinichthys,granulatus,3,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-101,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-101,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -1356,7 +1356,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-102,Labridae,Ophthalmolepis,lineolatus,5,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-102,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-102,Microcanthidae,Neatypus,obliquus,4,AD,37361002
-2024-04_Geographe_stereo-BRUVs,GB-BV-102,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-102,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-102,Monacanthidae,Meuschenia,flavolineata,1,AD,37465035
 2024-04_Geographe_stereo-BRUVs,GB-BV-102,Monacanthidae,Meuschenia,scabra,1,AD,37465005
 2024-04_Geographe_stereo-BRUVs,GB-BV-102,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
@@ -1401,7 +1401,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-105,Gerreidae,Parequula,melbournensis,11,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-105,Labridae,Coris,auricularis,2,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-105,Labridae,Siphonognathus,attenuatus,3,AD,37385004
-2024-04_Geographe_stereo-BRUVs,GB-BV-105,Monacanthidae,Acanthaluteres,sp1,5,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-105,Monacanthidae,Acanthaluteres,spp,5,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-105,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-105,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-105,Sparidae,Chrysophrys,auratus,1,AD,37353001
@@ -1460,7 +1460,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-109,Pinguipedidae,Parapercis,haackei,1,AD,37390004
 2024-04_Geographe_stereo-BRUVs,GB-BV-109,Plesiopidae,Trachinops,noarlungae,33,AD,37316017
 2024-04_Geographe_stereo-BRUVs,GB-BV-109,Pomacentridae,Chromis,klunzingeri,23,AD,37372044
-2024-04_Geographe_stereo-BRUVs,GB-BV-109,Serranidae,Caesioperca,sp1,4,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-109,Serranidae,Caesioperca,spp,4,AD,37311919
 2024-04_Geographe_stereo-BRUVs,GB-BV-109,Serranidae,Hypoplectrodes,nigroruber,1,AD,37311037
 2024-04_Geographe_stereo-BRUVs,GB-BV-109,Sparidae,Chrysophrys,auratus,6,AD,37353001
 2024-04_Geographe_stereo-BRUVs,GB-BV-109,Triakidae,Mustelus,antarcticus,1,AD,37017001
@@ -1511,7 +1511,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-113,Neosebastidae,Neosebastes,pandus,1,AD,37287003
 2024-04_Geographe_stereo-BRUVs,GB-BV-113,Pinguipedidae,Parapercis,haackei,2,AD,37390004
 2024-04_Geographe_stereo-BRUVs,GB-BV-113,Pomacentridae,Chromis,klunzingeri,1,AD,37372044
-2024-04_Geographe_stereo-BRUVs,GB-BV-113,Serranidae,Caesioperca,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-113,Serranidae,Caesioperca,spp,1,AD,37311919
 2024-04_Geographe_stereo-BRUVs,GB-BV-113,Sparidae,Chrysophrys,auratus,3,AD,37353001
 2024-04_Geographe_stereo-BRUVs,GB-BV-113,Trygonorrhinidae,Trygonorrhina,dumerilii,1,AD,37027011
 2024-04_Geographe_stereo-BRUVs,GB-BV-114,Aracanidae,Anoplocapros,amygdaloides,1,AD,37466015
@@ -1530,7 +1530,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-115,Labridae,Austrolabrus,maculatus,1,AD,37384025
 2024-04_Geographe_stereo-BRUVs,GB-BV-115,Labridae,Notolabrus,parilus,3,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-115,Labridae,Ophthalmolepis,lineolatus,4,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-115,Monacanthidae,Acanthaluteres,sp1,87,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-115,Monacanthidae,Acanthaluteres,spp,87,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-115,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-115,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-115,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -1546,7 +1546,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-116,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-116,Labridae,Ophthalmolepis,lineolatus,4,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-116,Labridae,Unknown,spp,1,AD,37384900
-2024-04_Geographe_stereo-BRUVs,GB-BV-116,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-116,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-116,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-116,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-116,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -1581,7 +1581,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-119,Carangidae,Unknown,spp,11,AD,37337000
 2024-04_Geographe_stereo-BRUVs,GB-BV-119,Gerreidae,Parequula,melbournensis,30,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-119,Labridae,Coris,auricularis,10,AD,37384088
-2024-04_Geographe_stereo-BRUVs,GB-BV-119,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-119,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-119,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-119,Platycephalidae,Platycephalus,spp,2,AD,37296913
 2024-04_Geographe_stereo-BRUVs,GB-BV-119,Trygonorrhinidae,Trygonorrhina,dumerilii,1,AD,37027011
@@ -1637,7 +1637,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-123,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-123,Labridae,Ophthalmolepis,lineolatus,5,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-123,Labridae,Pictilabrus,laticlavius,1,AD,37384020
-2024-04_Geographe_stereo-BRUVs,GB-BV-123,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-123,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-123,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-123,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-123,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -1741,7 +1741,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-131,Labridae,Olisthops,cyanomelas,1,AD,37385001
 2024-04_Geographe_stereo-BRUVs,GB-BV-131,Labridae,Ophthalmolepis,lineolatus,3,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-131,Labridae,Pictilabrus,laticlavius,1,AD,37384020
-2024-04_Geographe_stereo-BRUVs,GB-BV-131,Monacanthidae,Acanthaluteres,sp1,10,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-131,Monacanthidae,Acanthaluteres,spp,10,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-131,Monacanthidae,Meuschenia,galii,1,AD,37465040
 2024-04_Geographe_stereo-BRUVs,GB-BV-131,Monacanthidae,Scobinichthys,granulatus,3,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-131,Monacanthidae,Unknown,spp,10,AD,37465903
@@ -1760,7 +1760,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-132,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-132,Labridae,Ophthalmolepis,lineolatus,6,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-132,Labridae,Pictilabrus,laticlavius,2,AD,37384020
-2024-04_Geographe_stereo-BRUVs,GB-BV-132,Monacanthidae,Acanthaluteres,sp1,24,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-132,Monacanthidae,Acanthaluteres,spp,24,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-132,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-132,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-132,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -1777,7 +1777,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-133,Labridae,Halichoeres,brownfieldi,1,AD,37384108
 2024-04_Geographe_stereo-BRUVs,GB-BV-133,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-133,Labridae,Ophthalmolepis,lineolatus,10,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-133,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-133,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-133,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-133,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-133,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -1827,7 +1827,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-137,Gerreidae,Parequula,melbournensis,4,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-137,Labridae,Coris,auricularis,1,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-137,Labridae,Notolabrus,parilus,2,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-137,Monacanthidae,Acanthaluteres,sp1,12,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-137,Monacanthidae,Acanthaluteres,spp,12,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-137,Monacanthidae,Scobinichthys,granulatus,3,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-137,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-137,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -1874,7 +1874,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-140,Labridae,Halichoeres,brownfieldi,3,AD,37384108
 2024-04_Geographe_stereo-BRUVs,GB-BV-140,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-140,Labridae,Ophthalmolepis,lineolatus,9,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-140,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-140,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-140,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-140,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-140,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -1955,7 +1955,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-144,Labridae,Siphonognathus,caninis,1,AD,37385011
 2024-04_Geographe_stereo-BRUVs,GB-BV-144,Labridae,Unknown,spp,1,AD,37384900
 2024-04_Geographe_stereo-BRUVs,GB-BV-144,Microcanthidae,Neatypus,obliquus,5,AD,37361002
-2024-04_Geographe_stereo-BRUVs,GB-BV-144,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-144,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-144,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-144,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-144,Pinguipedidae,Parapercis,haackei,1,AD,37390004
@@ -1995,7 +1995,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-147,Labridae,Ophthalmolepis,lineolatus,6,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-147,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-147,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-147,Monacanthidae,Acanthaluteres,sp1,12,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-147,Monacanthidae,Acanthaluteres,spp,12,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-147,Monacanthidae,Meuschenia,galii,1,AD,37465040
 2024-04_Geographe_stereo-BRUVs,GB-BV-147,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-147,Monacanthidae,Unknown,spp,4,AD,37465903
@@ -2014,7 +2014,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-148,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-148,Labridae,Ophthalmolepis,lineolatus,3,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-148,Labridae,Pictilabrus,laticlavius,1,AD,37384020
-2024-04_Geographe_stereo-BRUVs,GB-BV-148,Monacanthidae,Acanthaluteres,sp1,9,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-148,Monacanthidae,Acanthaluteres,spp,9,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-148,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-148,Mullidae,Upeneichthys,vlamingii,3,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-148,Orectolobidae,Orectolobus,halei,1,AD,37013020
@@ -2028,7 +2028,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-149,Labridae,Coris,auricularis,32,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-149,Labridae,Eupetrichthys,angustipes,3,AD,37384105
 2024-04_Geographe_stereo-BRUVs,GB-BV-149,Labridae,Siphonognathus,spp,2,AD,37385905
-2024-04_Geographe_stereo-BRUVs,GB-BV-149,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-149,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-149,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-149,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-149,Sparidae,Chrysophrys,auratus,3,AD,37353001
@@ -2085,7 +2085,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-153,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-153,Labridae,Unknown,spp,2,AD,37384900
 2024-04_Geographe_stereo-BRUVs,GB-BV-153,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-153,Monacanthidae,Acanthaluteres,sp1,6,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-153,Monacanthidae,Acanthaluteres,spp,6,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-153,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-153,Myliobatidae,Myliobatis,tenuicaudatus,3,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-153,Nemipteridae,Pentapodus,vitta,1,AD,37347022
@@ -2124,7 +2124,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-156,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-156,Labridae,Ophthalmolepis,lineolatus,4,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-156,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-156,Monacanthidae,Acanthaluteres,sp1,55,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-156,Monacanthidae,Acanthaluteres,spp,55,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-156,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-156,Mullidae,Upeneichthys,vlamingii,4,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-156,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -2142,7 +2142,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-157,Mullidae,Upeneichthys,stotti,2,AD,37355030
 2024-04_Geographe_stereo-BRUVs,GB-BV-157,Myliobatidae,Myliobatis,tenuicaudatus,2,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-157,Pomacentridae,Chromis,klunzingeri,6,AD,37372044
-2024-04_Geographe_stereo-BRUVs,GB-BV-157,Serranidae,Caesioperca,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-157,Serranidae,Caesioperca,spp,1,AD,37311919
 2024-04_Geographe_stereo-BRUVs,GB-BV-157,Serranidae,Hypoplectrodes,nigroruber,3,AD,37311037
 2024-04_Geographe_stereo-BRUVs,GB-BV-157,Sparidae,Chrysophrys,auratus,3,AD,37353001
 2024-04_Geographe_stereo-BRUVs,GB-BV-157,Triakidae,Furgaleus,macki,1,AD,37017003
@@ -2176,7 +2176,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-160,Labridae,Coris,auricularis,2,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-160,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-160,Labridae,Siphonognathus,spp,3,AD,37385905
-2024-04_Geographe_stereo-BRUVs,GB-BV-160,Monacanthidae,Acanthaluteres,sp1,14,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-160,Monacanthidae,Acanthaluteres,spp,14,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-160,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-160,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-160,Sparidae,Chrysophrys,auratus,1,AD,37353001
@@ -2218,7 +2218,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-163,Carangidae,Pseudocaranx,spp,1,AD,37337924
 2024-04_Geographe_stereo-BRUVs,GB-BV-163,Gerreidae,Parequula,melbournensis,6,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-163,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-163,Monacanthidae,Acanthaluteres,sp1,4,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-163,Monacanthidae,Acanthaluteres,spp,4,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-163,Monacanthidae,Scobinichthys,granulatus,3,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-163,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-163,Sillaginidae,Sillaginodes,punctatus,2,AD,37330001
@@ -2250,7 +2250,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-165,Gerreidae,Parequula,melbournensis,1,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-165,Labridae,Heteroscarus,acroptilus,1,AD,37385010
 2024-04_Geographe_stereo-BRUVs,GB-BV-165,Labridae,Notolabrus,parilus,2,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-165,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-165,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-165,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-165,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-165,Sparidae,Chrysophrys,auratus,5,AD,37353001
@@ -2281,7 +2281,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-167,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-167,Labridae,Ophthalmolepis,lineolatus,5,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-167,Loliginidae,Sepioteuthis,australis,2,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-167,Monacanthidae,Acanthaluteres,sp1,15,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-167,Monacanthidae,Acanthaluteres,spp,15,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-167,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-167,Monacanthidae,Scobinichthys,granulatus,10,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-167,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -2297,7 +2297,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-168,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-168,Labridae,Ophthalmolepis,lineolatus,5,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-168,Loliginidae,Sepioteuthis,australis,2,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-168,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-168,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-168,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-168,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-168,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -2311,7 +2311,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-169,Labridae,Coris,auricularis,12,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-169,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-169,Labridae,Ophthalmolepis,lineolatus,4,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-169,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-169,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-169,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-169,Mullidae,Upeneichthys,vlamingii,4,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-169,Sparidae,Chrysophrys,auratus,7,AD,37353001
@@ -2358,7 +2358,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-172,Labridae,Ophthalmolepis,lineolatus,5,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-172,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-172,Microcanthidae,Neatypus,obliquus,5,AD,37361002
-2024-04_Geographe_stereo-BRUVs,GB-BV-172,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-172,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-172,Mullidae,Upeneichthys,vlamingii,3,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-172,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-172,Pomacentridae,Chromis,klunzingeri,13,AD,37372044
@@ -2388,7 +2388,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-174,Labridae,Austrolabrus,maculatus,2,AD,37384025
 2024-04_Geographe_stereo-BRUVs,GB-BV-174,Labridae,Coris,auricularis,54,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-174,Labridae,Eupetrichthys,angustipes,2,AD,37384105
-2024-04_Geographe_stereo-BRUVs,GB-BV-174,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-174,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-174,Monacanthidae,Eubalichthys,mosaicus,1,AD,37465003
 2024-04_Geographe_stereo-BRUVs,GB-BV-174,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-174,Monacanthidae,Unknown,spp,1,AD,37465903
@@ -2402,7 +2402,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-175,Gerreidae,Parequula,melbournensis,2,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-175,Labridae,Coris,auricularis,2,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-175,Labridae,Notolabrus,parilus,2,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-175,Monacanthidae,Acanthaluteres,sp1,32,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-175,Monacanthidae,Acanthaluteres,spp,32,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-175,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-175,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-175,Nemipteridae,Pentapodus,vitta,5,AD,37347022
@@ -2422,7 +2422,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-176,Labridae,Ophthalmolepis,lineolatus,3,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-176,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-176,Microcanthidae,Neatypus,obliquus,2,AD,37361002
-2024-04_Geographe_stereo-BRUVs,GB-BV-176,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-176,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-176,Monacanthidae,Scobinichthys,granulatus,4,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-176,Monacanthidae,Unknown,spp,3,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-176,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -2529,7 +2529,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-186,Carangidae,Pseudocaranx,spp,2,AD,37337924
 2024-04_Geographe_stereo-BRUVs,GB-BV-186,Dasyatidae,Bathytoshia,brevicaudata,1,AD,37035001
 2024-04_Geographe_stereo-BRUVs,GB-BV-186,Gerreidae,Parequula,melbournensis,40,AD,37349001
-2024-04_Geographe_stereo-BRUVs,GB-BV-186,Monacanthidae,Acanthaluteres,sp1,23,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-186,Monacanthidae,Acanthaluteres,spp,23,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-186,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-186,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-186,Myliobatidae,Myliobatis,tenuicaudatus,2,AD,37039001
@@ -2602,7 +2602,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-192,Aracanidae,Anoplocapros,amygdaloides,1,AD,37466015
 2024-04_Geographe_stereo-BRUVs,GB-BV-192,Aracanidae,Aracana,aurita,1,AD,37466003
 2024-04_Geographe_stereo-BRUVs,GB-BV-192,Carangidae,Pseudocaranx,spp,6,AD,37337924
-2024-04_Geographe_stereo-BRUVs,GB-BV-192,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-192,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-192,Myliobatidae,Myliobatis,tenuicaudatus,2,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-192,Platycephalidae,Platycephalus,spp,4,AD,37296913
 2024-04_Geographe_stereo-BRUVs,GB-BV-192,Trygonorrhinidae,Trygonorrhina,dumerilii,1,AD,37027011
@@ -2626,7 +2626,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-194,Labridae,Ophthalmolepis,lineolatus,2,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-194,Labridae,Siphonognathus,spp,1,AD,37385905
 2024-04_Geographe_stereo-BRUVs,GB-BV-194,Loliginidae,Sepioteuthis,australis,2,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-194,Monacanthidae,Acanthaluteres,sp1,8,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-194,Monacanthidae,Acanthaluteres,spp,8,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-194,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-194,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-194,Mullidae,Upeneichthys,vlamingii,4,AD,37355029
@@ -2651,7 +2651,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-196,Labridae,Eupetrichthys,angustipes,1,AD,37384105
 2024-04_Geographe_stereo-BRUVs,GB-BV-196,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-196,Monacanthidae,Acanthaluteres,brownii,2,AD,37465001
-2024-04_Geographe_stereo-BRUVs,GB-BV-196,Monacanthidae,Acanthaluteres,sp1,14,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-196,Monacanthidae,Acanthaluteres,spp,14,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-196,Monacanthidae,Scobinichthys,granulatus,9,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-196,Monacanthidae,Unknown,spp,2,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-196,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -2668,7 +2668,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-197,Labridae,Coris,auricularis,1,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-197,Labridae,Eupetrichthys,angustipes,1,AD,37384105
 2024-04_Geographe_stereo-BRUVs,GB-BV-197,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-197,Monacanthidae,Acanthaluteres,sp1,16,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-197,Monacanthidae,Acanthaluteres,spp,16,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-197,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-197,Monacanthidae,Scobinichthys,granulatus,7,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-197,Monacanthidae,Unknown,spp,40,AD,37465903
@@ -2683,10 +2683,10 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-198,Labridae,Austrolabrus,maculatus,2,AD,37384025
 2024-04_Geographe_stereo-BRUVs,GB-BV-198,Labridae,Coris,auricularis,3,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-198,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-198,Labridae,Notolabrus,sp2,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-198,Labridae,Notolabrus,spp,2,AD,37384929
 2024-04_Geographe_stereo-BRUVs,GB-BV-198,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-198,Loliginidae,Sepioteuthis,australis,2,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-198,Monacanthidae,Acanthaluteres,sp1,46,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-198,Monacanthidae,Acanthaluteres,spp,46,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-198,Monacanthidae,Scobinichthys,granulatus,4,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-198,Mullidae,Upeneichthys,vlamingii,3,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-198,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -2699,7 +2699,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-199,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-199,Labridae,Ophthalmolepis,lineolatus,2,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-199,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-199,Monacanthidae,Acanthaluteres,sp1,127,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-199,Monacanthidae,Acanthaluteres,spp,127,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-199,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-199,Mullidae,Upeneichthys,vlamingii,5,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-199,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -2738,7 +2738,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-201,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-201,Labridae,Ophthalmolepis,lineolatus,4,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-201,Labridae,Pictilabrus,laticlavius,1,AD,37384020
-2024-04_Geographe_stereo-BRUVs,GB-BV-201,Monacanthidae,Acanthaluteres,sp1,12,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-201,Monacanthidae,Acanthaluteres,spp,12,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-201,Monacanthidae,Brachaluteres,jacksonianus,1,AD,37465025
 2024-04_Geographe_stereo-BRUVs,GB-BV-201,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-201,Monacanthidae,Unknown,spp,2,AD,37465903
@@ -2754,7 +2754,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-202,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-202,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-202,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-202,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-202,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-202,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-202,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-202,Mullidae,Upeneichthys,spp,1,AD,37355902
@@ -2777,7 +2777,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-203,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-203,Labridae,Ophthalmolepis,lineolatus,4,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-203,Labridae,Pictilabrus,laticlavius,1,AD,37384020
-2024-04_Geographe_stereo-BRUVs,GB-BV-203,Monacanthidae,Acanthaluteres,sp1,5,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-203,Monacanthidae,Acanthaluteres,spp,5,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-203,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-203,Pomacentridae,Chromis,klunzingeri,3,AD,37372044
 2024-04_Geographe_stereo-BRUVs,GB-BV-203,Sparidae,Chrysophrys,auratus,2,AD,37353001
@@ -2793,7 +2793,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-204,Labridae,Notolabrus,parilus,3,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-204,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-204,Microcanthidae,Tilodon,sexfasciatus,1,AD,37361003
-2024-04_Geographe_stereo-BRUVs,GB-BV-204,Monacanthidae,Acanthaluteres,sp1,14,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-204,Monacanthidae,Acanthaluteres,spp,14,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-204,Monacanthidae,Scobinichthys,granulatus,3,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-204,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-204,Myliobatidae,Myliobatis,tenuicaudatus,2,AD,37039001
@@ -2811,8 +2811,8 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-205,Labridae,Ophthalmolepis,lineolatus,3,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-205,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-205,Labridae,Siphonognathus,radiatus,1,AD,37385007
-2024-04_Geographe_stereo-BRUVs,GB-BV-205,Labridae,Unknown,sp2,1,AD,NA
-2024-04_Geographe_stereo-BRUVs,GB-BV-205,Monacanthidae,Acanthaluteres,sp1,21,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-205,Labridae,Unknown,spp,1,AD,37384900
+2024-04_Geographe_stereo-BRUVs,GB-BV-205,Monacanthidae,Acanthaluteres,spp,21,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-205,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-205,Monacanthidae,Unknown,spp,10,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-205,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -2831,7 +2831,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-206,Labridae,Notolabrus,parilus,3,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-206,Labridae,Ophthalmolepis,lineolatus,5,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-206,Labridae,Pictilabrus,laticlavius,1,AD,37384020
-2024-04_Geographe_stereo-BRUVs,GB-BV-206,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-206,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-206,Monacanthidae,Scobinichthys,granulatus,4,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-206,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-206,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -2850,7 +2850,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-207,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-207,Labridae,Ophthalmolepis,lineolatus,4,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-207,Labridae,Pictilabrus,laticlavius,1,AD,37384020
-2024-04_Geographe_stereo-BRUVs,GB-BV-207,Monacanthidae,Acanthaluteres,sp1,29,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-207,Monacanthidae,Acanthaluteres,spp,29,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-207,Monacanthidae,Scobinichthys,granulatus,3,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-207,Monacanthidae,Unknown,spp,99,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-207,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -2881,7 +2881,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-208,Labridae,Pseudolabrus,biserialis,1,AD,37384149
 2024-04_Geographe_stereo-BRUVs,GB-BV-208,Labridae,Unknown,spp,1,AD,37384900
 2024-04_Geographe_stereo-BRUVs,GB-BV-208,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-208,Monacanthidae,Acanthaluteres,sp1,6,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-208,Monacanthidae,Acanthaluteres,spp,6,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-208,Monacanthidae,Scobinichthys,granulatus,4,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-208,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-208,Pinguipedidae,Parapercis,haackei,1,AD,37390004
@@ -2901,7 +2901,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-209,Labridae,Ophthalmolepis,lineolatus,3,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-209,Labridae,Pseudolabrus,biserialis,1,AD,37384149
 2024-04_Geographe_stereo-BRUVs,GB-BV-209,Labridae,Siphonognathus,spp,6,AD,37385905
-2024-04_Geographe_stereo-BRUVs,GB-BV-209,Labridae,Unknown,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-209,Labridae,Unknown,spp,1,AD,37384900
 2024-04_Geographe_stereo-BRUVs,GB-BV-209,Microcanthidae,Neatypus,obliquus,1,AD,37361002
 2024-04_Geographe_stereo-BRUVs,GB-BV-209,Monacanthidae,Eubalichthys,mosaicus,1,AD,37465003
 2024-04_Geographe_stereo-BRUVs,GB-BV-209,Monacanthidae,Meuschenia,flavolineata,1,AD,37465035
@@ -2927,11 +2927,11 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-210,Labridae,Notolabrus,parilus,3,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-210,Labridae,Ophthalmolepis,lineolatus,4,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-210,Labridae,Pictilabrus,laticlavius,2,AD,37384020
-2024-04_Geographe_stereo-BRUVs,GB-BV-210,Labridae,Unknown,sp2,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-210,Labridae,Unknown,spp,1,AD,37384900
 2024-04_Geographe_stereo-BRUVs,GB-BV-210,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-210,Monacanthidae,Acanthaluteres,sp1,8,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-210,Monacanthidae,Acanthaluteres,spp,8,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-210,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
-2024-04_Geographe_stereo-BRUVs,GB-BV-210,Monacanthidae,Unknown,sp,3,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-210,Monacanthidae,Unknown,spp,3,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-210,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-210,Sparidae,Chrysophrys,auratus,1,AD,37353001
 2024-04_Geographe_stereo-BRUVs,GB-BV-210,Sphyraenidae,Sphyraena,novaehollandiae,1,AD,37382002
@@ -2942,9 +2942,9 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-211,Aracanidae,Aracana,aurita,1,AD,37466003
 2024-04_Geographe_stereo-BRUVs,GB-BV-211,Arripidae,Arripis,truttaceus,15,AD,37344004
 2024-04_Geographe_stereo-BRUVs,GB-BV-211,Carangidae,Pseudocaranx,spp,30,AD,37337924
-2024-04_Geographe_stereo-BRUVs,GB-BV-211,Carangidae,Unknown,sp1,165,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-211,Carangidae,Unknown,spp,165,AD,37337000
 2024-04_Geographe_stereo-BRUVs,GB-BV-211,Heterodontidae,Heterodontus,portusjacksoni,1,AD,37007001
-2024-04_Geographe_stereo-BRUVs,GB-BV-211,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-211,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-211,Monacanthidae,Nelusetta,ayraud,1,AD,37465006
 2024-04_Geographe_stereo-BRUVs,GB-BV-211,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-211,Platycephalidae,Platycephalus,spp,18,AD,37296913
@@ -2970,7 +2970,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-213,Gerreidae,Parequula,melbournensis,9,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-213,Labridae,Coris,auricularis,4,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-213,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-213,Monacanthidae,Acanthaluteres,sp1,21,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-213,Monacanthidae,Acanthaluteres,spp,21,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-213,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-213,Sparidae,Chrysophrys,auratus,3,AD,37353001
 2024-04_Geographe_stereo-BRUVs,GB-BV-213,Terapontidae,Pelates,octolineatus,11,AD,37321020
@@ -2982,7 +2982,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-214,Gerreidae,Parequula,melbournensis,5,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-214,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-214,Labridae,Siphonognathus,spp,1,AD,37385905
-2024-04_Geographe_stereo-BRUVs,GB-BV-214,Monacanthidae,Acanthaluteres,sp1,49,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-214,Monacanthidae,Acanthaluteres,spp,49,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-214,Monacanthidae,Meuschenia,scabra,1,AD,37465005
 2024-04_Geographe_stereo-BRUVs,GB-BV-214,Monacanthidae,Scobinichthys,granulatus,7,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-214,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -2996,7 +2996,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-215,Gerreidae,Parequula,melbournensis,5,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-215,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-215,Labridae,Ophthalmolepis,lineolatus,2,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-215,Monacanthidae,Acanthaluteres,sp1,28,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-215,Monacanthidae,Acanthaluteres,spp,28,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-215,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-215,Monacanthidae,Scobinichthys,granulatus,3,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-215,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -3011,7 +3011,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-216,Gerreidae,Parequula,melbournensis,1,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-216,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-216,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-216,Monacanthidae,Acanthaluteres,sp1,8,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-216,Monacanthidae,Acanthaluteres,spp,8,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-216,Monacanthidae,Scobinichthys,granulatus,9,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-216,Monacanthidae,Unknown,spp,4,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-216,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -3029,7 +3029,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Labridae,Halichoeres,brownfieldi,1,AD,37384108
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-217,Monacanthidae,Acanthaluteres,sp1,19,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-217,Monacanthidae,Acanthaluteres,spp,19,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Monacanthidae,Scobinichthys,granulatus,3,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Monacanthidae,Unknown,spp,6,AD,37465903
@@ -3044,7 +3044,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-218,Carangidae,Pseudocaranx,spp,13,AD,37337924
 2024-04_Geographe_stereo-BRUVs,GB-BV-218,Labridae,Haletta,semifasciata,1,AD,37385009
 2024-04_Geographe_stereo-BRUVs,GB-BV-218,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-218,Monacanthidae,Acanthaluteres,sp1,55,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-218,Monacanthidae,Acanthaluteres,spp,55,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-218,Monacanthidae,Meuschenia,freycineti,2,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-218,Monacanthidae,Scobinichthys,granulatus,7,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-218,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -3060,7 +3060,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-219,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-219,Labridae,Ophthalmolepis,lineolatus,2,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-219,Labridae,Siphonognathus,spp,1,AD,37385905
-2024-04_Geographe_stereo-BRUVs,GB-BV-219,Monacanthidae,Acanthaluteres,sp1,17,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-219,Monacanthidae,Acanthaluteres,spp,17,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-219,Monacanthidae,Scobinichthys,granulatus,10,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-219,Mullidae,Upeneichthys,vlamingii,3,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-219,Nemipteridae,Pentapodus,vitta,2,AD,37347022
@@ -3076,7 +3076,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-220,Gerreidae,Parequula,melbournensis,7,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-220,Labridae,Coris,auricularis,1,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-220,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-220,Monacanthidae,Acanthaluteres,sp1,22,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-220,Monacanthidae,Acanthaluteres,spp,22,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-220,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-220,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-220,Nemipteridae,Pentapodus,vitta,1,AD,37347022
@@ -3086,7 +3086,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-221,Apogonidae,Ostorhinchus,rueppellii,4,AD,37327040
 2024-04_Geographe_stereo-BRUVs,GB-BV-221,Carangidae,Pseudocaranx,spp,4,AD,37337924
 2024-04_Geographe_stereo-BRUVs,GB-BV-221,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-221,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-221,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-221,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-221,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-221,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -3098,7 +3098,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-222,Gerreidae,Parequula,melbournensis,4,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-222,Labridae,Coris,auricularis,4,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-222,Labridae,Notolabrus,parilus,3,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-222,Monacanthidae,Acanthaluteres,sp1,1,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-222,Monacanthidae,Acanthaluteres,spp,1,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-222,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-222,Monacanthidae,Meuschenia,hippocrepis,1,AD,37465004
 2024-04_Geographe_stereo-BRUVs,GB-BV-222,Monacanthidae,Scobinichthys,granulatus,4,AD,37465007
@@ -3113,7 +3113,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-223,Labridae,Haletta,semifasciata,2,AD,37385009
 2024-04_Geographe_stereo-BRUVs,GB-BV-223,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-223,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-223,Monacanthidae,Acanthaluteres,sp1,108,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-223,Monacanthidae,Acanthaluteres,spp,108,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-223,Monacanthidae,Meuschenia,freycineti,4,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-223,Monacanthidae,Scobinichthys,granulatus,9,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-223,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -3127,7 +3127,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-224,Labridae,Coris,auricularis,6,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-224,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-224,Labridae,Siphonognathus,spp,1,AD,37385905
-2024-04_Geographe_stereo-BRUVs,GB-BV-224,Monacanthidae,Acanthaluteres,sp1,88,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-224,Monacanthidae,Acanthaluteres,spp,88,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-224,Monacanthidae,Meuschenia,freycineti,2,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-224,Monacanthidae,Scobinichthys,granulatus,7,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-224,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
@@ -3144,7 +3144,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-225,Gerreidae,Parequula,melbournensis,1,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-225,Heterodontidae,Heterodontus,portusjacksoni,1,AD,37007001
 2024-04_Geographe_stereo-BRUVs,GB-BV-225,Labridae,Notolabrus,parilus,2,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-225,Monacanthidae,Acanthaluteres,sp1,5,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-225,Monacanthidae,Acanthaluteres,spp,5,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-225,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-225,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-225,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -3159,7 +3159,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-226,Carangidae,Trachurus,novaezelandiae,99,AD,37337003
 2024-04_Geographe_stereo-BRUVs,GB-BV-226,Gerreidae,Parequula,melbournensis,2,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-226,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-226,Monacanthidae,Acanthaluteres,sp1,79,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-226,Monacanthidae,Acanthaluteres,spp,79,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-226,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-226,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-226,Sepiidae,Sepia,apama,1,AD,23607001
@@ -3174,7 +3174,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-227,Labridae,Notolabrus,parilus,3,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-227,Labridae,Unknown,spp,1,AD,37384900
 2024-04_Geographe_stereo-BRUVs,GB-BV-227,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-227,Monacanthidae,Acanthaluteres,sp1,136,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-227,Monacanthidae,Acanthaluteres,spp,136,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-227,Monacanthidae,Scobinichthys,granulatus,8,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-227,Monacanthidae,Unknown,spp,1,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-227,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -3205,7 +3205,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-229,Labridae,Halichoeres,brownfieldi,2,AD,37384108
 2024-04_Geographe_stereo-BRUVs,GB-BV-229,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-229,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
-2024-04_Geographe_stereo-BRUVs,GB-BV-229,Monacanthidae,Acanthaluteres,sp1,15,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-229,Monacanthidae,Acanthaluteres,spp,15,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-229,Monacanthidae,Meuschenia,freycineti,5,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-229,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-229,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -3224,7 +3224,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-230,Labridae,Coris,auricularis,1,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-230,Labridae,Halichoeres,brownfieldi,1,AD,37384108
 2024-04_Geographe_stereo-BRUVs,GB-BV-230,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-230,Monacanthidae,Acanthaluteres,sp1,20,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-230,Monacanthidae,Acanthaluteres,spp,20,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-230,Monacanthidae,Nelusetta,ayraud,3,AD,37465006
 2024-04_Geographe_stereo-BRUVs,GB-BV-230,Monacanthidae,Scobinichthys,granulatus,9,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-230,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -3263,7 +3263,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-233,Carangidae,Pseudocaranx,spp,1,AD,37337924
 2024-04_Geographe_stereo-BRUVs,GB-BV-233,Carcharhinidae,Carcharhinus,brevipinna,1,AD,37018023
 2024-04_Geographe_stereo-BRUVs,GB-BV-233,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-233,Monacanthidae,Acanthaluteres,sp1,6,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-233,Monacanthidae,Acanthaluteres,spp,6,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-233,Monacanthidae,Meuschenia,freycineti,3,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-233,Monacanthidae,Scobinichthys,granulatus,3,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-233,Terapontidae,Pelates,octolineatus,57,AD,37321020
@@ -3276,7 +3276,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-234,Labridae,Notolabrus,parilus,2,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-234,Labridae,Ophthalmolepis,lineolatus,2,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-234,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-234,Monacanthidae,Acanthaluteres,sp1,10,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-234,Monacanthidae,Acanthaluteres,spp,10,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-234,Monacanthidae,Scobinichthys,granulatus,5,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-234,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-234,Nemipteridae,Pentapodus,vitta,6,AD,37347022
@@ -3300,7 +3300,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-236,Carangidae,Pseudocaranx,spp,37,AD,37337924
 2024-04_Geographe_stereo-BRUVs,GB-BV-236,Dasyatidae,Bathytoshia,brevicaudata,1,AD,37035001
 2024-04_Geographe_stereo-BRUVs,GB-BV-236,Gerreidae,Parequula,melbournensis,15,AD,37349001
-2024-04_Geographe_stereo-BRUVs,GB-BV-236,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-236,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-236,Monacanthidae,Scobinichthys,granulatus,1,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-236,Mullidae,Upeneichthys,vlamingii,2,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-236,Myliobatidae,Myliobatis,tenuicaudatus,2,AD,37039001
@@ -3316,7 +3316,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-237,Dasyatidae,Bathytoshia,brevicaudata,1,AD,37035001
 2024-04_Geographe_stereo-BRUVs,GB-BV-237,Labridae,Haletta,semifasciata,1,AD,37385009
 2024-04_Geographe_stereo-BRUVs,GB-BV-237,Labridae,Notolabrus,parilus,1,AD,37384022
-2024-04_Geographe_stereo-BRUVs,GB-BV-237,Monacanthidae,Acanthaluteres,sp1,5,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-237,Monacanthidae,Acanthaluteres,spp,5,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-237,Monacanthidae,Meuschenia,flavolineata,1,AD,37465035
 2024-04_Geographe_stereo-BRUVs,GB-BV-237,Monacanthidae,Meuschenia,freycineti,1,AD,37465036
 2024-04_Geographe_stereo-BRUVs,GB-BV-237,Monacanthidae,Scobinichthys,granulatus,3,AD,37465007
@@ -3334,7 +3334,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-238,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-238,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-238,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-238,Monacanthidae,Acanthaluteres,sp1,18,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-238,Monacanthidae,Acanthaluteres,spp,18,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-238,Monacanthidae,Scobinichthys,granulatus,7,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-238,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-238,Sillaginidae,Sillaginodes,punctatus,1,AD,37330001
@@ -3347,7 +3347,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-239,Dasyatidae,Bathytoshia,brevicaudata,1,AD,37035001
 2024-04_Geographe_stereo-BRUVs,GB-BV-239,Gerreidae,Parequula,melbournensis,47,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-239,Labridae,Coris,auricularis,2,AD,37384088
-2024-04_Geographe_stereo-BRUVs,GB-BV-239,Monacanthidae,Acanthaluteres,sp1,4,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-239,Monacanthidae,Acanthaluteres,spp,4,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-239,Monacanthidae,Nelusetta,ayraud,1,AD,37465006
 2024-04_Geographe_stereo-BRUVs,GB-BV-239,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-239,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -3371,7 +3371,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-240,Trygonorrhinidae,Trygonorrhina,dumerilii,1,AD,37027011
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP1,Gerreidae,Parequula,melbournensis,8,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP1,Labridae,Coris,auricularis,25,AD,37384088
-2024-04_Geographe_stereo-BRUVs,GB-BV-CP1,Monacanthidae,Acanthaluteres,sp1,42,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP1,Monacanthidae,Acanthaluteres,spp,42,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP1,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP1,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP1,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
@@ -3404,7 +3404,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Labridae,Dotalabrus,aurantiacus,1,AD,37384018
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Labridae,Notolabrus,parilus,1,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Monacanthidae,Acanthaluteres,sp1,28,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Monacanthidae,Acanthaluteres,spp,28,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Monacanthidae,Scobinichthys,granulatus,7,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Nemipteridae,Pentapodus,vitta,2,AD,37347022
@@ -3480,7 +3480,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Labridae,Pseudolabrus,biserialis,3,AD,37384149
 2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Labridae,Unknown,spp,1,AD,37384900
 2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Microcanthidae,Neatypus,obliquus,14,AD,37361002
-2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Monacanthidae,Acanthaluteres,sp1,2,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Monacanthidae,Acanthaluteres,spp,2,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Monacanthidae,Meuschenia,galii,3,AD,37465040
 2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Monacanthidae,Meuschenia,hippocrepis,1,AD,37465004
 2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Monacanthidae,Unknown,spp,3,AD,37465903
@@ -3537,7 +3537,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Labridae,Siphonognathus,spp,3,AD,37385905
 2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Loliginidae,Sepioteuthis,australis,1,AD,23617005
-2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Monacanthidae,Acanthaluteres,sp1,64,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Monacanthidae,Acanthaluteres,spp,64,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Monacanthidae,Scobinichthys,granulatus,2,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Monacanthidae,Unknown,spp,23,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -3758,7 +3758,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Labridae,Ophthalmolepis,lineolatus,6,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Labridae,Pictilabrus,laticlavius,1,AD,37384020
 2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Microcanthidae,Neatypus,obliquus,2,AD,37361002
-2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Monacanthidae,Acanthaluteres,sp1,11,AD,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Monacanthidae,Acanthaluteres,spp,11,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Monacanthidae,Scobinichthys,granulatus,7,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Monacanthidae,Unknown,spp,2,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Mullidae,Upeneichthys,vlamingii,1,AD,37355029

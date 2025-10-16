@@ -49,6 +49,7 @@ points <- read_points(here::here("data/raw/em export/")) %>%
   glimpse()
 
 maxn_points <- points %>% 
+  dplyr::mutate(species = ifelse(species %in% c("sp", "sp1", "sp2"), "spp", as.character(species))) %>%
   dplyr::group_by(campaignid, sample, filename, periodtime, frame, family, genus, species, stage) %>% # If you have MaxN'd by stage (e.g. Adult, Juvenile) add stage here
   dplyr::mutate(number = as.numeric(number)) %>%
   dplyr::summarise(maxn = sum(number)) %>%
@@ -69,7 +70,8 @@ maxn_points <- points %>%
 
 maxn <- bind_rows(get0("maxn_points"), get0("maxn_counts")) # this works even if you only have one type of data
 
-em_length3dpoints <- read_em_length(here::here("data/raw/em export/")) %>%                   
+em_length3dpoints <- read_em_length(here::here("data/raw/em export/")) %>%
+  dplyr::mutate(species = ifelse(species %in% c("sp", "sp1", "sp2"), "spp", as.character(species))) %>%
   dplyr::select(-c(comment))%>% # there is a comment column in metadata, so you will need to remove this column from EM data
   dplyr::inner_join(metadata, by = join_by(sample, campaignid)) %>%
   dplyr::filter(successful_length %in% "Yes") %>%
@@ -426,4 +428,3 @@ message(paste(n_no_caab_length, "length rows without caab codes from species:", 
 # Save GA upload data
 write_csv(count_upload, paste0("data/uploads/", name, "_count.csv"))
 write_csv(length_upload, paste0("data/uploads/", name, "_length.csv"))
-
