@@ -403,7 +403,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Labridae,Notolabrus,parilus,3,AD,37384022
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Labridae,Ophthalmolepis,lineolatus,1,AD,37384040
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Monacanthidae,Acanthaluteres,spp,35,AD,37465905
-2024-04_Geographe_stereo-BRUVs,GB-BV-028,Monacanthidae,Scobinichthys,granulatus,7,AD,37465007
+2024-04_Geographe_stereo-BRUVs,GB-BV-028,Monacanthidae,Scobinichthys,granulatus,6,AD,37465007
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Mullidae,Upeneichthys,vlamingii,4,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Sphyraenidae,Sphyraena,novaehollandiae,3,AD,37382002
 2024-04_Geographe_stereo-BRUVs,GB-BV-028,Trygonorrhinidae,Trygonorrhina,dumerilii,1,AD,37027011
@@ -863,7 +863,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-064,Carcharhinidae,Carcharhinus,brevipinna,4,AD,37018023
 2024-04_Geographe_stereo-BRUVs,GB-BV-064,Gerreidae,Parequula,melbournensis,1,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-064,Monacanthidae,Nelusetta,ayraud,1,AD,37465006
-2024-04_Geographe_stereo-BRUVs,GB-BV-064,Platycephalidae,Platycephalus,spp,20,AD,37296913
+2024-04_Geographe_stereo-BRUVs,GB-BV-064,Platycephalidae,Platycephalus,spp,19,AD,37296913
 2024-04_Geographe_stereo-BRUVs,GB-BV-064,Sillaginidae,Sillago,spp,10,AD,37330904
 2024-04_Geographe_stereo-BRUVs,GB-BV-064,Sparidae,Rhabdosargus,sarba,1,AD,37353013
 2024-04_Geographe_stereo-BRUVs,GB-BV-064,Tetraodontidae,Torquigener,pleurogramma,1,AD,37467030
@@ -1026,7 +1026,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Labridae,Choerodon,rubescens,1,AD,37384039
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Labridae,Coris,auricularis,20,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Labridae,Eupetrichthys,angustipes,1,AD,37384105
-2024-04_Geographe_stereo-BRUVs,GB-BV-077,Labridae,Siphonognathus,spp,6,AD,37385905
+2024-04_Geographe_stereo-BRUVs,GB-BV-077,Labridae,Siphonognathus,spp,5,AD,37385905
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Labridae,Unknown,spp,1,AD,37384900
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Monacanthidae,Acanthaluteres,spp,9,AD,37465905
 2024-04_Geographe_stereo-BRUVs,GB-BV-077,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
@@ -1587,7 +1587,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-119,Trygonorrhinidae,Trygonorrhina,dumerilii,1,AD,37027011
 2024-04_Geographe_stereo-BRUVs,GB-BV-120,Aracanidae,Anoplocapros,amygdaloides,1,AD,37466015
 2024-04_Geographe_stereo-BRUVs,GB-BV-120,Carangidae,Pseudocaranx,spp,3,AD,37337924
-2024-04_Geographe_stereo-BRUVs,GB-BV-120,Gerreidae,Parequula,melbournensis,16,AD,37349001
+2024-04_Geographe_stereo-BRUVs,GB-BV-120,Gerreidae,Parequula,melbournensis,15,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-120,Labridae,Coris,auricularis,2,AD,37384088
 2024-04_Geographe_stereo-BRUVs,GB-BV-120,Loliginidae,Sepioteuthis,australis,1,AD,23617005
 2024-04_Geographe_stereo-BRUVs,GB-BV-120,Mullidae,Upeneichthys,stotti,2,AD,37355030
@@ -1704,7 +1704,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-128,Mullidae,Upeneichthys,vlamingii,5,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-128,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
 2024-04_Geographe_stereo-BRUVs,GB-BV-128,Platycephalidae,Platycephalus,spp,6,AD,37296913
-2024-04_Geographe_stereo-BRUVs,GB-BV-128,Sillaginidae,Sillago,spp,22,AD,37330904
+2024-04_Geographe_stereo-BRUVs,GB-BV-128,Sillaginidae,Sillago,spp,21,AD,37330904
 2024-04_Geographe_stereo-BRUVs,GB-BV-128,Trygonorrhinidae,Trygonorrhina,dumerilii,2,AD,37027011
 2024-04_Geographe_stereo-BRUVs,GB-BV-129,Aracanidae,Anoplocapros,amygdaloides,1,AD,37466015
 2024-04_Geographe_stereo-BRUVs,GB-BV-129,Aracanidae,Aracana,aurita,1,AD,37466003
@@ -3023,7 +3023,6 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Arripidae,Arripis,georgianus,8,AD,37344001
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Carangidae,Trachurus,novaezelandiae,44,AD,37337003
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Dasyatidae,Bathytoshia,brevicaudata,1,AD,37035001
-2024-04_Geographe_stereo-BRUVs,GB-BV-217,Dinolestidae,Dinolestes,lewini,2,AD,37327002
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Gerreidae,Parequula,melbournensis,1,AD,37349001
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Labridae,Haletta,semifasciata,1,AD,37385009
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Labridae,Halichoeres,brownfieldi,1,AD,37384108
@@ -3035,7 +3034,7 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Monacanthidae,Unknown,spp,6,AD,37465903
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Mullidae,Upeneichthys,vlamingii,1,AD,37355029
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Myliobatidae,Myliobatis,tenuicaudatus,1,AD,37039001
-2024-04_Geographe_stereo-BRUVs,GB-BV-217,Sphyraenidae,Sphyraena,obtusata,1,AD,37382007
+2024-04_Geographe_stereo-BRUVs,GB-BV-217,Sphyraenidae,Sphyraena,obtusata,2,AD,37382007
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Terapontidae,Pelates,octolineatus,148,AD,37321020
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Terapontidae,Pelsartia,humeralis,1,AD,37321021
 2024-04_Geographe_stereo-BRUVs,GB-BV-217,Trygonorrhinidae,Trygonorrhina,dumerilii,1,AD,37027011
@@ -3411,8 +3410,8 @@ campaignid,sample,family,genus,species,count,stage,caab_code
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Sphyraenidae,Sphyraena,spp,1,AD,37382901
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Terapontidae,Pelates,octolineatus,86,AD,37321020
 2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Trygonorrhinidae,Trygonorrhina,dumerilii,1,AD,37027011
-2024-04_Geographe_stereo-BRUVs,GB-BV-P01,Carangidae,Pseudocaranx,spp,29,AD,37337924
-2024-04_Geographe_stereo-BRUVs,GB-BV-P01,Carangidae,Seriola,hippos,6,AD,37337007
+2024-04_Geographe_stereo-BRUVs,GB-BV-P01,Carangidae,Pseudocaranx,spp,27,AD,37337924
+2024-04_Geographe_stereo-BRUVs,GB-BV-P01,Carangidae,Seriola,hippos,5,AD,37337007
 2024-04_Geographe_stereo-BRUVs,GB-BV-P01,Chaetodontidae,Chelmonops,curiosus,1,AD,37365066
 2024-04_Geographe_stereo-BRUVs,GB-BV-P01,Glaucosomatidae,Glaucosoma,hebraicum,2,AD,37320004
 2024-04_Geographe_stereo-BRUVs,GB-BV-P01,Labridae,Austrolabrus,maculatus,9,AD,37384025

@@ -425,6 +425,24 @@ sp_no_caab_length <- unique(length_upload$species[which(is.na(length_upload$caab
 message(paste(n_no_caab_count, "count rows without caab codes from species:", paste(sp_no_caab_count, collapse = ", ")))
 message(paste(n_no_caab_length, "length rows without caab codes from species:", paste(sp_no_caab_length, collapse = ", ")))
 
+# # Can edit and use below code for finding species in length that isn't in count for each sample
+# # distinct taxa per sample
+# len_key <- length_upload %>% distinct(sample, genus, species)
+# cnt_key <- count_upload  %>% distinct(sample, genus, species)
+# 
+# # in LENGTH but not in COUNT (per sample)
+# missing_by_sample <- anti_join(len_key, cnt_key,
+#                                by = c("sample","genus","species"))
+# 
+# missing_by_sample
+# 
+# check_count <- count_upload %>%
+#   filter(species %in% "obtusata")
+# 
+# check_length <- length_upload %>%
+#   filter(species %in% "obtusata") %>%
+#   select(sample, family, genus, species, count)
+
 # Save GA upload data
 write_csv(count_upload, paste0("data/uploads/", name, "_count.csv"))
 write_csv(length_upload, paste0("data/uploads/", name, "_length.csv"))
