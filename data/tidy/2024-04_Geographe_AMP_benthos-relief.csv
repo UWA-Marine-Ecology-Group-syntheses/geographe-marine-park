@@ -1,0 +1,399 @@
+"campaignid","sample","caab_code","level_1","level_2","level_3","level_4","level_5","level_6","level_7","level_8","count"
+"2024-04_Geographe_AMP","GB-DC-001","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-001","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,6
+"2024-04_Geographe_AMP","GB-DC-001","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,36
+"2024-04_Geographe_AMP","GB-DC-001","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-002","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,30
+"2024-04_Geographe_AMP","GB-DC-002","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-002","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,24
+"2024-04_Geographe_AMP","GB-DC-002","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,17
+"2024-04_Geographe_AMP","GB-DC-002","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,6
+"2024-04_Geographe_AMP","GB-DC-002","82003007","Physical","Relief","High","Wall","4",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-003","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-003","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,39
+"2024-04_Geographe_AMP","GB-DC-003","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-004","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,45
+"2024-04_Geographe_AMP","GB-DC-004","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-004","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,27
+"2024-04_Geographe_AMP","GB-DC-005","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-005","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,29
+"2024-04_Geographe_AMP","GB-DC-005","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,17
+"2024-04_Geographe_AMP","GB-DC-006","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,31
+"2024-04_Geographe_AMP","GB-DC-006","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-006","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,21
+"2024-04_Geographe_AMP","GB-DC-006","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,27
+"2024-04_Geographe_AMP","GB-DC-007","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,45
+"2024-04_Geographe_AMP","GB-DC-007","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,30
+"2024-04_Geographe_AMP","GB-DC-007","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-008","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,42
+"2024-04_Geographe_AMP","GB-DC-008","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,7
+"2024-04_Geographe_AMP","GB-DC-008","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,28
+"2024-04_Geographe_AMP","GB-DC-008","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-009","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,36
+"2024-04_Geographe_AMP","GB-DC-009","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-009","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,39
+"2024-04_Geographe_AMP","GB-DC-009","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-010","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,49
+"2024-04_Geographe_AMP","GB-DC-010","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,11
+"2024-04_Geographe_AMP","GB-DC-010","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,20
+"2024-04_Geographe_AMP","GB-DC-011","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-011","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-011","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,31
+"2024-04_Geographe_AMP","GB-DC-011","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-012","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-012","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,18
+"2024-04_Geographe_AMP","GB-DC-012","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,29
+"2024-04_Geographe_AMP","GB-DC-013","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-013","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,29
+"2024-04_Geographe_AMP","GB-DC-013","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,16
+"2024-04_Geographe_AMP","GB-DC-014","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-014","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,30
+"2024-04_Geographe_AMP","GB-DC-014","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,16
+"2024-04_Geographe_AMP","GB-DC-015","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,41
+"2024-04_Geographe_AMP","GB-DC-015","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-015","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,4
+"2024-04_Geographe_AMP","GB-DC-016","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-016","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-016","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,43
+"2024-04_Geographe_AMP","GB-DC-017","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,49
+"2024-04_Geographe_AMP","GB-DC-017","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,26
+"2024-04_Geographe_AMP","GB-DC-017","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-018","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-018","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-018","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,12
+"2024-04_Geographe_AMP","GB-DC-018","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,4
+"2024-04_Geographe_AMP","GB-DC-019","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-019","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,44
+"2024-04_Geographe_AMP","GB-DC-019","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,4
+"2024-04_Geographe_AMP","GB-DC-020","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-020","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,7
+"2024-04_Geographe_AMP","GB-DC-020","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,21
+"2024-04_Geographe_AMP","GB-DC-020","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,20
+"2024-04_Geographe_AMP","GB-DC-021","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-021","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,22
+"2024-04_Geographe_AMP","GB-DC-021","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,19
+"2024-04_Geographe_AMP","GB-DC-021","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-022","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-022","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-022","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,12
+"2024-04_Geographe_AMP","GB-DC-022","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,30
+"2024-04_Geographe_AMP","GB-DC-022","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-023","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-023","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,20
+"2024-04_Geographe_AMP","GB-DC-023","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,25
+"2024-04_Geographe_AMP","GB-DC-024","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-024","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,7
+"2024-04_Geographe_AMP","GB-DC-024","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,41
+"2024-04_Geographe_AMP","GB-DC-025","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,47
+"2024-04_Geographe_AMP","GB-DC-025","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,27
+"2024-04_Geographe_AMP","GB-DC-025","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,6
+"2024-04_Geographe_AMP","GB-DC-026","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-026","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-026","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,42
+"2024-04_Geographe_AMP","GB-DC-027","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-027","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-027","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,44
+"2024-04_Geographe_AMP","GB-DC-028","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,44
+"2024-04_Geographe_AMP","GB-DC-028","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-028","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,10
+"2024-04_Geographe_AMP","GB-DC-028","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,24
+"2024-04_Geographe_AMP","GB-DC-029","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-029","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-029","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-030","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,31
+"2024-04_Geographe_AMP","GB-DC-030","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-030","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,25
+"2024-04_Geographe_AMP","GB-DC-030","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,19
+"2024-04_Geographe_AMP","GB-DC-031","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-031","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-031","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,46
+"2024-04_Geographe_AMP","GB-DC-032","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-032","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,9
+"2024-04_Geographe_AMP","GB-DC-032","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,24
+"2024-04_Geographe_AMP","GB-DC-032","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,7
+"2024-04_Geographe_AMP","GB-DC-033","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,38
+"2024-04_Geographe_AMP","GB-DC-033","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,38
+"2024-04_Geographe_AMP","GB-DC-033","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,4
+"2024-04_Geographe_AMP","GB-DC-034","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-034","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,9
+"2024-04_Geographe_AMP","GB-DC-034","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-035","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-035","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,39
+"2024-04_Geographe_AMP","GB-DC-035","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,6
+"2024-04_Geographe_AMP","GB-DC-036","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,47
+"2024-04_Geographe_AMP","GB-DC-036","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,12
+"2024-04_Geographe_AMP","GB-DC-036","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,21
+"2024-04_Geographe_AMP","GB-DC-037","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-037","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-037","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-037","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,11
+"2024-04_Geographe_AMP","GB-DC-038","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,38
+"2024-04_Geographe_AMP","GB-DC-038","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-038","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,10
+"2024-04_Geographe_AMP","GB-DC-039","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,36
+"2024-04_Geographe_AMP","GB-DC-039","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,41
+"2024-04_Geographe_AMP","GB-DC-039","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-040","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,45
+"2024-04_Geographe_AMP","GB-DC-040","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,10
+"2024-04_Geographe_AMP","GB-DC-040","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,25
+"2024-04_Geographe_AMP","GB-DC-041","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-041","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-041","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,45
+"2024-04_Geographe_AMP","GB-DC-042","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-042","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,48
+"2024-04_Geographe_AMP","GB-DC-043","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-043","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-043","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,41
+"2024-04_Geographe_AMP","GB-DC-044","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-044","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,27
+"2024-04_Geographe_AMP","GB-DC-044","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,13
+"2024-04_Geographe_AMP","GB-DC-045","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-045","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-045","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-045","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-046","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-046","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,17
+"2024-04_Geographe_AMP","GB-DC-046","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,31
+"2024-04_Geographe_AMP","GB-DC-047","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-047","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-047","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,16
+"2024-04_Geographe_AMP","GB-DC-047","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,27
+"2024-04_Geographe_AMP","GB-DC-048","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,46
+"2024-04_Geographe_AMP","GB-DC-048","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,4
+"2024-04_Geographe_AMP","GB-DC-048","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,30
+"2024-04_Geographe_AMP","GB-DC-049","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,31
+"2024-04_Geographe_AMP","GB-DC-049","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,16
+"2024-04_Geographe_AMP","GB-DC-049","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-050","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,41
+"2024-04_Geographe_AMP","GB-DC-050","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,11
+"2024-04_Geographe_AMP","GB-DC-050","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,28
+"2024-04_Geographe_AMP","GB-DC-051","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,28
+"2024-04_Geographe_AMP","GB-DC-051","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,52
+"2024-04_Geographe_AMP","GB-DC-052","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,38
+"2024-04_Geographe_AMP","GB-DC-052","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,6
+"2024-04_Geographe_AMP","GB-DC-052","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,36
+"2024-04_Geographe_AMP","GB-DC-053","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,30
+"2024-04_Geographe_AMP","GB-DC-053","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,11
+"2024-04_Geographe_AMP","GB-DC-053","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-053","82003007","Physical","Relief","High","Wall","4",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-054","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-054","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,4
+"2024-04_Geographe_AMP","GB-DC-054","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,19
+"2024-04_Geographe_AMP","GB-DC-054","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,20
+"2024-04_Geographe_AMP","GB-DC-055","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-055","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,29
+"2024-04_Geographe_AMP","GB-DC-055","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,18
+"2024-04_Geographe_AMP","GB-DC-055","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-056","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-056","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,14
+"2024-04_Geographe_AMP","GB-DC-056","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,29
+"2024-04_Geographe_AMP","GB-DC-057","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,36
+"2024-04_Geographe_AMP","GB-DC-057","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,15
+"2024-04_Geographe_AMP","GB-DC-057","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,27
+"2024-04_Geographe_AMP","GB-DC-057","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-058","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,41
+"2024-04_Geographe_AMP","GB-DC-058","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,4
+"2024-04_Geographe_AMP","GB-DC-058","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-059","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-059","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-060","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-060","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,25
+"2024-04_Geographe_AMP","GB-DC-060","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,22
+"2024-04_Geographe_AMP","GB-DC-061","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-061","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,13
+"2024-04_Geographe_AMP","GB-DC-061","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,27
+"2024-04_Geographe_AMP","GB-DC-062","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-062","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,7
+"2024-04_Geographe_AMP","GB-DC-062","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,27
+"2024-04_Geographe_AMP","GB-DC-062","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,9
+"2024-04_Geographe_AMP","GB-DC-063","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-063","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,43
+"2024-04_Geographe_AMP","GB-DC-064","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,48
+"2024-04_Geographe_AMP","GB-DC-064","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,31
+"2024-04_Geographe_AMP","GB-DC-064","82003007","Physical","Relief","High","Wall","4",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-065","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-065","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,6
+"2024-04_Geographe_AMP","GB-DC-065","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-066","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,44
+"2024-04_Geographe_AMP","GB-DC-066","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-066","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,22
+"2024-04_Geographe_AMP","GB-DC-066","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,6
+"2024-04_Geographe_AMP","GB-DC-067","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-067","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-067","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,39
+"2024-04_Geographe_AMP","GB-DC-068","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,41
+"2024-04_Geographe_AMP","GB-DC-068","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,38
+"2024-04_Geographe_AMP","GB-DC-068","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-069","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-069","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,11
+"2024-04_Geographe_AMP","GB-DC-069","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,36
+"2024-04_Geographe_AMP","GB-DC-070","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,44
+"2024-04_Geographe_AMP","GB-DC-070","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,4
+"2024-04_Geographe_AMP","GB-DC-070","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-071","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-071","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,20
+"2024-04_Geographe_AMP","GB-DC-071","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,25
+"2024-04_Geographe_AMP","GB-DC-072","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-072","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-072","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,44
+"2024-04_Geographe_AMP","GB-DC-073","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-073","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,29
+"2024-04_Geographe_AMP","GB-DC-073","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,16
+"2024-04_Geographe_AMP","GB-DC-074","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-074","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,45
+"2024-04_Geographe_AMP","GB-DC-075","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-075","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-075","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,11
+"2024-04_Geographe_AMP","GB-DC-076","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,38
+"2024-04_Geographe_AMP","GB-DC-076","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-076","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,39
+"2024-04_Geographe_AMP","GB-DC-077","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,39
+"2024-04_Geographe_AMP","GB-DC-077","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-077","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-078","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,28
+"2024-04_Geographe_AMP","GB-DC-078","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-078","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,49
+"2024-04_Geographe_AMP","GB-DC-078","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-079","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-079","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-079","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,43
+"2024-04_Geographe_AMP","GB-DC-080","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,39
+"2024-04_Geographe_AMP","GB-DC-080","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,22
+"2024-04_Geographe_AMP","GB-DC-080","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,10
+"2024-04_Geographe_AMP","GB-DC-080","82003007","Physical","Relief","High","Wall","4",NA,NA,NA,9
+"2024-04_Geographe_AMP","GB-DC-081","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-081","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,20
+"2024-04_Geographe_AMP","GB-DC-081","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,20
+"2024-04_Geographe_AMP","GB-DC-082","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-082","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-083","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-083","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-083","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,6
+"2024-04_Geographe_AMP","GB-DC-084","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-084","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-085","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,42
+"2024-04_Geographe_AMP","GB-DC-085","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-085","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-086","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-086","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,17
+"2024-04_Geographe_AMP","GB-DC-086","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,29
+"2024-04_Geographe_AMP","GB-DC-087","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-087","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,13
+"2024-04_Geographe_AMP","GB-DC-087","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,20
+"2024-04_Geographe_AMP","GB-DC-087","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,10
+"2024-04_Geographe_AMP","GB-DC-088","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-088","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-088","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,13
+"2024-04_Geographe_AMP","GB-DC-089","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-089","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,19
+"2024-04_Geographe_AMP","GB-DC-089","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,21
+"2024-04_Geographe_AMP","GB-DC-090","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-090","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-090","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-091","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-091","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-091","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,28
+"2024-04_Geographe_AMP","GB-DC-091","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,7
+"2024-04_Geographe_AMP","GB-DC-092","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,38
+"2024-04_Geographe_AMP","GB-DC-092","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,23
+"2024-04_Geographe_AMP","GB-DC-092","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,19
+"2024-04_Geographe_AMP","GB-DC-093","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-093","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,30
+"2024-04_Geographe_AMP","GB-DC-093","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,10
+"2024-04_Geographe_AMP","GB-DC-094","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,36
+"2024-04_Geographe_AMP","GB-DC-094","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,31
+"2024-04_Geographe_AMP","GB-DC-094","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,13
+"2024-04_Geographe_AMP","GB-DC-095","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-095","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,11
+"2024-04_Geographe_AMP","GB-DC-095","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-096","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-096","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,11
+"2024-04_Geographe_AMP","GB-DC-096","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,29
+"2024-04_Geographe_AMP","GB-DC-097","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-097","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,27
+"2024-04_Geographe_AMP","GB-DC-097","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,18
+"2024-04_Geographe_AMP","GB-DC-098","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-098","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-098","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,24
+"2024-04_Geographe_AMP","GB-DC-098","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-099","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-099","82003001","Physical","Relief","Flat",NA,"0",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-099","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,43
+"2024-04_Geographe_AMP","GB-DC-099","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-100","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,41
+"2024-04_Geographe_AMP","GB-DC-100","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-100","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,31
+"2024-04_Geographe_AMP","GB-DC-101","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-101","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-101","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,17
+"2024-04_Geographe_AMP","GB-DC-101","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,22
+"2024-04_Geographe_AMP","GB-DC-102","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-102","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-102","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,26
+"2024-04_Geographe_AMP","GB-DC-102","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,13
+"2024-04_Geographe_AMP","GB-DC-103","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-103","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,24
+"2024-04_Geographe_AMP","GB-DC-103","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,11
+"2024-04_Geographe_AMP","GB-DC-103","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-104","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,31
+"2024-04_Geographe_AMP","GB-DC-104","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-104","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,16
+"2024-04_Geographe_AMP","GB-DC-104","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-105","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,42
+"2024-04_Geographe_AMP","GB-DC-105","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-105","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,30
+"2024-04_Geographe_AMP","GB-DC-106","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,36
+"2024-04_Geographe_AMP","GB-DC-106","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,4
+"2024-04_Geographe_AMP","GB-DC-106","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-107","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-107","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,6
+"2024-04_Geographe_AMP","GB-DC-107","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-108","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,38
+"2024-04_Geographe_AMP","GB-DC-108","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-108","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,39
+"2024-04_Geographe_AMP","GB-DC-109","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-109","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-109","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,20
+"2024-04_Geographe_AMP","GB-DC-109","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,27
+"2024-04_Geographe_AMP","GB-DC-110","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,39
+"2024-04_Geographe_AMP","GB-DC-110","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,4
+"2024-04_Geographe_AMP","GB-DC-110","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-111","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,40
+"2024-04_Geographe_AMP","GB-DC-111","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-111","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,39
+"2024-04_Geographe_AMP","GB-DC-112","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_AMP","GB-DC-112","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,11
+"2024-04_Geographe_AMP","GB-DC-112","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,30
+"2024-04_Geographe_AMP","GB-DC-112","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-113","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-113","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,17
+"2024-04_Geographe_AMP","GB-DC-113","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,28
+"2024-04_Geographe_AMP","GB-DC-114","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-114","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,10
+"2024-04_Geographe_AMP","GB-DC-114","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-114","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-115","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,42
+"2024-04_Geographe_AMP","GB-DC-115","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-115","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,13
+"2024-04_Geographe_AMP","GB-DC-115","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,23
+"2024-04_Geographe_AMP","GB-DC-116","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,44
+"2024-04_Geographe_AMP","GB-DC-116","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-116","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-117","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_AMP","GB-DC-117","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,6
+"2024-04_Geographe_AMP","GB-DC-117","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,32
+"2024-04_Geographe_AMP","GB-DC-117","82003007","Physical","Relief","High","Wall","4",NA,NA,NA,5
+"2024-04_Geographe_AMP","GB-DC-118","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_AMP","GB-DC-118","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,21
+"2024-04_Geographe_AMP","GB-DC-118","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,24
+"2024-04_Geographe_AMP","GB-DC-118","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,2
+"2024-04_Geographe_AMP","GB-DC-119","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,31
+"2024-04_Geographe_AMP","GB-DC-119","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,16
+"2024-04_Geographe_AMP","GB-DC-119","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,30
+"2024-04_Geographe_AMP","GB-DC-119","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,3
+"2024-04_Geographe_AMP","GB-DC-120","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_AMP","GB-DC-120","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,9
+"2024-04_Geographe_AMP","GB-DC-120","82003006","Physical","Relief","High","High (>3m)","3",NA,NA,NA,36
+"2024-04_Geographe_AMP","GB-DC-C01","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,38
+"2024-04_Geographe_AMP","GB-DC-C01","82003003","Physical","Relief","Low / moderate","Low (<1m)","1",NA,NA,NA,26
+"2024-04_Geographe_AMP","GB-DC-C01","82003004","Physical","Relief","Low / moderate","Moderate (1-3m)","2",NA,NA,NA,16
