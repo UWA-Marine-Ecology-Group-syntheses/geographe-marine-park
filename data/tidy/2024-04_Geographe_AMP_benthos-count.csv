@@ -8,8 +8,8 @@
 "2024-04_Geographe_AMP","GB-DC-001","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,18
 "2024-04_Geographe_AMP","GB-DC-002","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,9
 "2024-04_Geographe_AMP","GB-DC-002","10000000","Biota","Sponges",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-"2024-04_Geographe_AMP","GB-DC-002","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",1
-"2024-04_Geographe_AMP","GB-DC-002","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_AMP","GB-DC-002","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",6
+"2024-04_Geographe_AMP","GB-DC-002","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
 "2024-04_Geographe_AMP","GB-DC-002","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,10
 "2024-04_Geographe_AMP","GB-DC-002","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,43
 "2024-04_Geographe_AMP","GB-DC-002","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,8
@@ -415,7 +415,7 @@
 "2024-04_Geographe_AMP","GB-DC-077","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",53
 "2024-04_Geographe_AMP","GB-DC-077","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,6
 "2024-04_Geographe_AMP","GB-DC-078","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,18
-"2024-04_Geographe_AMP","GB-DC-078","20000000","Biota","Bryozoa",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_AMP","GB-DC-078","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
 "2024-04_Geographe_AMP","GB-DC-078","63605902","Biota","Seagrasses","Elliptical leaves",NA,NA,NA,NA,NA,"Hydrocharitaceae","Halophila","spp",1
 "2024-04_Geographe_AMP","GB-DC-078","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,7
 "2024-04_Geographe_AMP","GB-DC-078","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,2

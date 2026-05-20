@@ -31,8 +31,13 @@ habitat <- read_csv("data/tidy/2024-04_Geographe_AMP_benthos-count.csv") %>%
     level_2 %in% "Sponges" ~ "Sessile invertebrates", 
     level_2 %in% "Sessile invertebrates" ~ level_2, 
     level_2 %in% "Bryozoa" ~ "Sessile invertebrates", 
-    level_2 %in% "Cnidaria" ~ "Sessile invertebrates")) %>%
+    level_2 %in% "Cnidaria" ~ "Sessile invertebrates",
+    level_2 %in% "Unscorable" ~ level_2, 
+    level_2 %in% "Fishes" ~ "Unscorable",
+    level_2 %in% "Ascidians" ~ "Sessile invertebrates",
+    level_2 %in% "Echinoderms" ~ "Sessile invertebrates")) %>%
   dplyr::select(sample, habitat, count) %>%
+  dplyr::filter(!habitat %in% "Unscorable") %>%
   group_by(sample, habitat) %>%
   dplyr::summarise(count = sum(count)) %>%
   dplyr::mutate(total_points_annotated = sum(count)) %>%

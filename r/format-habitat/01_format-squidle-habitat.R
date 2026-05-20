@@ -47,6 +47,9 @@ benthos_missing <- benthos %>%
   filter(caab_code %in% NA) %>%
   distinct(label_lineage_names)
 
+benthos_missing <- benthos %>%
+  filter(level_2 %in% NA) %>%
+  distinct(label_lineage_names)
 
 benthos_clean <- benthos %>%
   dplyr::mutate(count = 1) %>%
