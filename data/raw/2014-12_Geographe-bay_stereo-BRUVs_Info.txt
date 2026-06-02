@@ -1,0 +1,283 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+6	Hayley 																		
+7	Logan																		
+9	Molly			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+10	Hayley																		
+11	Hayley 			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+1	Hayley																		
+2	Molly																		
+3	Hayley																		
+4	Hayley																		
+5	Rachel																		
+15	Logan																		
+16	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+17	Hayley																		
+18	Hayley																		
+12	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+13	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+14	Logan																		
+52	Lizzy																		
+53	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+54	Hayley																		
+55	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+19	Logan																		
+20	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+22	Rachel																		
+23	Hayley																		
+24	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+25	Hayley																		
+26	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+27	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+28	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+29	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+30	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+31	Logan																		
+32	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+33	Molly			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+34	Lizzy																		
+35	Logan																		
+36	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+37	hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+38	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+39	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+40	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+41	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+42	Logan																		
+44	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+45	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+47	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+48	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+49	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+50	Lizzy																		
+51	Damon	25.4																	
+77	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+78	Logan																		
+79	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+56	Lizzy																		
+58	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+60	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+61	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+62	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+63	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+64	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+65	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+67	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+68	Molly			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+69	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+70	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+71	Logan																		
+72	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+73	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+75	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+76	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+97	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+98	Lauren	38																	
+100	Molly																		
+81	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+82	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+83	Logan																		
+84	Hayley																		
+86	Hayley																		
+87	Hayley																		
+88	Hayley																		
+89	Molly																		
+90	Hayley																		
+91	Hayley																		
+92	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+93	Laura	36																	
+95	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+96	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+122	Logan																		
+135	Logan																		
+138	Lauren	15																	
+139	Daphne	13.4																	
+143	Logan																		
+144	Lauren	12.3		Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+151	Daphne	17.2																	
+102	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+103	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+104	Molly																		
+107	Logan																		
+108	Logan																		
+111	Logan																		
+112	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+113	Laura	36.6																	
+114	Lizzy																		
+115	Logan																		
+116	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+119	Lizzy																		
+170	Logan																		
+175	Lizzy																		
+154	Lauren	13.6																	
+160	Logan																		
+167	Logan																		
+287	Logan																		
+288	Logan																		
+295	Lauren	2.5																	
+298	Lauren	18.1																	
+304	Lizzy																		
+314	Lizzy																		
+183	Logan																		
+192	Lizzy																		
+196	Logan																		
+202	Lauren	9.8																	
+207	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+208	Lizzy																		
+218	Laura	14.7																	
+224	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+234	Laura	9.3																	
+236	Lauren	13.1																	
+240	Logan																		
+247	Lizzy																		
+256	Logan																		
+267	Lizzy																		
+270	Logan																		
+271	Logan																		
+272	Logan																		
+279	Lizzy																		
+282	Logan																		
+375	Logan																		
+378	Logan																		
+384	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+391	Logan																		
+394	Logan																		
+395	Laura	9.2																	
+399	Laura	10.8																	
+400	Logan																		
+407	Logan																		
+327	Logan																		
+331	Logan																		
+335	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+346	Lizzy																		
+352	Daphne	15.2																	
+362	Laura	9.4																	
+368	Laura	3.8																	
+448	Daphne	10.6																	
+451	Lauren	7.8																	
+455	Logan																		
+428	Lauren	7.6																	
+439	Laura	8.9																	
+442	Lizzy																		
+443	Logan																		
+480	Laura	7.4																	
+490	Logan																		
+492	Laura	14.7																	
+463	Lizzy																		
+474	Laura	6.8																	
+615	Lauren	11.8																	
+618	Lizzy	14.5																	
+623	Lizzy																		
+624	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+633	Daphne																		
+634	Logan																		
+640	Lizzy																		
+647	Logan																		
+499	Lauren	9.9																	
+503	Daphne	16.3																	
+506	Logan																		
+512	lIZZY																		
+523	Logan																		
+527	Logan																		
+528	Lauren	14																	
+538	Laura	11.6																	
+544	Daphne	12.3																	
+554	Logan																		
+560	Lauren	14.6																	
+567	Lizzy																		
+579	Daphne	22																	
+583	Logan																		
+586	Lizzy																		
+587	Lizzy																		
+592	Laura	12.3																	
+599	Logan																		
+608	Daphne	16.7																	
+611	Laura	8.2																	
+807	Lizzy																		
+810	Logan																		
+816	Lizzy																		
+823	Lizzy																		
+650	Lizzy																		
+656	Molly																		
+666	Logan																		
+672	Molly																		
+682	Logan																		
+688	Laura	12.8																	
+694	Logan																		
+698	Hayley			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+704	Lizzy																		
+711	Laura	8.4																	
+719	Logan																		
+720	Laura	8.2																	
+735	Lauren	26.7																	
+746	Logan																		
+748	Logan																		
+752	Damon	6.2																	
+762	Laura	13																	
+764	Logan																		
+779	Lizzy																		
+782	Logan																		
+783	Hayley																		
+784	Laura	13.4																	
+791	Logan																		
+794	Lizzy																		
+800	Logan																		
+10001	Logan																		
+10003	Molly			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+10005	Laura	24.6																	
+826	Logan																		
+828	Lauren	7.6																	
+832	Lizzy																		
+839	Daphne	20																	
+842	Lizzy	22.3																	
+848	Logan																		
+855	Logan																		
+858	Logan																		
+864	Laura	12.4																	
+879	Laura	8.1																	
+880	Laura	10.9																	
+1038	Daphne	13.9																	
+1108	Laura	11.9																	
+13RC9	Logan																		
+13RC11	Logan																		
+13RC12	Logan																		
+13RC13	Lizzy																		
+13RC15	Logan																		
+11R2	Brooke Gibbons																		
+11R3	Brooke Gibbons																		
+11R4	Brooke Gibbons																		
+12RC1	Logan																		
+12RC2	Daphne																		
+12RC3	Daphne	17.9																	
+12RC5	Daphne																		
+12RC6	Logan																		
+12RC7	Logan																		
+12RC8	Logan																		
+12RC9	Molly			Bottom		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+13RC1	Logan																		
+13RC4	Logan																		
+13RC5	Daphne	26.8																	
+13RC6	Logan																		
+13RC7	Daphne	29.5																	
+13RC8	Logan																		
+GBR4-2	Hayley																		
+GBR5-1	Hayley																		
+GBR5-2	Hayley																		
+GBR5-3	Logan																		
+GBR-BOB	Lizzy																		
+RB1	Hayley																		
+RB2	Hayley																		
+RC1	Hayley																		
+RC2	Hayley																		
+RC3	Hayley																		
+GBR1-1	Laura	17.3																	
+GBR1-2	Logan																		
+GBR1-3	Logan																		
+GBR1-4	Logan																		
+GBR2-1	Laura	17.7																	
+GBR2-2	Laura	16.2																	
+GBR2-3	Lauren	16.4																	
+GBR2-4	Lizzy																		
+GBR3-1	Lauren	17.6																	
+GBR3-3	Lizzy																		
+GBR3-4	Lauren	16.6																	
+GBR4-1	Logan																		

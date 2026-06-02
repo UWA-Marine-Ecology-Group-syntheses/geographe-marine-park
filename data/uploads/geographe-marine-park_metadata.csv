@@ -1,0 +1,586 @@
+campaignid,opcode,status,longitude_dd,latitude_dd,observer_count,observer_length,date_time,location,site,depth_m,successful_count,successful_length,successful_habitat_forward,successful_habitat_backward,observer_habitat_forward,observer_habitat_backward
+2014-12_Geographe-bay_stereo-BRUVs,1,NA,115.2142,-33.3635,Hayley,Molly,2014-12-10T13:20:00+08:00,Geographe Bay,Geographe Bay,40,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,2,NA,115.101,-33.4405,Test video,Molly,2014-12-10T06:29:00+08:00,Geographe Bay,Geographe Bay,40.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,3,NA,115.3549,-33.4921,Hayley,Molly,2014-12-13T08:41:00+08:00,Geographe Bay,Geographe Bay,24.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,4,NA,115.2281,-33.3921,Hayley,Molly,2014-12-10T14:13:00+08:00,Geographe Bay,Geographe Bay,38.4,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,5,NA,115.455,-33.3628,test video,Molly,2014-12-11T09:43:00+08:00,Geographe Bay,Geographe Bay,25.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,6,NA,115.1204,-33.4071,Hayley,Molly,2014-12-10T07:55:00+08:00,Geographe Bay,Geographe Bay,41.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,7,NA,115.4457,-33.4205,Logan,Molly,2014-12-13T11:04:00+08:00,Geographe Bay,Geographe Bay,23.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,9,NA,115.1361,-33.3643,Molly,N/A,2014-12-10T10:04:00+08:00,Geographe Bay,Geographe Bay,41.8,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,10,NA,115.3313,-33.5282,Hayley,Molly,2014-12-12T10:48:00+08:00,Geographe Bay,Geographe Bay,22.7,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,11,NA,115.2958,-33.5712,Hayley,Molly,2014-12-12T08:59:00+08:00,Geographe Bay,Geographe Bay,21.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,12,NA,115.2616,-33.404,Hayley,Molly,2014-12-10T14:00:00+08:00,Geographe Bay,Geographe Bay,38.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13,NA,115.0925,-33.4502,Hayley,Molly,2014-12-09T13:41:00+08:00,Geographe Bay,Geographe Bay,42.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,14,NA,115.413,-33.5297,Logan,Molly,2014-12-13T05:56:00+08:00,Geographe Bay,Geographe Bay,13.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,15,NA,115.2148,-33.5782,Logan,Molly,2014-12-12T06:27:00+08:00,Geographe Bay,Geographe Bay,26.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,16,NA,115.4986,-33.3889,Hayley,Molly,2014-12-11T12:21:00+08:00,Geographe Bay,Geographe Bay,20,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,17,NA,115.2327,-33.3636,Hayley,Molly,2014-12-10T13:27:00+08:00,Geographe Bay,Geographe Bay,38.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,18,NA,115.0981,-33.3926,Hayley,Molly,2014-12-10T07:44:00+08:00,Geographe Bay,Geographe Bay,42.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,19,NA,115.3618,-33.4605,Logan,Molly,2014-12-13T10:33:00+08:00,Geographe Bay,Geographe Bay,26,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,20,NA,115.2221,-33.4339,Hayley,Molly,2014-12-10T11:09:00+08:00,Geographe Bay,Geographe Bay,36,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,21,NA,115.3977,-33.3857,NA,NA,2014-12-14T06:54:00+08:00,Geographe Bay,Geographe Bay,15.7,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,22,NA,115.1807,-33.5746,test video,Molly,2014-12-09T07:10:00+08:00,Geographe Bay,Geographe Bay,22.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,23_old,NA,115.4289,-33.5042,NA,NA,2014-12-13T06:13:00+08:00,Geographe Bay,Geographe Bay,13.6,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,23,NA,115.4289,-33.5042,Hayley,Molly,2014-12-16T11:29:00+08:00,Geographe Bay,Geographe Bay,13.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,24,NA,115.2862,-33.4712,Hayley,Molly,2014-12-09T06:05:00+08:00,Geographe Bay,Geographe Bay,29.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,25,NA,115.0828,-33.3833,Hayley,Molly,2014-12-10T07:10:00+08:00,Geographe Bay,Geographe Bay,42.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,26,NA,115.3236,-33.55,Hayley,Molly,2014-12-12T11:02:00+08:00,Geographe Bay,Geographe Bay,20.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,27,NA,115.1884,-33.5464,Hayley,Molly,2014-12-09T07:00:00+08:00,Geographe Bay,Geographe Bay,28.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,28,NA,115.2873,-33.4272,Hayley,Molly,2014-12-11T07:07:00+08:00,Geographe Bay,Geographe Bay,34,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,29,NA,115.1764,-33.487,Hayley,Molly,2014-12-09T10:30:00+08:00,Geographe Bay,Geographe Bay,34.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,30,NA,115.3341,-33.4241,Hayley,Molly,2014-12-11T06:37:00+08:00,Geographe Bay,Geographe Bay,31.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,31,NA,115.2369,-33.5986,Logan,Molly,2014-12-12T05:55:00+08:00,Geographe Bay,Geographe Bay,26.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,32,NA,115.4621,-33.4808,Hayley,Molly,2014-12-13T07:53:00+08:00,Geographe Bay,Geographe Bay,14.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,33,NA,115.3205,-33.3528,Molly,N/A,2014-12-11T08:54:00+08:00,Geographe Bay,Geographe Bay,34.1,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,34,NA,115.0739,-33.3845,Lizzy,N/A,2014-12-10T07:05:00+08:00,Geographe Bay,Geographe Bay,43,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,35,NA,115.4157,-33.4055,Logan,Molly,2014-12-13T11:14:00+08:00,Geographe Bay,Geographe Bay,27.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,36,NA,115.2077,-33.4269,Hayley,Molly,2014-12-10T11:17:00+08:00,Geographe Bay,Geographe Bay,38.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,37,NA,115.3721,-33.3585,Hayley,Molly,2014-12-11T09:11:00+08:00,Geographe Bay,Geographe Bay,30.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,38,NA,115.1274,-33.5037,Hayley,Molly,2014-12-09T12:45:00+08:00,Geographe Bay,Geographe Bay,34.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,39,NA,115.4329,-33.465,Hayley,Molly,2014-12-11T13:20:00+08:00,Geographe Bay,Geographe Bay,19.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,40,NA,115.2287,-33.472,Hayley,Molly,2014-12-09T09:57:00+08:00,Geographe Bay,Geographe Bay,33.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,41,NA,115.0986,-33.3679,Hayley,Molly,2014-12-10T07:35:00+08:00,Geographe Bay,Geographe Bay,42.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,42,NA,115.3862,-33.5425,Logan,Molly,2014-12-12T13:13:00+08:00,Geographe Bay,Geographe Bay,13,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,44,NA,115.3097,-33.3984,Hayley,Molly,2014-12-11T06:54:00+08:00,Geographe Bay,Geographe Bay,34.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,45,NA,115.1317,-33.4446,Hayley,Molly,2014-12-09T13:28:00+08:00,Geographe Bay,Geographe Bay,41.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,46,NA,115.3493,-33.4028,NA,NA,2014-12-14T06:35:00+08:00,Geographe Bay,Geographe Bay,18,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,47,NA,115.2878,-33.5485,Hayley,Molly,2014-12-12T10:29:00+08:00,Geographe Bay,Geographe Bay,24.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,48,NA,115.5134,-33.4028,Hayley,Molly,2014-12-11T12:31:00+08:00,Geographe Bay,Geographe Bay,17.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,49,NA,115.2721,-33.3809,Hayley,Molly,2014-12-10T13:51:00+08:00,Geographe Bay,Geographe Bay,37.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,50,NA,115.1742,-33.4108,Lizzy,N/A,2014-12-10T10:29:00+08:00,Geographe Bay,Geographe Bay,40.5,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,51,NA,115.4137,-33.4316,Damon,N/A,2014-12-13T10:52:00+08:00,Geographe Bay,Geographe Bay,25.4,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,52,NA,115.2982,-33.4927,Lizzy,N/A,2014-12-09T06:14:00+08:00,Geographe Bay,Geographe Bay,29.7,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,53,NA,115.3565,-33.3582,Hayley,Molly,2014-12-11T09:04:00+08:00,Geographe Bay,Geographe Bay,31.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,54,NA,115.1532,-33.5131,Hayley,Molly,2014-12-09T10:47:00+08:00,Geographe Bay,Geographe Bay,33.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,55,NA,115.2801,-33.5709,Hayley,Molly,2014-12-12T09:05:00+08:00,Geographe Bay,Geographe Bay,22.2,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,56,NA,115.2224,-33.4953,Lizzy,N/A,2014-12-09T09:49:00+08:00,Geographe Bay,Geographe Bay,32,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,58,NA,115.3796,-33.5697,Hayley,Molly,2014-12-12T13:02:00+08:00,Geographe Bay,Geographe Bay,13.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,60,NA,115.5049,-33.3626,Hayley,Molly,2014-12-11T09:55:00+08:00,Geographe Bay,Geographe Bay,21.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,61,NA,115.1345,-33.4993,Hayley,Molly,2014-12-09T12:50:00+08:00,Geographe Bay,Geographe Bay,34.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,62,NA,115.3307,-33.4505,Hayley,Molly,2014-12-11T06:24:00+08:00,Geographe Bay,Geographe Bay,29.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,63,NA,115.2562,-33.5039,Hayley,Molly,2014-12-09T06:29:00+08:00,Geographe Bay,Geographe Bay,30,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,64,NA,115.5095,-33.4364,Hayley,Molly,2014-12-11T12:54:00+08:00,Geographe Bay,Geographe Bay,14.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,65,NA,115.2048,-33.3597,Hayley,Molly,2014-12-10T13:15:00+08:00,Geographe Bay,Geographe Bay,39.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,67,NA,115.0859,-33.4783,Hayley,Molly,2014-12-13T10:10:00+08:00,Geographe Bay,Geographe Bay,21.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,68,NA,115.2426,-33.3882,Molly,N/A,2014-12-10T14:07:00+08:00,Geographe Bay,Geographe Bay,38.9,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,69,NA,115.404,-33.3534,Hayley,Molly,2014-12-11T09:23:00+08:00,Geographe Bay,Geographe Bay,28.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,70,NA,115.1514,-33.4159,Hayley,Molly,2014-12-10T10:46:00+08:00,Geographe Bay,Geographe Bay,41,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,71,NA,115.4287,-33.4271,Logan,Molly,2014-12-13T10:58:00+08:00,Geographe Bay,Geographe Bay,24.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,72,NA,115.3224,-33.4625,Hayley,Molly,2014-12-11T06:07:00+08:00,Geographe Bay,Geographe Bay,29.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,73,NA,115.1456,-33.3718,Hayley,Molly,2014-12-10T10:10:00+08:00,Geographe Bay,Geographe Bay,41.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,75,NA,115.2946,-33.5893,Hayley,Molly,2014-12-12T08:52:00+08:00,Geographe Bay,Geographe Bay,16.6,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,76,NA,115.2847,-33.413,Hayley,Molly,2014-12-11T07:01:00+08:00,Geographe Bay,Geographe Bay,35.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,77,NA,115.1029,-33.4558,Hayley,Molly,2014-12-09T13:50:00+08:00,Geographe Bay,Geographe Bay,40.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,78,NA,115.4438,-33.5076,Logan,Molly,2014-12-13T06:18:00+08:00,Geographe Bay,Geographe Bay,13.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,79,NA,115.2309,-33.5874,Hayley,Molly,2014-12-12T08:16:00+08:00,Geographe Bay,Geographe Bay,18.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,80,NA,115.5195,-33.3516,Hayley/Molly,NA,2014-12-11T10:01:00+08:00,Geographe Bay,Geographe Bay,20.7,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,81,NA,115.2305,-33.3788,Hayley,Molly,2014-12-10T14:18:00+08:00,Geographe Bay,Geographe Bay,38.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,82,NA,115.1103,-33.3955,Hayley,Molly,2014-12-10T07:49:00+08:00,Geographe Bay,Geographe Bay,42.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,83,NA,115.3791,-33.4694,Logan,Molly,2014-12-13T10:26:00+08:00,Geographe Bay,Geographe Bay,24.6,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,84,NA,115.1924,-33.3965,Hayley,Molly,2014-12-10T11:28:00+08:00,Geographe Bay,Geographe Bay,41,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,86,NA,115.1785,-33.5405,Hayley,Molly,2014-12-09T07:24:00+08:00,Geographe Bay,Geographe Bay,28.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,87,NA,115.4589,-33.4896,Hayley,Molly,2014-12-13T07:49:00+08:00,Geographe Bay,Geographe Bay,13,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,88,NA,115.2145,-33.5011,Hayley,Molly,2014-12-09T09:45:00+08:00,Geographe Bay,Geographe Bay,31.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,89,NA,115.0564,-33.3828,Molly,Molly,2014-12-10T06:58:00+08:00,Geographe Bay,Geographe Bay,43.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,90,NA,115.3225,-33.5333,Hayley,Molly,2014-12-12T10:53:00+08:00,Geographe Bay,Geographe Bay,22,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,91,NA,115.2061,-33.5396,Hayley,Molly,2014-12-09T06:54:00+08:00,Geographe Bay,Geographe Bay,29.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,92,NA,115.315,-33.4176,Hayley,Molly,2014-12-11T06:43:00+08:00,Geographe Bay,Geographe Bay,33,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,93,NA,115.1528,-33.4813,Laura,N/A,2014-12-09T12:59:00+08:00,Geographe Bay,Geographe Bay,36,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,95,NA,115.3155,-33.5175,Hayley,Molly,2014-12-12T10:42:00+08:00,Geographe Bay,Geographe Bay,24.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,96,NA,115.4808,-33.4489,Hayley,Molly,2014-12-11T13:04:00+08:00,Geographe Bay,Geographe Bay,15.9,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,97,NA,115.2927,-33.3847,Hayley,Molly,2014-12-11T08:43:00+08:00,Geographe Bay,Geographe Bay,35.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,98,NA,115.1727,-33.434,Lizzy,N/A,2014-12-10T10:56:00+08:00,Geographe Bay,Geographe Bay,38,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,101,NA,115.3768,-33.3886,Lizzy,NA,2014-12-14T06:47:00+08:00,Geographe Bay,Geographe Bay,16.7,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,100,NA,115.2142,-33.4325,Molly,N/A,2014-12-10T11:14:00+08:00,Geographe Bay,Geographe Bay,36.7,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,102,NA,115.1196,-33.5185,Hayley,Molly,2014-12-09T12:39:00+08:00,Geographe Bay,Geographe Bay,34.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,103,NA,115.4547,-33.4581,Hayley,Molly,2014-12-11T13:12:00+08:00,Geographe Bay,Geographe Bay,18.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,104,NA,115.2451,-33.4597,Molly,Lizzy,2014-12-09T10:04:00+08:00,Geographe Bay,Geographe Bay,33.3,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,106,NA,115.3451,-33.5783,Logan,NA,2014-12-12T11:27:00+08:00,Geographe Bay,Geographe Bay,13.5,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,107_old,NA,115.1881,-33.5833,Logan,NA,2014-12-15T08:56:00+08:00,Geographe Bay,Geographe Bay,20.9,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,107,NA,115.1881,-33.5833,Molly,N/A,2014-12-09T09:25:00+08:00,Geographe Bay,Geographe Bay,29.3,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,108,NA,115.1677,-33.4691,Logan,Molly,2014-12-11T06:47:00+08:00,Geographe Bay,Geographe Bay,34,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,111,NA,115.3219,-33.5369,Logan,Molly,2014-12-12T10:55:00+08:00,Geographe Bay,Geographe Bay,21.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,110,NA,115.3557,-33.4023,NA,NA,2014-12-14T06:37:00+08:00,Geographe Bay,Geographe Bay,17,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,112,NA,115.5224,-33.4052,Hayley,Molly,2014-12-11T12:35:00+08:00,Geographe Bay,Geographe Bay,14.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,113,NA,115.2779,-33.3658,Laura,Laura,2014-12-10T13:45:00+08:00,Geographe Bay,Geographe Bay,36.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,114,NA,115.1639,-33.3984,Lizzy,Lizzy,2014-12-10T10:20:00+08:00,Geographe Bay,Geographe Bay,39.7,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,115,NA,115.4065,-33.4446,Logan,Molly,2014-12-13T10:46:00+08:00,Geographe Bay,Geographe Bay,25.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,116,NA,115.2864,-33.4982,Hayley,Molly,2014-12-09T06:20:00+08:00,Geographe Bay,Geographe Bay,29.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,119,NA,115.5567,-33.4388,Lizzy,Laura,2014-12-14T11:25:00+08:00,Geographe Bay,Geographe Bay,5.2,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,122,NA,115.4021,-33.5375,Logan,Molly,2014-12-13T05:48:00+08:00,Geographe Bay,Geographe Bay,13.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,135,NA,115.4207,-33.5019,Logan,Molly,2014-12-16T12:54:00+08:00,Geographe Bay,Geographe Bay,15.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,138,NA,115.1139,-33.5808,Lauren,Damo,2014-12-15T06:50:00+08:00,Geographe Bay,Geographe Bay,15,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,139,NA,115.2737,-33.6033,Daphne,Molly,2014-12-17T08:29:00+08:00,Geographe Bay,Geographe Bay,13.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,143,NA,115.2367,-33.5762,Logan,Molly,2014-12-15T13:24:00+08:00,Geographe Bay,Geographe Bay,23.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,144,NA,115.4323,-33.5342,Lauren,Laura,2014-12-16T15:37:00+08:00,Geographe Bay,Geographe Bay,12.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,151,NA,115.4329,-33.4768,Daphne,Molly,2014-12-16T09:12:00+08:00,Geographe Bay,Geographe Bay,17.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,154,NA,115.1968,-33.6034,Lauren,Damo,2014-12-15T10:58:00+08:00,Geographe Bay,Geographe Bay,13.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,160,NA,115.2478,-33.6034,Logan,Molly,2014-12-16T15:24:00+08:00,Geographe Bay,Geographe Bay,N/A,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,167,NA,115.4806,-33.4627,Logan,Molly,2014-12-16T09:25:00+08:00,Geographe Bay,Geographe Bay,14.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,170,NA,115.3698,-33.5417,Logan,Molly,2014-12-16T13:39:00+08:00,Geographe Bay,Geographe Bay,15.8,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,175,NA,115.1228,-33.5518,Lizzy,Lauren,2014-12-15T06:34:00+08:00,Geographe Bay,Geographe Bay,28.5,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,176,NA,115.1291,-33.59,Lizzy,NA,2014-12-15T06:59:00+08:00,Geographe Bay,Geographe Bay,15.4,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,183,NA,115.2488,-33.5688,Logan,Molly,2014-12-15T13:29:00+08:00,Geographe Bay,Geographe Bay,22.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,192,NA,115.5756,-33.4273,Lizzy,Laura,2014-12-14T11:19:00+08:00,Geographe Bay,Geographe Bay,4.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,196,NA,115.4045,-33.5098,Logan,Molly,2014-12-16T12:49:00+08:00,Geographe Bay,Geographe Bay,15.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,199,NA,115.2109,-33.5975,Lizzy,Lizzy,2014-12-15T10:53:00+08:00,Geographe Bay,Geographe Bay,15.2,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,202,NA,115.4117,-33.5779,Lauren,Lauren,2014-12-17T06:04:00+08:00,Geographe Bay,Geographe Bay,9.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,207,NA,115.2317,-33.5738,Hayley,Molly,2014-12-12T08:06:00+08:00,Geographe Bay,Geographe Bay,23.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,208,NA,115.5742,-33.3873,Lizzy,Laura,2014-12-14T11:03:00+08:00,Geographe Bay,Geographe Bay,7.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,215,NA,115.2241,-33.6066,Lizzy,N/A,2014-12-15T10:45:00+08:00,Geographe Bay,Geographe Bay,14.1,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,218,NA,115.3031,-33.5955,Laura,Laura,2014-12-17T09:46:00+08:00,Geographe Bay,Geographe Bay,14.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,224,NA,115.5036,-33.4189,Hayley,Molly,2014-12-16T06:59:00+08:00,Geographe Bay,Geographe Bay,16.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,234,NA,115.3602,-33.6032,Laura,Damo,2014-12-17T10:03:00+08:00,Geographe Bay,Geographe Bay,9.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,236,NA,115.4767,-33.4949,Lauren,Lizzy,2014-12-16T10:45:00+08:00,Geographe Bay,Geographe Bay,13.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,240,NA,115.4685,-33.4388,Logan,Molly,2014-12-16T08:56:00+08:00,Geographe Bay,Geographe Bay,18.9,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,247,NA,115.1345,-33.5561,Lizzy,Lauren,2014-12-15T06:30:00+08:00,Geographe Bay,Geographe Bay,26.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,250,NA,115.4224,-33.5628,Laura,N/A,2014-12-16T15:17:00+08:00,Geographe Bay,Geographe Bay,10,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,256,NA,115.4775,-33.4083,Logan,Molly,2014-12-14T13:12:00+08:00,Geographe Bay,Geographe Bay,11.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,267,NA,115.1362,-33.5707,Lizzy,Lauren,2014-12-15T06:22:00+08:00,Geographe Bay,Geographe Bay,23.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,270,NA,115.4206,-33.5205,Logan,Molly,2014-12-13T06:00:00+08:00,Geographe Bay,Geographe Bay,13.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,271,NA,115.2133,-33.5937,Logan,Molly,2014-12-12T06:06:00+08:00,Geographe Bay,Geographe Bay,27.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,272,NA,115.4879,-33.3815,Logan (ends 54:39),Molly,2014-12-14T08:37:00+08:00,Geographe Bay,Geographe Bay,11.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,279,NA,115.4379,-33.5012,Lizzy,N/A,2014-12-16T11:32:00+08:00,Geographe Bay,Geographe Bay,14.2,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,282,NA,115.3322,-33.5572,Logan,Molly,2014-12-17T08:02:00+08:00,Geographe Bay,Geographe Bay,18.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,287,NA,115.2189,-33.594,Logan,Molly,2014-12-15T10:50:00+08:00,Geographe Bay,Geographe Bay,16.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,288,NA,115.4776,-33.471,Logan,Molly,2014-12-16T09:29:00+08:00,Geographe Bay,Geographe Bay,14.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,295,NA,115.4661,-33.5555,Lauren,Damo,2014-12-16T15:50:00+08:00,Geographe Bay,Geographe Bay,2.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,298,NA,115.1301,-33.5825,Lauren,Lauren,2014-12-15T06:56:00+08:00,Geographe Bay,Geographe Bay,18.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,304,NA,115.1454,-33.5958,Lizzy,Lauren,2014-12-15T10:17:00+08:00,Geographe Bay,Geographe Bay,13.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,314,NA,115.1628,-33.5869,Lizzy,Laura,2014-12-15T09:03:00+08:00,Geographe Bay,Geographe Bay,20,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,316,NA,115.5282,-33.384,NA,NA,2014-12-14T10:49:00+08:00,Geographe Bay,Geographe Bay,9.3,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,320,NA,115.4958,-33.4418,NA,NA,2014-12-16T08:49:00+08:00,Geographe Bay,Geographe Bay,15.1,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,327,NA,115.3942,-33.4892,Logan,Molly,2014-12-14T14:10:00+08:00,Geographe Bay,Geographe Bay,11.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,330,NA,115.104,-33.5691,Damon,N/A,2014-12-15T06:44:00+08:00,Geographe Bay,Geographe Bay,17.7,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,331,NA,115.253,-33.6031,Logan,Molly,2014-12-15T13:46:00+08:00,Geographe Bay,Geographe Bay,14.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,335,NA,115.2267,-33.5771,Hayley,Molly,2014-12-12T08:09:00+08:00,Geographe Bay,Geographe Bay,21.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,346,NA,115.2393,-33.6092,Lizzy,Laura,2014-12-15T13:08:00+08:00,Geographe Bay,Geographe Bay,14,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,352,NA,115.488,-33.4518,Daphne,Molly,2014-12-16T08:45:00+08:00,Geographe Bay,Geographe Bay,15.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,362,NA,115.2948,-33.627,Laura,Damo,2014-12-17T10:23:00+08:00,Geographe Bay,Geographe Bay,9.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,368,NA,115.4513,-33.5725,Laura,Damo,2014-12-16T15:59:00+08:00,Geographe Bay,Geographe Bay,3.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,375,NA,115.2206,-33.5902,Logan,Molly,2014-12-12T06:14:00+08:00,Geographe Bay,Geographe Bay,26.9,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,378,NA,115.3912,-33.5556,Logan,Molly,2014-12-12T13:08:00+08:00,Geographe Bay,Geographe Bay,13.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,384,NA,115.5142,-33.4275,Hayley,Molly,2014-12-16T06:54:00+08:00,Geographe Bay,Geographe Bay,13.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,391,NA,115.4101,-33.5017,Logan,Molly,2014-12-13T08:23:00+08:00,Geographe Bay,Geographe Bay,17,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,394,NA,115.382,-33.5181,Logan,Molly,2014-12-16T13:18:00+08:00,Geographe Bay,Geographe Bay,19,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,395,NA,115.3444,-33.6073,Laura,Damo,2014-12-17T10:08:00+08:00,Geographe Bay,Geographe Bay,9.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,399,NA,115.313,-33.6143,Laura,Damo,2014-12-17T10:17:00+08:00,Geographe Bay,Geographe Bay,10.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,400,NA,115.5517,-33.3576,Logan,Molly,2014-12-14T08:58:00+08:00,Geographe Bay,Geographe Bay,9.8,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,407,NA,115.4275,-33.4882,Logan,Molly,2014-12-13T08:13:00+08:00,Geographe Bay,Geographe Bay,16.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,416,NA,115.2806,-33.6148,Laura,Damo,2014-12-17T10:34:00+08:00,Geographe Bay,Geographe Bay,12.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,428,NA,115.5572,-33.4505,Lauren,Lizzy,2014-12-16T06:31:00+08:00,Geographe Bay,Geographe Bay,7.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,432,NA,115.4686,-33.427,NA,NA,2014-12-14T13:19:00+08:00,Geographe Bay,Geographe Bay,10.7,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,439,NA,115.2731,-33.6309,Laura,Damo,2014-12-17T10:29:00+08:00,Geographe Bay,Geographe Bay,8.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,442,NA,115.4194,-33.5066,Lizzy,Lauren,2014-12-12T13:28:00+08:00,Geographe Bay,Geographe Bay,14.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,443,NA,115.2025,-33.5698,Logan,Molly,2014-12-12T06:34:00+08:00,Geographe Bay,Geographe Bay,27,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,448,NA,115.4931,-33.3965,Daphne,Molly,2014-12-14T13:05:00+08:00,Geographe Bay,Geographe Bay,10.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,451,NA,115.5529,-33.4198,Lauren,Damo,2014-12-14T11:32:00+08:00,Geographe Bay,Geographe Bay,7.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,455,NA,115.182,-33.5671,Logan,Molly,2014-12-15T08:42:00+08:00,Geographe Bay,Geographe Bay,24.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,458,NA,115.5044,-33.5151,Lizzy,Damo,2014-12-16T10:58:00+08:00,Geographe Bay,Geographe Bay,6.2,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,463,NA,115.5044,-33.5151,Lizzy,Tamy,2014-12-12T08:03:00+08:00,Geographe Bay,Geographe Bay,24.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,474,NA,115.5436,-33.4681,Laura,Lizzy,2014-12-16T06:23:00+08:00,Geographe Bay,Geographe Bay,6.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,480,NA,115.5777,-33.3476,Laura,N/A,2014-12-14T09:06:00+08:00,Geographe Bay,Geographe Bay,7.4,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,490,NA,115.3612,-33.5613,Logan,Molly,2014-12-17T06:20:00+08:00,Geographe Bay,Geographe Bay,13.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,492,NA,115.4975,-33.4638,Laura,Damo,2014-12-16T08:40:00+08:00,Geographe Bay,Geographe Bay,14.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,496,NA,115.4752,-33.4851,Lauren,Lizzy,2014-12-16T10:42:00+08:00,Geographe Bay,Geographe Bay,15.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,499,NA,115.5441,-33.4517,Lauren,Tamy,2014-12-16T06:36:00+08:00,Geographe Bay,Geographe Bay,9.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,503,NA,115.3098,-33.5845,Daphne (finishes at 55:48),Molly,2014-12-17T07:48:00+08:00,Geographe Bay,Geographe Bay,16.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,506,NA,115.4165,-33.5174,Logan,Molly,2014-12-16T11:23:00+08:00,Geographe Bay,Geographe Bay,14.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,512,NA,115.4873,-33.5094,Lizzy,Laura,2014-12-16T11:03:00+08:00,Geographe Bay,Geographe Bay,10.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,523,NA,115.1589,-33.5634,Logan,Molly,2014-12-15T08:35:00+08:00,Geographe Bay,Geographe Bay,26,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,527,NA,115.2078,-33.5894,Logan,Molly,2014-12-12T06:16:00+08:00,Geographe Bay,Geographe Bay,26.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,528,NA,115.4971,-33.4811,Lauren,Lauren,2014-12-16T08:34:00+08:00,Geographe Bay,Geographe Bay,14,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,538,NA,115.3847,-33.5839,Laura,Lauren,2014-12-17T05:53:00+08:00,Geographe Bay,Geographe Bay,11.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,543,NA,115.2434,-33.595,NA,NA,2014-12-15T13:13:00+08:00,Geographe Bay,Geographe Bay,16.7,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,544,NA,115.4341,-33.4464,Daphne,Molly,2014-12-14T13:36:00+08:00,Geographe Bay,Geographe Bay,12.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,551,NA,115.3901,-33.5735,Lizzy,N/A,2014-12-17T05:58:00+08:00,Geographe Bay,Geographe Bay,11.7,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,554,NA,115.3835,-33.5577,Logan,Molly,2014-12-17T06:13:00+08:00,Geographe Bay,Geographe Bay,12.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,560,NA,115.5269,-33.4382,Lauren,Lizzy,2014-12-16T06:49:00+08:00,Geographe Bay,Geographe Bay,14.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,567,NA,115.276,-33.5867,Lizzy,Damo,2014-12-17T08:23:00+08:00,Geographe Bay,Geographe Bay,17.4,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,570,NA,115.1625,-33.5731,NA,NA,2014-12-15T08:31:00+08:00,Geographe Bay,Geographe Bay,24.6,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,572,NA,115.5492,-33.3913,Lauren,Lizzy,2014-12-14T10:54:00+08:00,Geographe Bay,Geographe Bay,8.1,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,579,NA,115.3741,-33.5017,Daphne,Molly,2014-12-16T13:10:00+08:00,Geographe Bay,Geographe Bay,22,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,583,NA,115.3932,-33.4784,Logan,Molly,2014-12-14T13:55:00+08:00,Geographe Bay,Geographe Bay,12,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,586,NA,115.386,-33.5309,Lizzy,N/A,2014-12-16T13:24:00+08:00,Geographe Bay,Geographe Bay,15.8,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,587,NA,115.1874,-33.5935,Lizzy,Damo,2014-12-15T11:03:00+08:00,Geographe Bay,Geographe Bay,16.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,592,NA,115.446,-33.5185,Laura,Laura,2014-12-16T11:15:00+08:00,Geographe Bay,Geographe Bay,12.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,599,NA,115.4508,-33.5021,Logan,Molly,2014-12-13T06:22:00+08:00,Geographe Bay,Geographe Bay,13.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,602,NA,115.2562,-33.6202,Lauren,Damo,2014-12-15T12:57:00+08:00,Geographe Bay,Geographe Bay,11.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,608,NA,115.4703,-33.4552,Daphne,Molly,2014-12-16T09:01:00+08:00,Geographe Bay,Geographe Bay,16.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,611,NA,115.459,-33.5421,Laura,Damo,2014-12-16T15:45:00+08:00,Geographe Bay,Geographe Bay,8.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,615,NA,115.3328,-33.5981,Lauren,Lauren,2014-12-17T09:56:00+08:00,Geographe Bay,Geographe Bay,11.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,618,NA,115.3528,-33.5679,Lizzy,N/A,2014-12-17T05:40:00+08:00,Geographe Bay,Geographe Bay,14.5,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,623,NA,115.1556,-33.6129,Lizzy,Lauren,2014-12-15T10:24:00+08:00,Geographe Bay,Geographe Bay,7.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,624,NA,115.4919,-33.421,Hayley,Molly,2014-12-16T07:03:00+08:00,Geographe Bay,Geographe Bay,17.5,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,631,NA,115.2541,-33.5779,NA,NA,2014-12-15T13:33:00+08:00,Geographe Bay,Geographe Bay,21,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,633,NA,115.4535,-33.4712,Daphne,Molly,2014-12-16T09:18:00+08:00,Geographe Bay,Geographe Bay,16.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,634,NA,115.4141,-33.5337,Logan,Molly,2014-12-16T15:30:00+08:00,Geographe Bay,Geographe Bay,13,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,635,NA,115.1996,-33.581,NA,NA,2014-12-15T08:52:00+08:00,Geographe Bay,Geographe Bay,21.2,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,640,NA,115.4646,-33.5162,Lizard,Lauren,2014-12-16T11:10:00+08:00,Geographe Bay,Geographe Bay,11.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,647,NA,115.4247,-33.4926,Logan,Molly,2014-12-13T08:17:00+08:00,Geographe Bay,Geographe Bay,15.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,655,NA,115.2457,-33.5812,NA,NA,2014-12-15T13:20:00+08:00,Geographe Bay,Geographe Bay,20.5,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,650,NA,115.3716,-33.5131,Lizzy,N/A,2014-12-16T13:14:00+08:00,Geographe Bay,Geographe Bay,21.1,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,656,NA,115.5504,-33.3713,Molly,N/A,2014-12-14T09:28:00+08:00,Geographe Bay,Geographe Bay,9,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,666,NA,115.3572,-33.5511,Logan,Molly,2014-12-17T06:25:00+08:00,Geographe Bay,Geographe Bay,15.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,679,NA,115.4153,-33.4721,NA,NA,2014-12-14T13:48:00+08:00,Geographe Bay,Geographe Bay,12,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,672,NA,115.5357,-33.4004,Molly,N/A,2014-12-14T11:45:00+08:00,Geographe Bay,Geographe Bay,8.4,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,682,NA,115.3354,-33.5696,Logan,Molly,2014-12-17T07:57:00+08:00,Geographe Bay,Geographe Bay,15.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,684,NA,115.1735,-33.5845,Lizzy,Damo,2014-12-15T09:00:00+08:00,Geographe Bay,Geographe Bay,20.6,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,688,NA,115.3181,-33.6026,Laura,Lauren,2014-12-17T09:52:00+08:00,Geographe Bay,Geographe Bay,12.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,694,NA,115.3499,-33.5281,Logan,Molly,2014-12-16T13:32:00+08:00,Geographe Bay,Geographe Bay,21.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,698,NA,115.4035,-33.5246,Hayley,Molly,2014-12-12T13:25:00+08:00,Geographe Bay,Geographe Bay,14,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,704,NA,115.5324,-33.4848,Lizzy,Lauren,2014-12-16T06:15:00+08:00,Geographe Bay,Geographe Bay,7.45,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,711,NA,115.5666,-33.3695,Laura,Damo,2014-12-14T09:24:00+08:00,Geographe Bay,Geographe Bay,8.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,714,NA,115.1468,-33.5793,Lauren,Lizzy,2014-12-15T08:26:00+08:00,Geographe Bay,Geographe Bay,21.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,719,NA,115.2325,-33.601,Logan,Molly,2014-12-12T05:59:00+08:00,Geographe Bay,Geographe Bay,26.3,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,720,NA,115.5835,-33.3599,Laura,Laura,2014-12-14T09:11:00+08:00,Geographe Bay,Geographe Bay,8.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,735,NA,115.1433,-33.562,Lauren,Damo,2014-12-15T06:27:00+08:00,Geographe Bay,Geographe Bay,26.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,736,NA,115.5606,-33.3851,Lauren,Lizzy,2014-12-14T10:59:00+08:00,Geographe Bay,Geographe Bay,8.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,746,NA,115.3571,-33.5794,Logan,Molly,2014-12-17T05:45:00+08:00,Geographe Bay,Geographe Bay,13.2,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,748,NA,115.5138,-33.3696,Logan,Molly,2014-12-14T08:46:00+08:00,Geographe Bay,Geographe Bay,11.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,752,NA,115.5914,-33.3766,Damon,Laura,2014-12-14T09:15:00+08:00,Geographe Bay,Geographe Bay,6.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,755,NA,115.4571,-33.4339,NA,NA,2014-12-14T13:27:00+08:00,Geographe Bay,Geographe Bay,11.3,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,759,NA,115.3173,-33.5759,Daphne (finishes at 59:18),NA,2014-12-17T07:52:00+08:00,Geographe Bay,Geographe Bay,17.3,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,762,NA,115.4149,-33.5199,laura,N/A,2014-12-12T13:44:00+08:00,Geographe Bay,Geographe Bay,13,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,764,NA,115.4961,-33.3744,Logan,Molly,2014-12-14T08:43:00+08:00,Geographe Bay,Geographe Bay,11.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,779,NA,115.2264,-33.5817,Lizzy,N/A,2014-12-17T08:11:00+08:00,Geographe Bay,Geographe Bay,19,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,782,NA,115.4368,-33.5142,Logan,Molly,2014-12-13T06:06:00+08:00,Geographe Bay,Geographe Bay,13.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,783,NA,115.2264,-33.5817,Hayley,Molly,2014-12-12T08:12:00+08:00,Geographe Bay,Geographe Bay,21.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,784,NA,115.1774,-33.6014,Laura,Lizzy,2014-12-15T11:07:00+08:00,Geographe Bay,Geographe Bay,13.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,791,NA,115.4435,-33.4851,Logan,Molly,2014-12-13T08:03:00+08:00,Geographe Bay,Geographe Bay,15,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,794,NA,115.2039,-33.6248,Lizzy,Damo,2014-12-15T10:38:00+08:00,Geographe Bay,Geographe Bay,7.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,800,NA,115.1935,-33.5732,Logan,Molly,2014-12-15T08:48:00+08:00,Geographe Bay,Geographe Bay,22.9,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,807,NA,115.4907,-33.494,Lizzy,Laura,2014-12-16T10:50:00+08:00,Geographe Bay,Geographe Bay,14,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,810,NA,115.3766,-33.5513,Logan,Molly,2014-12-16T13:44:00+08:00,Geographe Bay,Geographe Bay,14.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,816,NA,115.5633,-33.3996,Lizzy,Damo,2014-12-14T11:09:00+08:00,Geographe Bay,Geographe Bay,7.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,823,NA,115.2872,-33.5857,Lizzy,Laura,2014-12-17T08:19:00+08:00,Geographe Bay,Geographe Bay,16.2,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,826,NA,115.4006,-33.5427,Logan,Molly,2014-12-13T05:45:00+08:00,Geographe Bay,Geographe Bay,12.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,828,NA,115.5296,-33.4175,Lauren,Laura,2014-12-14T11:38:00+08:00,Geographe Bay,Geographe Bay,7.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,832,NA,115.5197,-33.4556,Lizzy,Lauren,2014-12-16T06:43:00+08:00,Geographe Bay,Geographe Bay,12.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,839,NA,115.4085,-33.4873,Daphne,Molly,2014-12-16T13:00:00+08:00,Geographe Bay,Geographe Bay,20,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,842,NA,115.1149,-33.5681,Lizzy,Damo,2014-12-15T06:40:00+08:00,Geographe Bay,Geographe Bay,22.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,843,NA,115.2586,-33.6,Damon,Lizzy,2014-12-15T13:43:00+08:00,Geographe Bay,Geographe Bay,14.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,848,NA,115.5323,-33.3519,Logan,Molly,2014-12-14T08:53:00+08:00,Geographe Bay,Geographe Bay,10.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,855,NA,115.4358,-33.4901,Logan,Molly,2014-12-13T08:09:00+08:00,Geographe Bay,Geographe Bay,15.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,858,NA,115.3462,-33.5573,Logan,Molly,2014-12-17T06:29:00+08:00,Geographe Bay,Geographe Bay,16.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,864,NA,115.3721,-33.5833,Laura,Damo,2014-12-17T05:50:00+08:00,Geographe Bay,Geographe Bay,12.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,879,NA,115.1829,-33.6169,Laura,Done,2014-12-15T10:31:00+08:00,Geographe Bay,Geographe Bay,8.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,880,NA,115.4444,-33.5366,Laura,Done,2014-12-16T15:41:00+08:00,Geographe Bay,Geographe Bay,10.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,1038,NA,115.42,-33.5333,Daphne,Molly,2014-12-16T15:33:00+08:00,Geographe Bay,Geographe Bay,13.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,1108,NA,115.4144,-33.558,Laura,Done,2014-12-16T15:20:00+08:00,Geographe Bay,Geographe Bay,11.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,10000,NA,115.3646,-33.4136,NA,NA,2014-12-14T06:27:00+08:00,Geographe Bay,Geographe Bay,16.4,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,10001,NA,115.3722,-33.4217,Logan,Molly,2014-12-14T06:17:00+08:00,Geographe Bay,Geographe Bay,15.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,10002,NA,115.3889,-33.4234,NA,NA,2014-12-14T06:13:00+08:00,Geographe Bay,Geographe Bay,15.4,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,10004,NA,115.3976,-33.4039,NA,NA,2014-12-14T07:03:00+08:00,Geographe Bay,Geographe Bay,15.3,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,10003,NA,115.3594,-33.4213,Molly,N/A,2014-12-14T06:23:00+08:00,Geographe Bay,Geographe Bay,16.5,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,10005_old,NA,115.3694,-33.4778,Curtin,NA,2014-12-13T10:21:00+08:00,Geographe Bay,Geographe Bay,24.6,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,10005,NA,115.3694,-33.4778,Laura,Laura,2014-12-14T14:03:00+08:00,Geographe Bay,Geographe Bay,13.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,11R1,NA,115.3694,-33.3589,Lizzy,NA,2014-12-11T09:09:00+08:00,Geographe Bay,Geographe Bay,30.4,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,11R2,NA,115.5076,-33.3967,Brooke,Molly,2014-12-11T12:26:00+08:00,Geographe Bay,Geographe Bay,18.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,11R3,NA,115.5205,-33.4122,Brooke,Molly,2014-12-11T12:40:00+08:00,Geographe Bay,Geographe Bay,14.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,11R4,NA,115.5176,-33.4197,Brooke,Molly,2014-12-11T12:48:00+08:00,Geographe Bay,Geographe Bay,14.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,12RC1,NA,115.2133,-33.5932,Logan,Molly,2014-12-12T06:09:00+08:00,Geographe Bay,Geographe Bay,26.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,12RC2,NA,115.2379,-33.5916,Daphne,Molly,2014-12-12T08:23:00+08:00,Geographe Bay,Geographe Bay,17.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,12RC3,NA,115.2415,-33.5915,Daphne,Molly,2014-12-12T08:32:00+08:00,Geographe Bay,Geographe Bay,17.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,12RC5,NA,115.3443,-33.5621,Daphne,Molly,2014-12-12T11:16:00+08:00,Geographe Bay,Geographe Bay,14.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,12RC6,NA,115.3481,-33.5711,Logan,Molly,2014-12-12T11:22:00+08:00,Geographe Bay,Geographe Bay,14.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,12RC7,NA,115.4179,-33.5118,Logan,Molly,2014-12-12T13:38:00+08:00,Geographe Bay,Geographe Bay,15.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,12RC8,NA,115.4182,-33.5149,Logan,Molly,2014-12-12T13:41:00+08:00,Geographe Bay,Geographe Bay,14.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,12RC9,NA,115.4064,-33.5162,Molly,Molly,2014-12-12T13:48:00+08:00,Geographe Bay,Geographe Bay,14.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC1,NA,115.4308,-33.506,Logan,Molly,2014-12-13T06:11:00+08:00,Geographe Bay,Geographe Bay,13.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC11,NA,115.3693,-33.374,Logan,Molly,2014-12-13T13:23:00+08:00,Geographe Bay,Geographe Bay,31,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC12,NA,115.3668,-33.3744,Logan,Molly,2014-12-13T13:25:00+08:00,Geographe Bay,Geographe Bay,31.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC13,NA,115.3631,-33.3755,Lizzy,Molly,2014-12-13T13:31:00+08:00,Geographe Bay,Geographe Bay,31.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC15,NA,115.3559,-33.3768,Logan,Molly,2014-12-13T13:39:00+08:00,Geographe Bay,Geographe Bay,32.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC2,NA,115.456,-33.4949,Lizzy,NA,2014-12-13T06:27:00+08:00,Geographe Bay,Geographe Bay,13.4,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC3,NA,115.4516,-33.4839,(opcode sheet says: 791),NA,2014-12-13T08:00:00+08:00,Geographe Bay,Geographe Bay,13.6,No,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC4,NA,115.3965,-33.4994,Logan,Molly,2014-12-13T08:30:00+08:00,Geographe Bay,Geographe Bay,19.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC5,NA,115.4656,-33.4839,Daphne,Molly,2014-12-13T10:05:00+08:00,Geographe Bay,Geographe Bay,26.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC6,NA,115.3892,-33.381,Logan,Molly,2014-12-13T13:07:00+08:00,Geographe Bay,Geographe Bay,29.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC7,NA,115.3861,-33.3774,Daphne,Molly,2014-12-13T13:10:00+08:00,Geographe Bay,Geographe Bay,29.5,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC8,NA,115.3791,-33.3726,Logan,Molly,2014-12-13T13:14:00+08:00,Geographe Bay,Geographe Bay,30.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,13RC9,NA,115.3748,-33.3731,Logan,Molly,2014-12-13T13:18:00+08:00,Geographe Bay,Geographe Bay,30.9,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR-BOB,NA,115.2206,-33.5924,Lizzy,Lizzy,2014-12-17T12:23+08:00,Geographe Bay,Geographe Bay,16.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-1,NA,115.1963,-33.5936,Laura,Lauren,2014-12-17T12:02+08:00,Geographe Bay,Geographe Bay,17.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-2,NA,115.1995,-33.5936,Logan,Molly,2014-12-17T12:05+08:00,Geographe Bay,Geographe Bay,16,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-3,NA,115.2023,-33.5938,Logan,Molly,2014-12-17T12:07+08:00,Geographe Bay,Geographe Bay,15.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-4,NA,115.2055,-33.5935,Logan,Molly,2014-12-17T12:09+08:00,Geographe Bay,Geographe Bay,16.8,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-1,NA,115.1907,-33.5938,Laura,Lizzy,2014-12-17T13:40+08:00,Geographe Bay,Geographe Bay,17.7,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-2,NA,115.1884,-33.594,Laura,Lauren,2014-12-17T13:42+08:00,Geographe Bay,Geographe Bay,16.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-3,NA,115.1865,-33.5941,Lauren,Ronen,2014-12-17T13:44+08:00,Geographe Bay,Geographe Bay,16.4,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-4,NA,115.193,-33.5937,Lizzy,N/A,2014-12-17T13:38+08:00,Geographe Bay,Geographe Bay,16.2,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-1,NA,115.1819,-33.5945,Lauren,Lizzy,2014-12-17T13:53+08:00,Geographe Bay,Geographe Bay,17.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-2,NA,115.193,-33.5937,Lauren,N/A,2014-12-17T13:30+08:00,Geographe Bay,Geographe Bay,17.9,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-3,NA,115.184,-33.5937,Lizzy,Lizzy,2014-12-17T13:47+08:00,Geographe Bay,Geographe Bay,17,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-4,NA,115.1851,-33.5939,Lauren,Lizzy,2014-12-17T13:46+08:00,Geographe Bay,Geographe Bay,16.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR4-1,NA,115.2081,-33.5933,Logan,Molly,2014-12-17T12:11+08:00,Geographe Bay,Geographe Bay,16.1,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR4-2,NA,115.2102,-33.5928,Hayley,Molly,2014-12-17T12:13+08:00,Geographe Bay,Geographe Bay,16.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-1,NA,115.2119,-33.5932,Hayley,Molly,2014-12-17T12:15+08:00,Geographe Bay,Geographe Bay,16.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-2,NA,115.2148,-33.5927,Hayley,Molly,2014-12-17T12:17+08:00,Geographe Bay,Geographe Bay,16.6,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-3,NA,115.2175,-33.5924,Logan,Molly,2014-12-17T12:19+08:00,Geographe Bay,Geographe Bay,16.4,Yes,No,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,RB1,NA,115.2177,-33.5346,Hayley,Molly,2014-12-09T06:49+08:00,Geographe Bay,Geographe Bay,28,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,RB2,NA,115.2255,-33.5086,Hayley,Molly,2014-12-09T09:39+08:00,Geographe Bay,Geographe Bay,30,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,RC1,NA,115.24,-33.4628,Hayley,Molly,2014-12-09T10:09+08:00,Geographe Bay,Geographe Bay,34.2,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,RC2,NA,115.178,-33.4864,Hayley,Molly,2014-12-09T10:34+08:00,Geographe Bay,Geographe Bay,34.3,Yes,Yes,NA,NA,NA,NA
+2014-12_Geographe-bay_stereo-BRUVs,RC3,NA,115.1684,-33.4705,Hayley,Molly,2014-12-09T13:11+08:00,Geographe Bay,Geographe Bay,35,Yes,Yes,NA,NA,NA,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-001,Fished,115.2200283,-33.48167167,Ryan Simms,Bri Beaulieu,2024-03-26T07:52:39+08:00,Geographe Bay,NA,34.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-002,Fished,115.4291583,-33.40347,Alex McLennan,Bri Beaulieu,2024-04-08T11:16:24+08:00,Geographe Bay,NA,26.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-003,Fished,115.2877473,-33.4085045,Ryan Simms,Bri Beaulieu,2024-03-26T10:50:03+08:00,Geographe Bay,NA,37.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-004,Fished,115.2864067,-33.63981,Lise Fournier-Carnoy,Ryan Simms,2024-04-09T12:53:23+08:00,Geographe Bay,NA,7.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-005,Fished,115.1785967,-33.47694167,Alex McLennan,Ryan Simms,2024-03-27T14:21:00+08:00,Geographe Bay,NA,36.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-006,Fished,115.4437633,-33.35468,Alex McLennan,Bri Beaulieu,2024-04-08T11:36:54+08:00,Geographe Bay,NA,27.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-007,Fished,115.3787917,-33.58914667,Lise Fournier-Carnoy,Bri Beaulieu,2024-03-28T14:21:40+08:00,Geographe Bay,NA,12.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-008,Fished,115.2549917,-33.394755,Ryan Simms,Bri Beaulieu,2024-03-26T11:22:45+08:00,Geographe Bay,NA,39.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-009,Fished,115.149135,-33.57436167,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T09:35:24+08:00,Geographe Bay,NA,23.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-010,Fished,115.4771367,-33.49934667,Lise Fournier-Carnoy,NA,2024-04-03T10:40:47+08:00,Geographe Bay,NA,13.4,Yes,No,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-011,Fished,115.2826517,-33.52875667,Daniel Agnello,Ryan Simms,2024-04-02T15:28:02+08:00,Geographe Bay,NA,27.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Alex McLennan
+2024-04_Geographe_stereo-BRUVs,GB-BV-012,Fished,115.1656117,-33.42520167,Alex McLennan,Ryan Simms,2024-03-27T10:55:21+08:00,Geographe Bay,NA,40.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-013,Fished,115.0585717,-33.5242,Ryan Simms,Lise Fournier-Carnoy,2024-03-27T16:32:15+08:00,Geographe Bay,NA,35.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-014,Fished,115.2909633,-33.389175,Ryan Simms,Bri Beaulieu,2024-03-26T10:58:02+08:00,Geographe Bay,NA,37.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-015,Fished,115.36056,-33.52702,Daniel Agnello,Ryan Simms,2024-03-28T08:37:12+08:00,Geographe Bay,NA,21.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-016,Fished,115.1201883,-33.35978167,Alex McLennan,Ryan Simms,2024-03-27T08:03:05+08:00,Geographe Bay,NA,44.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-017,Fished,115.1819117,-33.588,Ryan Simms,Lise Fournier-Carnoy,2024-04-09T09:25:38+08:00,Geographe Bay,NA,21.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-018,Fished,115.4400033,-33.42482333,Alex McLennan,Bri Beaulieu,2024-04-04T14:47:11+08:00,Geographe Bay,NA,24.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-019,Fished,115.3412017,-33.51481333,Ryan Simms,Bri Beaulieu,2024-04-02T12:20:37+08:00,Geographe Bay,NA,24.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-020,Fished,115.18802,-33.41750333,Ryan Simms,Bri Beaulieu,2024-03-26T11:55:13+08:00,Geographe Bay,NA,40.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-021,Fished,115.059725,-33.47406,Alex McLennan,Ryan Simms,2024-03-27T15:06:03+08:00,Geographe Bay,NA,43.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-022,Fished,115.3356167,-33.37340833,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T14:48:04+08:00,Geographe Bay,NA,34.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-023,Fished,115.33004,-33.543785,Alex McLennan,Ryan Simms,2024-03-28T08:51:01+08:00,Geographe Bay,NA,22.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-024,Fished,115.0767517,-33.45564333,Bri Beaulieu,NA,2024-03-27T15:14:39+08:00,Geographe Bay,NA,43.7,Yes,No,NA,Yes,NA,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-025,Fished,115.2520867,-33.54552333,Ryan Simms,Bri Beaulieu,2024-04-02T15:08:57+08:00,Geographe Bay,NA,28.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-026,Fished,115.4820317,-33.37913833,Alex McLennan,Bri Beaulieu,2024-04-08T08:41:22+08:00,Geographe Bay,NA,23.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-027,Fished,115.4070683,-33.54213333,Ryan Simms,Bri Beaulieu,2024-03-28T10:51:13+08:00,Geographe Bay,NA,15.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-028,Fished,115.30105,-33.59105667,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-02T14:39:35+08:00,Geographe Bay,NA,17.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-029,Fished,115.1595867,-33.59575,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T08:55:29+08:00,Geographe Bay,NA,16.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-030,Fished,115.4113183,-33.47209,Ryan Simms,Bri Beaulieu,2024-04-02T11:35:52+08:00,Geographe Bay,NA,23.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-031,Fished,115.40324,-33.61203333,Lise Fournier-Carnoy,Ryan Simms,2024-03-28T13:24:59+08:00,Geographe Bay,NA,6.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-032,Fished,115.2093917,-33.46014167,Ryan Simms,Bri Beaulieu,2024-03-26T08:07:29+08:00,Geographe Bay,NA,36.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-033,Fished,115.078795,-33.486245,Alex McLennan,Ryan Simms,2024-03-27T14:57:54+08:00,Geographe Bay,NA,41.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-034,Fished,115.3464283,-33.39454167,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T14:39:17+08:00,Geographe Bay,NA,34.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-035,Fished,115.275695,-33.61846333,Lise Fournier-Carnoy,Ryan Simms,2024-04-09T12:11:39+08:00,Geographe Bay,NA,12.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-036,Fished,115.136395,-33.39164667,Alex McLennan,NA,2024-03-27T08:44:50+08:00,Geographe Bay,NA,44.5,Yes,No,No,Yes,NA,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-037,Fished,115.2628467,-33.539185,Ryan Simms,Bri Beaulieu,2024-04-02T15:20:43+08:00,Geographe Bay,NA,27.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-038,Fished,115.31617,-33.51294,Ryan Simms,Bri Beaulieu,2024-04-02T12:11:02+08:00,Geographe Bay,NA,26.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-039,Fished,115.4142767,-33.37543167,Alex McLennan,Lise Fournier-Carnoy,2024-04-08T11:54:29+08:00,Geographe Bay,NA,29.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-041,Fished,115.15334,-33.52075,Ryan Simms,Bri Beaulieu,2024-03-26T15:20:29+08:00,Geographe Bay,NA,33.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-042,Fished,115.3158067,-33.628715,Lise Fournier-Carnoy,Ryan Simms,2024-04-09T12:31:22+08:00,Geographe Bay,NA,9.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-043,Fished,115.3417133,-33.46408833,Ryan Simms,Bri Beaulieu,2024-04-03T13:47:30+08:00,Geographe Bay,NA,29,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-045,Fished,115.1941467,-33.60248167,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T09:18:56+08:00,Geographe Bay,NA,14.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-046,Fished,115.4203933,-33.42120167,Alex McLennan,Ryan Simms,2024-04-04T14:40:25+08:00,Geographe Bay,NA,27.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-047,Fished,115.3799367,-33.423325,Ryan Simms,Bri Beaulieu,2024-04-04T14:18:02+08:00,Geographe Bay,NA,29.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-048,Fished,115.1499133,-33.43024833,Alex McLennan,Ryan Simms,2024-03-27T11:01:11+08:00,Geographe Bay,NA,41.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-049,Fished,115.4479206,-33.55935986,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T09:55:58+08:00,Geographe Bay,NA,8.52,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-050,Fished,115.4319217,-33.37749,Alex McLennan,Bri Beaulieu,2024-04-08T11:26:44+08:00,Geographe Bay,NA,28.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-051,Fished,115.4306233,-33.47364667,Ryan Simms,Bri Beaulieu,2024-04-02T11:26:57+08:00,Geographe Bay,NA,20.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-052,Fished,115.236075,-33.45261,Ryan Simms,Bri Beaulieu,2024-03-26T08:17:33+08:00,Geographe Bay,NA,36.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-053,Fished,115.1597917,-33.53440667,Ryan Simms,Bri Beaulieu,2024-03-26T15:28:35+08:00,Geographe Bay,NA,31.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-054,Fished,115.2882833,-33.49042667,Ryan Simms,Bri Beaulieu,2024-04-03T14:16:58+08:00,Geographe Bay,NA,30.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-055,Fished,115.3208683,-33.371805,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T14:52:23+08:00,Geographe Bay,NA,35.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-056,Fished,115.1299467,-33.35743667,Alex McLennan,Ryan Simms,2024-03-27T08:06:38+08:00,Geographe Bay,NA,43,Yes,No,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-057,Fished,115.0877883,-33.50719667,Ryan Simms,Bri Beaulieu,2024-03-26T14:58:09+08:00,Geographe Bay,NA,37.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-058,Fished,115.3644,-33.57625667,Ryan Simms,Bri Beaulieu,2024-03-28T14:14:40+08:00,Geographe Bay,NA,14.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-059,Fished,115.2907517,-33.47797333,Ryan Simms,NA,2024-04-03T14:07:57+08:00,Geographe Bay,NA,31.2,Yes,No,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-060,Fished,115.119515,-33.45263833,Alex McLennan,Ryan Simms,2024-03-27T11:19:28+08:00,Geographe Bay,NA,41.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-061,Fished,115.1864567,-33.621095,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T09:09:53+08:00,Geographe Bay,NA,9.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Fished,115.440355,-33.41043,Alex McLennan,Bri Beaulieu,2024-04-08T11:11:53+08:00,Geographe Bay,NA,26.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-063,Fished,115.3087483,-33.44769167,Ryan Simms,Bri Beaulieu,2024-04-03T13:35:22+08:00,Geographe Bay,NA,32.5,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-064,Fished,115.0615533,-33.42055333,Alex McLennan,Ryan Simms,2024-03-27T11:51:24+08:00,Geographe Bay,NA,45.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-065,Fished,115.4982167,-33.526105,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T10:53:52+08:00,Geographe Bay,NA,7.46,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-066,Fished,115.3946583,-33.38607167,Ryan Simms,Alex McLennan,2024-04-08T12:02:04+08:00,Geographe Bay,NA,30.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-067,Fished,115.2462233,-33.38943667,Ryan Simms,Bri Beaulieu,2024-03-26T11:18:19+08:00,Geographe Bay,NA,39.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-068,Fished,115.2109833,-33.46943,Ryan Simms,Bri Beaulieu,2024-03-26T07:59:09+08:00,Geographe Bay,NA,35.9,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-069,Fished,115.1750817,-33.49775167,Ryan Simms,Bri Beaulieu,2024-03-26T14:22:03+08:00,Geographe Bay,NA,35.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-070,Fished,115.3333483,-33.63062833,Lise Fournier-Carnoy,Ryan Simms,2024-04-09T12:38:51+08:00,Geographe Bay,NA,7.52,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-071,Fished,115.3582917,-33.36301667,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T14:26:45+08:00,Geographe Bay,NA,33.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-072,Fished,115.1069567,-33.36136833,Alex McLennan,Ryan Simms,2024-03-27T07:58:07+08:00,Geographe Bay,NA,43.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-073,Fished,115.1198767,-33.50444167,Ryan Simms,Bri Beaulieu,2024-03-26T14:44:10+08:00,Geographe Bay,NA,37.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-074,Fished,115.3501767,-33.58134167,Lise Fournier-Carnoy,Bri Beaulieu,2024-03-28T14:09:47+08:00,Geographe Bay,NA,14.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-075,Fished,115.3189717,-33.468045,Ryan Simms,Bri Beaulieu,2024-04-03T13:55:49+08:00,Geographe Bay,NA,30.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-076,Fished,115.1524817,-33.46916,Alex McLennan,Ryan Simms,2024-03-27T14:13:44+08:00,Geographe Bay,NA,37.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-077,Fished,115.2531683,-33.57058833,Ryan Simms,Bri Beaulieu,2024-04-02T14:56:54+08:00,Geographe Bay,NA,23.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-078,Fished,115.4882967,-33.38985833,Alex McLennan,Bri Beaulieu,2024-04-08T08:36:11+08:00,Geographe Bay,NA,22.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-079,Fished,115.3408067,-33.44471167,Ryan Simms,Bri Beaulieu,2024-04-03T13:25:36+08:00,Geographe Bay,NA,30.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-080,Fished,115.2711283,-33.45655667,Ryan Simms,Bri Beaulieu,2024-03-26T08:30:13+08:00,Geographe Bay,NA,33.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-081,Fished,115.41685,-33.53016333,Alex McLennan,Ryan Simms,2024-04-03T10:08:37+08:00,Geographe Bay,NA,14,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-082,Fished,115.376475,-33.41657833,NA,NA,2024-04-04T14:27:02+08:00,Geographe Bay,NA,30.6,No,No,No,No,NA,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-083,Fished,115.2569428,-33.37766507,Ryan Simms,Bri Beaulieu,2024-03-26T11:10:03+08:00,Geographe Bay,NA,39.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-084,Fished,115.2645467,-33.44306833,Ryan Simms,Bri Beaulieu,2024-03-26T08:42:41+08:00,Geographe Bay,NA,35.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-085,Fished,115.1871533,-33.50534667,Alex McLennan,Ryan Simms,2024-03-26T14:16:09+08:00,Geographe Bay,NA,33.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-086,Fished,115.305415,-33.60823,Lise Fournier-Carnoy,Ryan Simms,2024-04-09T12:23:48+08:00,Geographe Bay,NA,14.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-087,Fished,115.3773417,-33.46820833,Ryan Simms,Bri Beaulieu,2024-04-02T11:46:03+08:00,Geographe Bay,NA,26.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-088,Fished,115.0589283,-33.38164833,Alex McLennan,Ryan Simms,2024-03-27T07:39:44+08:00,Geographe Bay,NA,45.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-089,Fished,115.1331633,-33.47998333,Alex McLennan,Ryan Simms,2024-03-27T14:36:59+08:00,Geographe Bay,NA,38.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-090,Fished,115.311835,-33.570325,Ryan Simms,Bri Beaulieu,2024-04-02T14:31:31+08:00,Geographe Bay,NA,19.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-091,Fished,115.3956833,-33.43784833,Ryan Simms,Bri Beaulieu,2024-04-03T13:09:12+08:00,Geographe Bay,NA,27.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-092,Fished,115.0507883,-33.43227333,Alex McLennan,Ryan Simms,2024-03-27T11:39:55+08:00,Geographe Bay,NA,44.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-093,Fished,115.26003,-33.58396,Ryan Simms,Bri Beaulieu,2024-04-02T14:51:43+08:00,Geographe Bay,NA,20.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-094,Fished,115.525585,-33.38113333,Alex McLennan,Bri Beaulieu,2024-04-08T09:08:21+08:00,Geographe Bay,NA,19.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-095,Fished,115.4532767,-33.46984167,Ryan Simms,Bri Beaulieu,2024-04-02T11:18:59+08:00,Geographe Bay,NA,17.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-096,Fished,115.2848967,-33.48397833,Ryan Simms,Bri Beaulieu,2024-04-03T14:13:06+08:00,Geographe Bay,NA,31,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-097,Fished,115.3479833,-33.54186333,Alex McLennan,Ryan Simms,2024-03-28T08:45:11+08:00,Geographe Bay,NA,20.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-098,Fished,115.3750617,-33.39693,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T12:16:29+08:00,Geographe Bay,NA,31.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-099,Fished,115.1950633,-33.37087833,Alex McLennan,Ryan Simms,2024-03-27T08:26:17+08:00,Geographe Bay,NA,42.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-100,Fished,115.2211317,-33.40582167,Ryan Simms,Bri Beaulieu,2024-03-26T11:37:02+08:00,Geographe Bay,NA,40.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-101,Fished,115.24155,-33.61412667,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T11:50:44+08:00,Geographe Bay,NA,13.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-102,Fished,115.4916783,-33.39663667,Alex McLennan,Bri Beaulieu,2024-04-08T08:32:27+08:00,Geographe Bay,NA,20.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-103,Fished,115.3742252,-33.42919255,Daniel Agnello,Ryan Simms,2024-04-04T14:22:29+08:00,Geographe Bay,NA,30.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-104,Fished,115.1229807,-33.42724065,Alex McLennan,Ryan Simms,2024-03-27T12:10:23+08:00,Geographe Bay,NA,43,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-105,Fished,115.350345,-33.497065,Ryan Simms,Bri Beaulieu,2024-04-02T12:00:02+08:00,Geographe Bay,NA,26,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-106,Fished,115.4078933,-33.36197167,Alex McLennan,Lise Fournier-Carnoy,2024-04-08T11:48:35+08:00,Geographe Bay,NA,30.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-107,Fished,115.2095583,-33.365935,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T15:29:33+08:00,Geographe Bay,NA,41,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-108,Fished,115.1938533,-33.43525167,Ryan Simms,Bri Beaulieu,2024-03-26T12:04:02+08:00,Geographe Bay,NA,38.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-109,Fished,115.149585,-33.53047833,Ryan Simms,Bri Beaulieu,2024-03-26T15:24:30+08:00,Geographe Bay,NA,32.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-110,Fished,115.2194583,-33.53334667,Bri Beaulieu,Alex McLennan,2024-04-05T07:54:53+08:00,Geographe Bay,NA,29.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-111,Fished,115.0830717,-33.421935,Bri Beaulieu,NA,2024-03-27T11:58:31+08:00,Geographe Bay,NA,44.5,Yes,No,No,Yes,NA,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-112,Fished,115.3645883,-33.361405,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T14:21:04+08:00,Geographe Bay,NA,33,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-113,Fished,115.0933402,-33.50491973,Ryan Simms,Bri Beaulieu,2024-03-26T14:54:54+08:00,Geographe Bay,NA,37.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-114,Fished,115.2143183,-33.52317833,Bri Beaulieu,Alex McLennan,2024-04-05T07:46:39+08:00,Geographe Bay,NA,30.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-115,Fished,115.3661017,-33.56382167,Ryan Simms,Bri Beaulieu,2024-03-28T11:17:13+08:00,Geographe Bay,NA,14.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-116,Fished,115.4483167,-33.49070667,Ryan Simms,Bri Beaulieu,2024-04-02T11:05:18+08:00,Geographe Bay,NA,15.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-117,Fished,115.2181683,-33.60536,Ryan Simms,Bri Beaulieu,2024-04-04T10:23:47+08:00,Geographe Bay,NA,15,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-118,Fished,115.2139467,-33.4218,Ryan Simms,Bri Beaulieu,2024-03-26T11:45:17+08:00,Geographe Bay,NA,38.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-119,Fished,115.324995,-33.568825,Ryan Simms,Bri Beaulieu,2024-04-02T14:26:28+08:00,Geographe Bay,NA,18.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-120,Fished,115.3055483,-33.48023833,Ryan Simms,Bri Beaulieu,2024-04-03T14:02:54+08:00,Geographe Bay,NA,30.4,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-121,Fished,115.13733,-33.60616667,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T08:38:28+08:00,Geographe Bay,NA,8.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-122,Fished,115.1287083,-33.45115333,Alex McLennan,Ryan Simms,2024-03-27T11:16:19+08:00,Geographe Bay,NA,41.5,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-123,Fished,115.4146733,-33.51121333,Lise Fournier-Carnoy,Ryan Simms,2024-04-03T10:20:32+08:00,Geographe Bay,NA,15.7,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-124,Fished,115.5011533,-33.40978667,Alex McLennan,Bri Beaulieu,2024-04-08T09:31:42+08:00,Geographe Bay,NA,19.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-125,Fished,115.1458983,-33.51081167,Ryan Simms,Bri Beaulieu,2024-03-26T15:15:10+08:00,Geographe Bay,NA,34.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-126,Fished,115.185275,-33.53928167,Bri Beaulieu,Alex McLennan,2024-04-05T08:12:44+08:00,Geographe Bay,NA,30.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-127,Fished,115.23133,-33.35644333,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T15:18:50+08:00,Geographe Bay,NA,38.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-128,Fished,115.3129583,-33.37047393,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T14:56:06+08:00,Geographe Bay,NA,35.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-129,Fished,115.1385783,-33.49572,Bri Beaulieu,NA,2024-03-26T14:35:38+08:00,Geographe Bay,NA,35.8,Yes,No,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-130,Fished,115.1742217,-33.37896833,Alex McLennan,Ryan Simms,2024-03-27T08:33:36+08:00,Geographe Bay,NA,42.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-131,Fished,115.3569867,-33.55774,Daniel Agnello,Ryan Simms,2024-03-28T09:00:55+08:00,Geographe Bay,NA,15.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-132,Fished,115.4602383,-33.47755,Ryan Simms,Bri Beaulieu,2024-04-02T11:12:55+08:00,Geographe Bay,NA,15.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-133,Fished,115.1879363,-33.60677193,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T09:16:18+08:00,Geographe Bay,NA,13.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-134,Fished,115.2495,-33.430925,Ryan Simms,Bri Beaulieu,2024-03-26T09:02:41+08:00,Geographe Bay,NA,37.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-135,Fished,115.33537,-33.589065,Lise Fournier-Carnoy,Bri Beaulieu,2024-03-28T14:04:15+08:00,Geographe Bay,NA,14.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-136,Fished,115.3138483,-33.47130667,Ryan Simms,Bri Beaulieu,2024-04-03T13:57:59+08:00,Geographe Bay,NA,30.3,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-137,Fished,115.11252,-33.59381333,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T08:28:57+08:00,Geographe Bay,NA,10.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-138,Fished,115.0542,-33.41410167,Alex McLennan,Ryan Simms,2024-03-27T11:47:12+08:00,Geographe Bay,NA,45.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-139,Fished,115.4535067,-33.563385,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T09:52:06+08:00,Geographe Bay,NA,8.53,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-140,Fished,115.5118167,-33.40608,Alex McLennan,Bri Beaulieu,2024-04-08T09:26:13+08:00,Geographe Bay,NA,18.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-141,Fished,115.09751,-33.47655333,Alex McLennan,Ryan Simms,2024-03-27T14:50:15+08:00,Geographe Bay,NA,39.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-142,Fished,115.19444,-33.54510667,Bri Beaulieu,Alex McLennan,2024-04-05T08:08:59+08:00,Geographe Bay,NA,30,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-143,Fished,115.228685,-33.35121333,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T15:21:32+08:00,Geographe Bay,NA,38.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-144,Fished,115.47751,-33.43546833,Ryan Simms,NA,2024-04-04T15:07:48+08:00,Geographe Bay,NA,19.3,Yes,No,NA,Yes,NA,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-145,Fished,115.1483867,-33.47739167,Alex McLennan,Ryan Simms,2024-03-27T14:31:32+08:00,Geographe Bay,NA,37,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-146,Fished,115.0839233,-33.37415167,Alex McLennan,Ryan Simms,2024-03-27T07:49:47+08:00,Geographe Bay,NA,43.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-147,Fished,115.4041117,-33.514795,Alex McLennan,Ryan Simms,2024-04-03T10:16:39+08:00,Geographe Bay,NA,16.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-148,Fished,115.4819733,-33.44606167,Bri Beaulieu,Alex McLennan,2024-04-04T15:12:48+08:00,Geographe Bay,NA,17.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-149,Fished,115.2484367,-33.56550667,Ryan Simms,Bri Beaulieu,2024-04-02T14:59:52+08:00,Geographe Bay,NA,24.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-150,Fished,115.2642533,-33.42284,Ryan Simms,Bri Beaulieu,2024-03-26T09:08:53+08:00,Geographe Bay,NA,37.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-151,Fished,115.4067183,-33.52001667,Ryan Simms,Bri Beaulieu,2024-04-03T10:13:58+08:00,Geographe Bay,NA,15.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-152,Fished,115.3884317,-33.42169833,Alex McLennan,Ryan Simms,2024-04-04T14:31:31+08:00,Geographe Bay,NA,29.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-153,Fished,115.07529,-33.55604,Lise Fournier-Carnoy,NA,2024-04-05T10:49:49+08:00,Geographe Bay,NA,15.1,Yes,No,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-154,Fished,115.1074067,-33.395695,Alex McLennan,Ryan Simms,2024-03-27T08:59:45+08:00,Geographe Bay,NA,44.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-155,Fished,115.489865,-33.52397667,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T10:50:35+08:00,Geographe Bay,NA,8.57,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-156,Fished,115.5056067,-33.40552333,Alex McLennan,Bri Beaulieu,2024-04-08T09:28:55+08:00,Geographe Bay,NA,19.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-157,Fished,115.0903647,-33.46128571,Alex McLennan,Ryan Simms,2024-03-27T15:20:03+08:00,Geographe Bay,NA,42.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-158,Fished,115.21068,-33.52736667,Bri Beaulieu,Alex McLennan,2024-04-05T07:50:04+08:00,Geographe Bay,NA,30.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-159,Fished,115.2511433,-33.35858667,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T15:12:23+08:00,Geographe Bay,NA,38.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-160,Fished,115.4243233,-33.492975,Ryan Simms,Bri Beaulieu,2024-04-02T10:56:03+08:00,Geographe Bay,NA,16.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-161,Fished,115.11111,-33.478095,Alex McLennan,Ryan Simms,2024-03-27T14:49:06+08:00,Geographe Bay,NA,40.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-162,Fished,115.2744,-33.44323167,Ryan Simms,Bri Beaulieu,2024-03-26T08:37:20+08:00,Geographe Bay,NA,35.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-163,Fished,115.366345,-33.62633667,Lise Fournier-Carnoy,Ryan Simms,2024-03-28T13:40:03+08:00,Geographe Bay,NA,5.21,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-164,Fished,115.4812283,-33.43171167,Ryan Simms,Bri Beaulieu,2024-04-04T15:05:16+08:00,Geographe Bay,NA,19.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-165,Fished,115.1363333,-33.61565,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T08:43:55+08:00,Geographe Bay,NA,6.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-166,Fished,115.2408267,-33.400815,Ryan Simms,Bri Beaulieu,2024-03-26T11:29:45+08:00,Geographe Bay,NA,39.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-167,Fished,115.4388267,-33.50890667,Lise Fournier-Carnoy,Ryan Simms,2024-04-03T10:28:47+08:00,Geographe Bay,NA,13.7,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-168,Fished,115.4946817,-33.40909,Alex McLennan,Bri Beaulieu,2024-04-08T08:27:34+08:00,Geographe Bay,NA,19.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-169,Fished,115.1049317,-33.57854,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T08:18:08+08:00,Geographe Bay,NA,17.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-170,Fished,115.0759483,-33.382865,Alex McLennan,Ryan Simms,2024-03-27T07:45:30+08:00,Geographe Bay,NA,44.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-171,Fished,115.38755,-33.40711333,Ryan Simms,Alex McLennan,2024-04-08T12:10:14+08:00,Geographe Bay,NA,30.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-172,Fished,115.53617,-33.37986833,Alex McLennan,Bri Beaulieu,2024-04-08T09:13:28+08:00,Geographe Bay,NA,17.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-173,Fished,115.211945,-33.60468,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T11:40:14+08:00,Geographe Bay,NA,14.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-174,Fished,115.248115,-33.44019167,Ryan Simms,Bri Beaulieu,2024-03-26T08:50:55+08:00,Geographe Bay,NA,36.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-175,Fished,115.3274317,-33.597955,Lise Fournier-Carnoy,Ryan Simms,2024-03-28T13:56:51+08:00,Geographe Bay,NA,13.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-176,Fished,115.4980467,-33.428735,Ryan Simms,Bri Beaulieu,2024-04-04T14:59:14+08:00,Geographe Bay,NA,17.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-177,Fished,115.2463467,-33.53635167,Ryan Simms,Bri Beaulieu,2024-04-02T15:13:24+08:00,Geographe Bay,NA,27.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-178,Fished,115.1051033,-33.453335,Alex McLennan,Ryan Simms,2024-03-27T11:24:26+08:00,Geographe Bay,NA,41,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-179,Fished,115.3722683,-33.37656333,Ryan Simms,Lise Fournier-Carnoy,2024-04-08T12:24:58+08:00,Geographe Bay,NA,32.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-180,Fished,115.53636,-33.3559,Alex McLennan,Bri Beaulieu,2024-04-08T08:58:30+08:00,Geographe Bay,NA,20.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-181,Fished,115.22656,-33.58522333,Bri Beaulieu,Alex McLennan,2024-04-05T13:03:51+08:00,Geographe Bay,NA,21.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-182,Fished,115.2221283,-33.58086333,NA,NA,2024-04-05T13:00:50+08:00,Geographe Bay,NA,23.1,No,No,No,Yes,NA,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-183,Fished,115.22953,-33.58205667,Ryan Simms,Alex McLennan,2024-04-05T13:06:00+08:00,Geographe Bay,NA,22.8,Yes,Yes,NA,Yes,NA,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-184,Fished,115.203215,-33.57135,Bri Beaulieu,Alex McLennan,2024-04-05T12:44:37+08:00,Geographe Bay,NA,25.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-185,Fished,115.2093333,-33.574975,Bri Beaulieu,Alex McLennan,2024-04-05T12:48:08+08:00,Geographe Bay,NA,24.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-186,Fished,115.2273167,-33.60228667,Ryan Simms,Alex McLennan,2024-04-05T13:21:24+08:00,Geographe Bay,NA,17.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-187,Fished,115.2146417,-33.56947,Bri Beaulieu,Alex McLennan,2024-04-05T12:51:59+08:00,Geographe Bay,NA,25.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-188,Fished,115.2227417,-33.60177,Ryan Simms,Alex McLennan,2024-04-05T13:17:20+08:00,Geographe Bay,NA,17.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-189,Fished,115.201985,-33.55209,Bri Beaulieu,Alex McLennan,2024-04-05T08:04:25+08:00,Geographe Bay,NA,28.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-190,Fished,115.2165983,-33.54091667,Bri Beaulieu,Alex McLennan,2024-04-05T08:48:44+08:00,Geographe Bay,NA,30.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-191,Fished,115.205465,-33.546885,Bri Beaulieu,Alex McLennan,2024-04-05T08:01:34+08:00,Geographe Bay,NA,29.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-192,Fished,115.2197467,-33.56676,Bri Beaulieu,NA,2024-04-05T12:54:43+08:00,Geographe Bay,NA,26,Yes,No,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-193,Fished,115.22523,-33.54903167,Bri Beaulieu,Alex McLennan,2024-04-05T08:43:32+08:00,Geographe Bay,NA,27.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-194,Fished,115.21345,-33.59136167,Ryan Simms,Alex McLennan,2024-04-05T13:27:30+08:00,Geographe Bay,NA,18.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-195,Fished,115.2244333,-33.53818167,Ryan Simms,NA,2024-04-05T08:52:16+08:00,Geographe Bay,NA,28.3,Yes,No,NA,Yes,NA,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-196,No-take,115.3959233,-33.55924833,Ryan Simms,Bri Beaulieu,2024-03-28T11:06:06+08:00,Geographe Bay,NA,14.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-197,No-take,115.3841717,-33.571865,Alex McLennan,Ryan Simms,2024-03-28T13:03:11+08:00,Geographe Bay,NA,14.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-198,No-take,115.3748533,-33.531575,Alex McLennan,Ryan Simms,2024-03-28T08:31:25+08:00,Geographe Bay,NA,19.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-199,No-take,115.367465,-33.540205,Ryan Simms,Bri Beaulieu,2024-03-28T09:16:05+08:00,Geographe Bay,NA,18.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-200,No-take,115.3636917,-33.55172333,Ryan Simms,NA,2024-03-28T09:07:24+08:00,Geographe Bay,NA,16.9,Yes,No,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-201,No-take,115.3981583,-33.545515,Alex McLennan,Ryan Simms,2024-03-28T10:58:22+08:00,Geographe Bay,NA,14.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-202,No-take,115.3864833,-33.55389833,Daniel Agnello,Ryan Simms,2024-03-28T11:34:03+08:00,Geographe Bay,NA,14.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-203,No-take,115.3821133,-33.55102667,Alex McLennan,Ryan Simms,2024-03-28T11:30:00+08:00,Geographe Bay,NA,14.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-204,No-take,115.3945351,-33.55760282,Alex McLennan,Ryan Simms,2024-03-28T11:08:16+08:00,Geographe Bay,NA,14.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-205,No-take,115.3578967,-33.55228333,Daniel Agnello,Lise Fournier-Carnoy,2024-03-28T09:04:53+08:00,Geographe Bay,NA,16.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-206,No-take,115.3761633,-33.55127667,Alex McLennan,Ryan Simms,2024-03-28T11:25:25+08:00,Geographe Bay,NA,14.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-207,No-take,115.3758267,-33.56561167,Daniel Agnello,Ryan Simms,2024-03-28T11:13:59+08:00,Geographe Bay,NA,14.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-208,No-take,115.3900683,-33.54132167,Daniel Agnello,Ryan Simms,2024-03-28T09:23:43+08:00,Geographe Bay,NA,14.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-209,No-take,115.37143,-33.54218667,Daniel Agnello,Ryan Simms,2024-03-28T09:12:36+08:00,Geographe Bay,NA,17,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-210,No-take,115.3975767,-33.54190833,Alex McLennan,Ryan Simms,2024-03-28T10:47:01+08:00,Geographe Bay,NA,14.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-211,No-take,115.1013483,-33.54853,Lise Fournier-Carnoy,Hannah Williams,2024-04-05T10:38:40+08:00,Geographe Bay,NA,29.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-212,No-take,115.108505,-33.54916167,Lise Fournier-Carnoy,Hannah Williams,2024-04-05T10:32:54+08:00,Geographe Bay,NA,30.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-213,No-take,115.4278017,-33.56338167,Lise Fournier-Carnoy,NA,2024-04-03T07:56:10+08:00,Geographe Bay,NA,10.9,Yes,No,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-214,No-take,115.4000167,-33.57585167,Lise Fournier-Carnoy,Ryan Simms,2024-03-28T13:09:16+08:00,Geographe Bay,NA,12.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-215,No-take,115.3987433,-33.58598833,Lise Fournier-Carnoy,Ryan Simms,2024-03-28T13:13:35+08:00,Geographe Bay,NA,11.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-216,No-take,115.216325,-33.629225,Alex McLennan,Bri Beaulieu,2024-04-04T09:17:48+08:00,Geographe Bay,NA,9.04,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-217,No-take,115.41948,-33.60021667,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T08:10:25+08:00,Geographe Bay,NA,5.86,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-218,No-take,115.426865,-33.58394333,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T07:39:49+08:00,Geographe Bay,NA,7.49,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-219,No-take,115.2077217,-33.61328333,Ryan Simms,Bri Beaulieu,2024-04-04T09:50:23+08:00,Geographe Bay,NA,11.4,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-220,No-take,115.2057383,-33.62658,Lise Fournier-Carnoy,Ryan Simms,2024-04-04T09:26:28+08:00,Geographe Bay,NA,8.07,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-221,No-take,115.4199317,-33.59675667,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T08:07:49+08:00,Geographe Bay,NA,6.62,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-222,No-take,115.4339733,-33.576115,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T07:46:11+08:00,Geographe Bay,NA,7.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-223,No-take,115.211645,-33.62561167,Lise Fournier-Carnoy,Hannah Williams,2024-04-04T09:31:08+08:00,Geographe Bay,NA,8.22,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-224,No-take,115.20389,-33.62316833,Lise Fournier-Carnoy,Hannah Williams,2024-04-04T09:34:38+08:00,Geographe Bay,NA,9.05,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-225,No-take,115.4282533,-33.58220833,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T07:42:27+08:00,Geographe Bay,NA,7.44,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-226,No-take,115.43246,-33.56904667,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T07:52:32+08:00,Geographe Bay,NA,8.81,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-227,No-take,115.2018767,-33.62797333,Alex McLennan,Bri Beaulieu,2024-04-04T09:22:46+08:00,Geographe Bay,NA,7.46,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-228,No-take,115.0824733,-33.55304833,Lise Fournier-Carnoy,Hannah Williams,2024-04-05T10:45:54+08:00,Geographe Bay,NA,25.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-229,No-take,115.439285,-33.57542833,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T07:48:48+08:00,Geographe Bay,NA,5.97,Yes,Yes,Yes,No,Bri Beaulieu,NA
+2024-04_Geographe_stereo-BRUVs,GB-BV-230,No-take,115.0960567,-33.57238167,Ryan Simms,Bri Beaulieu,2024-04-05T11:12:31+08:00,Geographe Bay,NA,14.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-231,No-take,115.20009,-33.61947333,Lise Fournier-Carnoy,Hannah Williams,2024-04-04T09:45:22+08:00,Geographe Bay,NA,9.36,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-232,No-take,115.0968817,-33.56770667,Lise Fournier-Carnoy,Hannah Williams,2024-04-05T11:07:13+08:00,Geographe Bay,NA,20.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-233,No-take,115.436245,-33.58748,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T07:35:56+08:00,Geographe Bay,NA,5.03,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-234,No-take,115.2129417,-33.60837667,Lise Fournier-Carnoy,Hannah Williams,2024-04-04T09:53:53+08:00,Geographe Bay,NA,13.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-235,No-take,115.0776883,-33.55686333,Lise Fournier-Carnoy,Hannah Williams,2024-04-05T10:51:41+08:00,Geographe Bay,NA,16.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-236,No-take,115.082975,-33.56263333,Lise Fournier-Carnoy,Hannah Williams,2024-04-05T10:56:00+08:00,Geographe Bay,NA,8.45,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-237,No-take,115.4319467,-33.59208333,Lise Fournier-Carnoy,Bri Beaulieu,2024-04-03T07:33:05+08:00,Geographe Bay,NA,5.3,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-238,No-take,115.2119667,-33.620785,Lise Fournier-Carnoy,Hannah Williams,2024-04-04T09:39:36+08:00,Geographe Bay,NA,9.84,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-239,No-take,115.08936,-33.56183667,Lise Fournier-Carnoy,Hannah Williams,2024-04-05T10:58:56+08:00,Geographe Bay,NA,19.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-240,No-take,115.09114,-33.56542333,Lise Fournier-Carnoy,Hannah Williams,2024-04-05T11:01:27+08:00,Geographe Bay,NA,16.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP1,Fished,115.2446017,-33.60865167,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T11:55:12+08:00,Geographe Bay,NA,14.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP2,Fished,115.24817,-33.60170333,Ryan Simms,Lise Fournier-Carnoy,2024-04-09T12:00:45+08:00,Geographe Bay,NA,16.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Fished,115.28366,-33.61058833,Lise Fournier-Carnoy,Hannah Williams,2024-04-09T12:16:46+08:00,Geographe Bay,NA,14,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P01,No-take,115.3661917,-33.548195,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T09:27:28+08:00,Geographe Bay,NA,17.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P02,No-take,115.373005,-33.54410333,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T09:33:20+08:00,Geographe Bay,NA,17,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P03,No-take,115.37709,-33.540575,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T09:48:12+08:00,Geographe Bay,NA,16.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P04,No-take,115.3839483,-33.54754667,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T10:07:11+08:00,Geographe Bay,NA,16.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P05,No-take,115.3835483,-33.52714667,Alex McLennan,Lise Fournier-Carnoy,2024-04-17T09:57:26+08:00,Geographe Bay,NA,19.2,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P06,No-take,115.3870417,-33.533255,Alex McLennan,Ryan Simms,2024-04-17T10:01:05+08:00,Geographe Bay,NA,16,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P07,No-take,115.37768,-33.552575,Alex McLennan,Ryan Simms,2024-04-17T10:12:06+08:00,Geographe Bay,NA,15.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P08,No-take,115.3856407,-33.53306995,Alex McLennan,Ryan Simms,2024-04-17T10:06:34+08:00,Geographe Bay,NA,0,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P09,No-take,115.3778092,-33.53181924,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T09:53:04+08:00,Geographe Bay,NA,18.7,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P10,No-take,115.3704299,-33.54173944,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T09:42:05+08:00,Geographe Bay,NA,17.1,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P11,Fished,115.3549233,-33.55564,Alex McLennan,Ryan Simms,2024-04-17T11:40:45+08:00,Geographe Bay,NA,17.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P12,Fished,115.350645,-33.55852667,Alex McLennan,Ryan Simms,2024-04-17T11:57:37+08:00,Geographe Bay,NA,18,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P13,Fished,115.347065,-33.56088,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T11:54:54+08:00,Geographe Bay,NA,17.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P14,Fished,115.34369,-33.56243167,Alex McLennan,Ryan Simms,2024-04-17T11:52:35+08:00,Geographe Bay,NA,16,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P15,Fished,115.3426033,-33.55919667,Alex McLennan,Annika Leunig,2024-04-17T11:49:04+08:00,Geographe Bay,NA,18.5,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P16,Fished,115.3488117,-33.55585167,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T11:44:33+08:00,Geographe Bay,NA,18,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Fished,115.3590283,-33.56384333,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T12:04:25+08:00,Geographe Bay,NA,15.8,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P18,Fished,115.3560333,-33.56576167,Ryan Simms,Annika Leunig,2024-04-17T12:08:33+08:00,Geographe Bay,NA,15.9,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P19,Fished,115.3459783,-33.55701833,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T11:46:31+08:00,Geographe Bay,NA,17.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
+2024-04_Geographe_stereo-BRUVs,GB-BV-P24,Fished,115.3398571,-33.56050903,Ryan Simms,Lise Fournier-Carnoy,2024-04-17T11:51:26+08:00,Geographe Bay,NA,18.6,Yes,Yes,Yes,Yes,Bri Beaulieu,Bri Beaulieu
