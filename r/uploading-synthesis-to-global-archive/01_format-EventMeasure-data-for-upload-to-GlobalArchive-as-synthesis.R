@@ -9,6 +9,8 @@ options(timeout=9999999)
 library(CheckEM)
 library(tidyverse)
 library(here)
+library(sf)
+library(dplyr)
 
 # Set name for synthesis, will be used as prefix for your files to upload
 name <- "geographe-marine-park"
@@ -37,10 +39,16 @@ metadata <- read_metadata(here::here("data/raw/"), method = "BRUVs") %>% # Chang
   dplyr::filter(campaignid %in% c("2014-12_Geographe-bay_stereo-BRUVs", "2024-04_Geographe_stereo-BRUVs")) %>%
   glimpse()
 
+#checks for duplicates of campaign IDs and opcodes
 duplicates <- metadata %>%
   dplyr::group_by(campaignid, opcode) %>%
-  dplyr::summarise(n=n()) %>%
-  dplyr::filter(n>1)
+  dplyr::filter(n() > 1) 
+
+#checks for duplicates in coordinates
+metadata %>%
+  dplyr::group_by(latitude_dd, longitude_dd) %>%
+  dplyr::filter(n() > 1) %>%
+  dplyr::arrange(latitude_dd, longitude_dd)
 
 unique(metadata$campaignid)
 
@@ -53,6 +61,7 @@ maxn <- read_points(here::here("data/raw/")) %>%
   dplyr::mutate(number = as.numeric(number)) %>%
   dplyr::summarise(maxn = sum(number)) %>%
   dplyr::ungroup() %>%
+  dplyr::mutate(stage = "AD") %>%
   dplyr::group_by(campaignid, opcode, family, genus, species, stage) %>%
   dplyr::slice(which.max(maxn)) %>%
   dplyr::ungroup() %>%
@@ -71,8 +80,13 @@ maxn <- read_points(here::here("data/raw/")) %>%
   
   {message(paste(length(which(.$family %in% "Unknown")), "rows removed because family is 'Unknown'"));
     .} %>%
-  dplyr::filter(!family %in% "Unknown")
+dplyr::filter(!family %in% "Unknown") # %>%
+# dplyr::mutate(stage_join = case_when(
+#     stage %in% c("M", "F", "J") ~ "AD",
+#     TRUE ~ stage)) 
 
+unique(maxn$stage)
+#unique(maxn$stage_join)
 metadata %>%
   count(campaignid, opcode) %>%
   filter(n > 1)
@@ -92,7 +106,10 @@ length <- read_em_length(here::here("data/raw/")) %>%
   
   {message(paste(length(which(.$family %in% "Unknown")), "rows removed because family is 'Unknown'"));
     .} %>%
-  dplyr::filter(!family %in% "Unknown")
+  dplyr::filter(!family %in% "Unknown")%>%
+  dplyr::mutate(stage = "AD")
+
+unique(length$stage)
 
 # Format data for upload to GA and final checks -----
 codes <- australia_life_history %>%
@@ -154,3 +171,104 @@ species_2_update <- count_upload %>%
 # Save GA upload data ----
 write_csv(count_upload, paste0("data/uploads/", name, "_count.csv"))
 write_csv(length_upload, paste0("data/uploads/", name, "_length.csv"))
+
+
+# Read in AusBathyTopo bathymetry
+
+bathy <- terra::rast(
+  
+  "data/spatial/rasters/AusBathyTopo__Australia__2024_250m_MSL_cog.tif"
+  
+)
+
+names(bathy) <- "bathy_depth_m"
+
+# Convert metadata to spatial points
+
+metadata_sf <- st_as_sf(
+  
+  metadata,
+  
+  coords = c("longitude_dd", "latitude_dd"),
+  
+  crs = 4326,
+  
+  remove = FALSE
+  
+)
+
+# Reproject points to bathymetry CRS if needed
+
+metadata_vect <- terra::vect(metadata_sf)
+
+if (!terra::same.crs(metadata_vect, bathy)) {
+  
+  metadata_vect <- terra::project(metadata_vect, terra::crs(bathy))
+  
+}
+
+# Extract bathymetry value
+
+  
+  dplyr::select(bathy_depth_m)
+
+# Combine with metadata and replace missing depth_m
+
+metadata_bathy <- bind_cols(metadata, bathy_values) %>%
+  
+  mutate(
+    
+    depth_m_original = depth_m,
+    
+    depth_m = if_else(
+      
+      is.na(depth_m) | depth_m == "",
+      
+      as.character(bathy_depth_m),
+      
+      as.character(depth_m)
+      
+    ))
+
+glimpse(metadata_bathy)
+
+maxn_check <- count_upload %>%
+  group_by(campaignid, opcode, family, genus, species, stage) %>%
+  dplyr::summarise(
+    maxn_total = sum(count, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+# Summarise number of length measurements
+length_check <- length_upload %>%
+  group_by(campaignid, opcode, family, genus, species, stage) %>%
+  dplyr::summarise(
+    n_lengths = n(),
+    length_count_total = sum(count, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+# Compare lengths against MaxN
+comparison <- maxn_check %>%
+  full_join(length_check,
+            by = c("campaignid", "opcode", "family", "genus", "species", "stage")) %>%
+  mutate(
+    maxn_total = replace_na(maxn_total, 0),
+    n_lengths = replace_na(n_lengths, 0),
+    length_count_total = replace_na(length_count_total, 0),
+    excess_lengths = n_lengths - maxn_total,
+    excess_count = length_count_total - maxn_total
+  )
+
+# Rows where there are more lengths than MaxN
+problems <- comparison %>%
+  filter(n_lengths > maxn_total |
+           length_count_total > maxn_total |
+           n_lengths < maxn_total |
+           length_count_total < maxn_total)
+
+problems
+
+points %>%
+  count(longitude, latitude) %>%
+  filter(n > 1)
