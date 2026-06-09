@@ -52,6 +52,24 @@ metadata %>%
 
 unique(metadata$campaignid)
 
+metadata_number_of_samples <- metadata %>%
+  group_by(campaignid) %>%
+  dplyr::summarise(n=n())
+
+metadata_number_of_samples_count <- metadata %>%
+  filter(successful_count %in% "Yes") %>%
+  group_by(campaignid) %>%
+  dplyr::summarise(n=n())
+
+metadata_number_of_samples_length <- metadata %>%
+  filter(successful_length %in% "Yes") %>%
+  group_by(campaignid) %>%
+  dplyr::summarise(n=n())
+
+sum(metadata_number_of_samples_length$n)
+sum(metadata_number_of_samples_count$n)
+sum(metadata_number_of_samples$n)
+
 write_csv(metadata, paste0("data/uploads/", name, "_metadata.csv"))
 
 # Read in the maxn and length data ----
@@ -130,6 +148,18 @@ count_upload <- maxn %>%
   #filter(!is.na(caab_code))%>%
   left_join(codes) %>%
   glimpse()
+
+length(unique(count_upload$opcode))
+length(unique(length_upload$opcode))
+count_upload_check <- count_upload %>%
+  distinct(campaignid, opcode) %>%
+  group_by(campaignid) %>%
+  dplyr::summarise(n=n())
+
+length_upload_check <- length_upload %>%
+  distinct(campaignid, opcode) %>%
+  group_by(campaignid) %>%
+  dplyr::summarise(n=n())
 
 synonyms_in_count <- dplyr::left_join(count_upload, CheckEM::aus_synonyms) %>%
   dplyr::filter(!is.na(genus_correct)) %>%
@@ -243,7 +273,7 @@ maxn_check <- count_upload %>%
 length_check <- length_upload %>%
   group_by(campaignid, opcode, family, genus, species, stage) %>%
   dplyr::summarise(
-    n_lengths = n(),
+    n_lengths = sum(count),
     length_count_total = sum(count, na.rm = TRUE),
     .groups = "drop"
   )
@@ -265,7 +295,9 @@ problems <- comparison %>%
   filter(n_lengths > maxn_total |
            length_count_total > maxn_total |
            n_lengths < maxn_total |
-           length_count_total < maxn_total)
+           length_count_total < maxn_total) %>%
+  left_join(metadata) %>%
+  filter(successful_length %in% 'Yes')
 
 problems
 
