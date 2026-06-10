@@ -35,7 +35,7 @@ metadata <- read_metadata(here::here("data/raw/"), method = "BRUVs") %>% # Chang
                 successful_habitat_backward,
                 observer_habitat_forward,
                 observer_habitat_backward) %>%
-  # rename(opcode = opcode) %>% # use this line if you need to rename opcode to opcode
+  rename(opcode = opcode) %>% # use this line if you need to rename opcode to opcode
   dplyr::filter(campaignid %in% c("2014-12_Geographe-bay_stereo-BRUVs", "2024-04_Geographe_stereo-BRUVs")) %>%
   glimpse()
 
