@@ -231,8 +231,7 @@ check_meta  <- read_csv("data/uploads/BOSS/geographe-marine-park_metadata.csv")
 check_count <- read_csv("data/uploads/BOSS/geographe-marine-park_count.csv")
 
 names(check_meta)   # confirm "period" is really the header, not "sample"
-dplyr::anti_join(check_count, check_meta, by = c("campaignid", "period")) %>%
-  dplyr::distinct(campaignid, period)
+
 
 
 # shows the raw character codes so you can spot the difference
