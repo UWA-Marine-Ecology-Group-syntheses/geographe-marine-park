@@ -73,45 +73,45 @@ sum(metadata_number_of_samples$n)
 write_csv(metadata, paste0("data/uploads/BOSS/", name, "_metadata.csv"))
 
 # # Read in the maxn and length data ----
-# maxn <- read_points(here::here("data/raw/")) %>% 
-#   dplyr::mutate(species = ifelse(species %in% c("sp", "sp1", "sp2", "sp10"), "spp", as.character(species))) %>%
-#   dplyr::group_by(campaignid, opcode, filename, periodtime, frame, family, genus, species, stage) %>% # If you have MaxN'd by stage (e.g. Adult, Juvenile) add stage here
-#   dplyr::mutate(number = as.numeric(number)) %>%
-#   dplyr::summarise(maxn = sum(number)) %>%
-#   dplyr::ungroup() %>%
-#   dplyr::mutate(stage = "AD") %>%
-#   dplyr::group_by(campaignid, opcode, family, genus, species, stage) %>%
-#   dplyr::slice(which.max(maxn)) %>%
-#   dplyr::ungroup() %>%
-#   dplyr::filter(!is.na(maxn)) %>%
-#   dplyr::select(-frame) %>%
-#   tidyr::replace_na(list(maxn = 0)) %>%
-#   dplyr::mutate(maxn = as.numeric(maxn)) %>%
-#   dplyr::filter(maxn > 0) %>%
-#   dplyr::inner_join(metadata, by = join_by(campaignid, opcode)) %>%
-#   dplyr::filter(successful_count %in% c("Yes")) %>% 
-#   dplyr::filter(maxn > 0) %>%
-#   dplyr::select(campaignid, opcode, family, genus, species, maxn, stage) %>%
-#   dplyr::mutate(family = ifelse(family %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(family))) %>%
-#   dplyr::mutate(genus = ifelse(genus %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(genus))) %>%
-#   dplyr::mutate(species = ifelse(species %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "spp", as.character(species))) %>%
-#   
-#   {message(paste(length(which(.$family %in% "Unknown")), "rows removed because family is 'Unknown'"));
-#     .} %>%
-# dplyr::filter(!family %in% "Unknown") # %>%
-# # dplyr::mutate(stage_join = case_when(
-# #     stage %in% c("M", "F", "J") ~ "AD",
-# #     TRUE ~ stage)) 
-# 
-# unique(maxn$stage)
-# #unique(maxn$stage_join)
-# metadata %>%
-#   count(campaignid, opcode) %>%
-#   filter(n > 1)
-# 
-# metadata %>%
-#   count(campaignid, opcode) %>%
-#   filter(n > 1)
+maxn <- read_points(here::here("data/raw/BOSS//")) %>%
+  dplyr::mutate(species = ifelse(species %in% c("sp", "sp1", "sp2", "sp10"), "spp", as.character(species))) %>%
+  dplyr::group_by(campaignid, period, filename, periodtime, frame, family, genus, species, stage) %>% # If you have MaxN'd by stage (e.g. Adult, Juvenile) add stage here
+  dplyr::mutate(number = as.numeric(number)) %>%
+  dplyr::summarise(maxn = sum(number)) %>%
+  dplyr::ungroup() %>%
+  dplyr::mutate(stage = "AD") %>%
+  dplyr::group_by(campaignid, period, family, genus, species, stage) %>%
+  dplyr::slice(which.max(maxn)) %>%
+  dplyr::ungroup() %>%
+  dplyr::filter(!is.na(maxn)) %>%
+  dplyr::select(-frame) %>%
+  tidyr::replace_na(list(maxn = 0)) %>%
+  dplyr::mutate(maxn = as.numeric(maxn)) %>%
+  dplyr::filter(maxn > 0) %>%
+  dplyr::inner_join(metadata, by = join_by(campaignid, period)) %>%
+  dplyr::filter(successful_count %in% c("Yes")) %>%
+  dplyr::filter(maxn > 0) %>%
+  dplyr::select(campaignid, period, family, genus, species, maxn, stage) %>%
+  dplyr::mutate(family = ifelse(family %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(family))) %>%
+  dplyr::mutate(genus = ifelse(genus %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(genus))) %>%
+  dplyr::mutate(species = ifelse(species %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "spp", as.character(species))) %>%
+
+  {message(paste(length(which(.$family %in% "Unknown")), "rows removed because family is 'Unknown'"));
+    .} %>%
+dplyr::filter(!family %in% "Unknown") # %>%
+# dplyr::mutate(stage_join = case_when(
+#     stage %in% c("M", "F", "J") ~ "AD",
+#     TRUE ~ stage))
+
+unique(maxn$stage)
+#unique(maxn$stage_join)
+metadata %>%
+  count(campaignid, period) %>%
+  filter(n > 1)
+
+metadata %>%
+  count(campaignid, period) %>%
+  filter(n > 1)
 # 
 # length <- read_em_length(here::here("data/raw/")) %>%
 #   dplyr::mutate(species = ifelse(species %in% c("sp", "sp1", "sp2", "sp10"), "spp", as.character(species))) %>%
@@ -129,25 +129,23 @@ write_csv(metadata, paste0("data/uploads/BOSS/", name, "_metadata.csv"))
 # 
 # unique(length$stage)
 # 
-# # Format data for upload to GA and final checks -----
-# codes <- australia_life_history %>%
-#   dplyr::select(family, genus, species, caab_code)
-# 
-# count_upload <- maxn %>%
-#   dplyr::rename(count = maxn) %>%
-#   mutate(family = if_else(genus %in% "Anoplocapros", "Aracanidae", family)) %>%
-#   mutate(family = if_else(genus %in% "Aracana", "Aracanidae", family)) %>% 
-#   mutate(genus = if_else(genus %in% "Dasyatis", "Bathytoshia", genus)) %>%
-#   #mutate(genus = if_else(genus %in% "Dasyatis", "Bathytoshia", genus)) %>% #turn this on if you need it 
-#   dplyr::left_join(., CheckEM::aus_synonyms) %>%
-#   dplyr::mutate(genus = ifelse(!genus_correct%in%c(NA), genus_correct, genus)) %>%
-#   dplyr::mutate(species = ifelse(!is.na(species_correct), species_correct, species)) %>%
-#   dplyr::mutate(family = ifelse(!is.na(family_correct), family_correct, family)) %>%
-#   dplyr::select(-c(family_correct, genus_correct, species_correct)) %>%
-#   dplyr::mutate(scientific = paste(family, genus, species)) %>%
-#   #filter(!is.na(caab_code))%>%
-#   left_join(codes) %>%
-#   glimpse()
+# Format data for upload to GA and final checks -----
+codes <- australia_life_history %>%
+  dplyr::select(family, genus, species, caab_code)
+
+count_upload <- maxn %>%
+  dplyr::rename(count = maxn) %>%
+  dplyr::mutate(across(c(family, genus, species), as.character)) %>%
+  dplyr::left_join(., CheckEM::aus_synonyms) %>%
+  dplyr::mutate(
+    genus   = dplyr::coalesce(as.character(genus_correct),   genus),
+    species = dplyr::coalesce(as.character(species_correct), species),
+    family  = dplyr::coalesce(as.character(family_correct),  family)
+  ) %>%
+  dplyr::select(-c(family_correct, genus_correct, species_correct)) %>%
+  dplyr::mutate(scientific = paste(family, genus, species)) %>%
+  left_join(codes) %>%
+  glimpse()
 # 
 # length(unique(count_upload$opcode))
 # length(unique(length_upload$opcode))
@@ -161,12 +159,12 @@ write_csv(metadata, paste0("data/uploads/BOSS/", name, "_metadata.csv"))
 #   group_by(campaignid) %>%
 #   dplyr::summarise(n=n())
 # 
-# synonyms_in_count <- dplyr::left_join(count_upload, CheckEM::aus_synonyms) %>%
-#   dplyr::filter(!is.na(genus_correct)) %>%
-#   dplyr::mutate('old name' = paste(family, genus, species, sep = " ")) %>%
-#   dplyr::mutate('new name' = paste(family_correct, genus_correct, species_correct, sep = " ")) %>%
-#   dplyr::select('old name', 'new name') %>%
-#   dplyr::distinct()
+synonyms_in_count <- dplyr::left_join(count_upload, CheckEM::aus_synonyms) %>%
+  dplyr::filter(!is.na(genus_correct)) %>%
+  dplyr::mutate('old name' = paste(family, genus, species, sep = " ")) %>%
+  dplyr::mutate('new name' = paste(family_correct, genus_correct, species_correct, sep = " ")) %>%
+  dplyr::select('old name', 'new name') %>%
+  dplyr::distinct()
 #   
 # 
 # length_upload <- length %>% # This includes only EM data, not generic length
@@ -199,7 +197,7 @@ write_csv(metadata, paste0("data/uploads/BOSS/", name, "_metadata.csv"))
 #   distinct(campaignid, opcode, family, genus, species, caab_code)
 # 
 # # Save GA upload data ----
-# write_csv(count_upload, paste0("data/uploads/", name, "_count.csv"))
+write_csv(count_upload, paste0("data/uploads/BOSS/", name, "_count.csv"))
 # write_csv(length_upload, paste0("data/uploads/", name, "_length.csv"))
 # 
 # 

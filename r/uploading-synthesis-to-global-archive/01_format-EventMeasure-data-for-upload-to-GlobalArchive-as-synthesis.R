@@ -21,7 +21,7 @@ name <- "geographe-marine-park"
 # Note check if you have used opcode, opcode or period and change the below code accordingly.
 
 
-metadata <- read_metadata(here::here("data/raw/"), method = "BRUVs") %>% # Change here to "DOVs"
+metadata <- read_metadata(here::here("data/raw/BRUVs/"), method = "BRUVs") %>% # Change here to "DOVs"
   dplyr::select(campaignid, opcode, 
                 status, 
                 longitude_dd, latitude_dd, 
@@ -73,7 +73,7 @@ sum(metadata_number_of_samples$n)
 write_csv(metadata, paste0("data/uploads/", name, "_metadata.csv"))
 
 # Read in the maxn and length data ----
-maxn <- read_points(here::here("data/raw/")) %>% 
+maxn <- read_points(here::here("data/raw/BRUVs/")) %>% 
   dplyr::mutate(species = ifelse(species %in% c("sp", "sp1", "sp2", "sp10"), "spp", as.character(species))) %>%
   dplyr::group_by(campaignid, opcode, filename, periodtime, frame, family, genus, species, stage) %>% # If you have MaxN'd by stage (e.g. Adult, Juvenile) add stage here
   dplyr::mutate(number = as.numeric(number)) %>%
@@ -113,18 +113,18 @@ metadata %>%
   count(campaignid, opcode) %>%
   filter(n > 1)
 
-length <- read_em_length(here::here("data/raw/")) %>%
+length <- read_em_length(here::here("data/raw/BRUVs/")) %>%
+  dplyr::mutate(opcode = dplyr::coalesce(as.character(opcode), as.character(sample))) %>%
+  dplyr::select(-sample) %>%
   dplyr::mutate(species = ifelse(species %in% c("sp", "sp1", "sp2", "sp10"), "spp", as.character(species))) %>%
-  dplyr::select(-c(comment))%>% # there is a comment column in metadata, so you will need to remove this column from EM data
   dplyr::inner_join(metadata, by = join_by(opcode, campaignid)) %>%
   dplyr::filter(successful_length %in% "Yes") %>%
   dplyr::mutate(family = ifelse(family %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(family))) %>%
   dplyr::mutate(genus = ifelse(genus %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(genus))) %>%
-  dplyr::mutate(species = ifelse(species %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "spp", as.character(species)))  %>%
-  
+  dplyr::mutate(species = ifelse(species %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "spp", as.character(species))) %>%
   {message(paste(length(which(.$family %in% "Unknown")), "rows removed because family is 'Unknown'"));
     .} %>%
-  dplyr::filter(!family %in% "Unknown")%>%
+  dplyr::filter(!family %in% "Unknown") %>%
   dplyr::mutate(stage = "AD")
 
 unique(length$stage)
@@ -168,23 +168,24 @@ synonyms_in_count <- dplyr::left_join(count_upload, CheckEM::aus_synonyms) %>%
   dplyr::select('old name', 'new name') %>%
   dplyr::distinct()
   
+names(length)
+# or, right before the final select:
+length_upload %>% dplyr::select(-c(family_correct, genus_correct, species_correct)) %>% names()
 
-length_upload <- length %>% # This includes only EM data, not generic length
-  mutate(family = if_else(genus %in% "Anoplocapros", "Aracanidae", family)) %>%
-  mutate(family = if_else(genus %in% "Aracana", "Aracanidae", family)) %>% 
-  mutate(genus = if_else(genus %in% "Dasyatis", "Bathytoshia", genus)) %>%
-  #mutate(genus = if_else(genus %in% "Dasyatis", "Bathytoshia", genus)) %>% #turn this on if you need it 
+length_upload <- length %>%
+  dplyr::mutate(across(c(family, genus, species), as.character)) %>%
   dplyr::left_join(., CheckEM::aus_synonyms) %>%
-  dplyr::mutate(genus = ifelse(!genus_correct%in%c(NA), genus_correct, genus)) %>%
-  dplyr::mutate(species = ifelse(!is.na(species_correct), species_correct, species)) %>%
-  dplyr::mutate(family = ifelse(!is.na(family_correct), family_correct, family)) %>%
+  dplyr::mutate(
+    genus   = dplyr::coalesce(as.character(genus_correct),   genus),
+    species = dplyr::coalesce(as.character(species_correct), species),
+    family  = dplyr::coalesce(as.character(family_correct),  family)
+  ) %>%
   dplyr::select(-c(family_correct, genus_correct, species_correct)) %>%
-  dplyr::mutate(scientific = paste(family, genus, species)) %>% # turn this on if you need it 
+  dplyr::mutate(scientific = paste(family, genus, species)) %>%
   left_join(codes) %>%
   dplyr::rename(rms_mm = rms, range_mm = range, precision_mm = precision, count = number) %>%
   dplyr::select(-period) %>%
-  # filter(!is.na(caab_code)) %>%
-  select(campaignid, opcode, sample, caab_code, count, family, genus, species, length_mm, precision_mm, range_mm, rms_mm, stage)
+  select(campaignid, opcode, caab_code, count, family, genus, species, length_mm, precision_mm, range_mm, rms_mm, stage)
 
 names(length_upload) %>% sort()
 
