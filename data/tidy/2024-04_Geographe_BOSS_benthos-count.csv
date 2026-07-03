@@ -1,0 +1,649 @@
+"campaignid","period","caab_code","level_1","level_2","level_3","level_4","level_5","level_6","level_7","level_8","family","genus","species","count"
+"2024-04_Geographe_BOSS","GB-DC-001","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-001","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-001","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",10
+"2024-04_Geographe_BOSS","GB-DC-001","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",33
+"2024-04_Geographe_BOSS","GB-DC-001","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-001","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-001","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,18
+"2024-04_Geographe_BOSS","GB-DC-002","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-002","10000000","Biota","Sponges",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-002","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",6
+"2024-04_Geographe_BOSS","GB-DC-002","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-002","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-002","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,43
+"2024-04_Geographe_BOSS","GB-DC-002","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-003","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_BOSS","GB-DC-003","10000000","Biota","Sponges",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-003","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-003","37990083","Biota","Fishes","Bony fishes",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-003","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",11
+"2024-04_Geographe_BOSS","GB-DC-003","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+"2024-04_Geographe_BOSS","GB-DC-003","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-003","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-003","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-003","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-003","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-004","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,22
+"2024-04_Geographe_BOSS","GB-DC-004","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,52
+"2024-04_Geographe_BOSS","GB-DC-004","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",1
+"2024-04_Geographe_BOSS","GB-DC-004","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-004","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-005","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-005","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-005","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",25
+"2024-04_Geographe_BOSS","GB-DC-005","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,42
+"2024-04_Geographe_BOSS","GB-DC-005","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-006","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-006","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-006","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-006","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-006","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-006","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,53
+"2024-04_Geographe_BOSS","GB-DC-007","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,18
+"2024-04_Geographe_BOSS","GB-DC-007","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-007","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-007","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-007","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,49
+"2024-04_Geographe_BOSS","GB-DC-008","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,23
+"2024-04_Geographe_BOSS","GB-DC-008","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-008","63605902","Biota","Seagrasses","Elliptical leaves",NA,NA,NA,NA,NA,"Hydrocharitaceae","Halophila","spp",2
+"2024-04_Geographe_BOSS","GB-DC-008","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",1
+"2024-04_Geographe_BOSS","GB-DC-008","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",3
+"2024-04_Geographe_BOSS","GB-DC-008","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-008","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-008","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,19
+"2024-04_Geographe_BOSS","GB-DC-008","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,21
+"2024-04_Geographe_BOSS","GB-DC-009","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,15
+"2024-04_Geographe_BOSS","GB-DC-009","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,20
+"2024-04_Geographe_BOSS","GB-DC-009","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",8
+"2024-04_Geographe_BOSS","GB-DC-009","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-009","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-009","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-009","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-010","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,37
+"2024-04_Geographe_BOSS","GB-DC-010","63600901","Biota","Seagrasses",NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-010","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,12
+"2024-04_Geographe_BOSS","GB-DC-010","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",22
+"2024-04_Geographe_BOSS","GB-DC-011","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-011","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-011","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,61
+"2024-04_Geographe_BOSS","GB-DC-012","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-012","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,78
+"2024-04_Geographe_BOSS","GB-DC-013","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,17
+"2024-04_Geographe_BOSS","GB-DC-013","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",18
+"2024-04_Geographe_BOSS","GB-DC-013","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,45
+"2024-04_Geographe_BOSS","GB-DC-014","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_BOSS","GB-DC-014","10000000","Biota","Sponges",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-014","10000903","Biota","Sponges","Massive forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-014","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-014","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-014","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-014","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-014","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-014","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-014","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-015","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-015","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-015","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-015","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-015","82001001","Physical","Substrate","Consolidated (hard)",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-015","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,55
+"2024-04_Geographe_BOSS","GB-DC-015","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-016","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-016","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-016","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,69
+"2024-04_Geographe_BOSS","GB-DC-017","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,25
+"2024-04_Geographe_BOSS","GB-DC-017","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,19
+"2024-04_Geographe_BOSS","GB-DC-017","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",35
+"2024-04_Geographe_BOSS","GB-DC-017","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",1
+"2024-04_Geographe_BOSS","GB-DC-018","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-018","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-018","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-018","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-018","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,15
+"2024-04_Geographe_BOSS","GB-DC-018","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,54
+"2024-04_Geographe_BOSS","GB-DC-018","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-019","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-019","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-019","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,76
+"2024-04_Geographe_BOSS","GB-DC-020","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-020","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",54
+"2024-04_Geographe_BOSS","GB-DC-020","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-020","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-021","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-021","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",3
+"2024-04_Geographe_BOSS","GB-DC-021","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,73
+"2024-04_Geographe_BOSS","GB-DC-022","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-022","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-022","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",33
+"2024-04_Geographe_BOSS","GB-DC-022","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-022","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,35
+"2024-04_Geographe_BOSS","GB-DC-023","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-023","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-023","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",13
+"2024-04_Geographe_BOSS","GB-DC-023","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-023","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-023","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,36
+"2024-04_Geographe_BOSS","GB-DC-024","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-024","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-024","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,70
+"2024-04_Geographe_BOSS","GB-DC-025","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,19
+"2024-04_Geographe_BOSS","GB-DC-025","10000909","Biota","Sponges","Cup-likes",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-025","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",2
+"2024-04_Geographe_BOSS","GB-DC-025","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-025","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-025","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,51
+"2024-04_Geographe_BOSS","GB-DC-026","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-026","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-026","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,72
+"2024-04_Geographe_BOSS","GB-DC-027","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-027","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-027","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,77
+"2024-04_Geographe_BOSS","GB-DC-028","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_BOSS","GB-DC-028","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-028","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",10
+"2024-04_Geographe_BOSS","GB-DC-028","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",15
+"2024-04_Geographe_BOSS","GB-DC-028","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-028","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-028","80300918","Biota","Macroalgae","Laminate",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-028","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-028","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-029","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-029","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,30
+"2024-04_Geographe_BOSS","GB-DC-029","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,39
+"2024-04_Geographe_BOSS","GB-DC-030","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-030","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-030","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",48
+"2024-04_Geographe_BOSS","GB-DC-030","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-030","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-030","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-030","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-031","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-031","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-031","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,76
+"2024-04_Geographe_BOSS","GB-DC-032","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,15
+"2024-04_Geographe_BOSS","GB-DC-032","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-032","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-032","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",13
+"2024-04_Geographe_BOSS","GB-DC-032","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",20
+"2024-04_Geographe_BOSS","GB-DC-032","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-032","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-032","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-032","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,18
+"2024-04_Geographe_BOSS","GB-DC-032","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-033","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-033","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,28
+"2024-04_Geographe_BOSS","GB-DC-033","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,41
+"2024-04_Geographe_BOSS","GB-DC-034","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-034","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-034","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",3
+"2024-04_Geographe_BOSS","GB-DC-034","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-034","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-034","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,19
+"2024-04_Geographe_BOSS","GB-DC-034","82001001","Physical","Substrate","Consolidated (hard)",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-034","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,29
+"2024-04_Geographe_BOSS","GB-DC-034","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-035","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,20
+"2024-04_Geographe_BOSS","GB-DC-035","10000000","Biota","Sponges",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-035","10000909","Biota","Sponges","Cup-likes",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-035","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-035","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,22
+"2024-04_Geographe_BOSS","GB-DC-035","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",1
+"2024-04_Geographe_BOSS","GB-DC-035","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",4
+"2024-04_Geographe_BOSS","GB-DC-035","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-035","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-035","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-035","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-035","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-036","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,23
+"2024-04_Geographe_BOSS","GB-DC-036","10000000","Biota","Sponges",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-036","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",49
+"2024-04_Geographe_BOSS","GB-DC-036","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-036","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-036","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-037","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,29
+"2024-04_Geographe_BOSS","GB-DC-037","10000000","Biota","Sponges",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-037","10000903","Biota","Sponges","Massive forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-037","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-037","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-037","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-037","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-037","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-037","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,18
+"2024-04_Geographe_BOSS","GB-DC-038","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-038","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-038","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,77
+"2024-04_Geographe_BOSS","GB-DC-039","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-039","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-039","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,59
+"2024-04_Geographe_BOSS","GB-DC-040","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,33
+"2024-04_Geographe_BOSS","GB-DC-040","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-040","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",3
+"2024-04_Geographe_BOSS","GB-DC-040","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",1
+"2024-04_Geographe_BOSS","GB-DC-040","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,21
+"2024-04_Geographe_BOSS","GB-DC-040","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-040","80300918","Biota","Macroalgae","Laminate",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-040","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-040","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-041","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-041","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-041","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-041","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,75
+"2024-04_Geographe_BOSS","GB-DC-042","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-042","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-042","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,61
+"2024-04_Geographe_BOSS","GB-DC-043","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,20
+"2024-04_Geographe_BOSS","GB-DC-043","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",22
+"2024-04_Geographe_BOSS","GB-DC-043","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-043","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-043","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-043","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-043","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,24
+"2024-04_Geographe_BOSS","GB-DC-044","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,24
+"2024-04_Geographe_BOSS","GB-DC-044","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,17
+"2024-04_Geographe_BOSS","GB-DC-044","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",1
+"2024-04_Geographe_BOSS","GB-DC-044","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",31
+"2024-04_Geographe_BOSS","GB-DC-044","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-044","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-044","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-045","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,17
+"2024-04_Geographe_BOSS","GB-DC-045","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-045","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",41
+"2024-04_Geographe_BOSS","GB-DC-045","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-045","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-046","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-046","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-046","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",57
+"2024-04_Geographe_BOSS","GB-DC-046","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-046","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-046","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-047","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,25
+"2024-04_Geographe_BOSS","GB-DC-047","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-047","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",43
+"2024-04_Geographe_BOSS","GB-DC-047","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-047","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-047","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-048","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,22
+"2024-04_Geographe_BOSS","GB-DC-048","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-048","63605902","Biota","Seagrasses","Elliptical leaves",NA,NA,NA,NA,NA,"Hydrocharitaceae","Halophila","spp",3
+"2024-04_Geographe_BOSS","GB-DC-048","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",37
+"2024-04_Geographe_BOSS","GB-DC-048","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-048","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-049","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-049","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",44
+"2024-04_Geographe_BOSS","GB-DC-049","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-049","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-049","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,17
+"2024-04_Geographe_BOSS","GB-DC-050","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,17
+"2024-04_Geographe_BOSS","GB-DC-050","10000903","Biota","Sponges","Massive forms",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-050","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-050","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",10
+"2024-04_Geographe_BOSS","GB-DC-050","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",14
+"2024-04_Geographe_BOSS","GB-DC-050","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-050","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,23
+"2024-04_Geographe_BOSS","GB-DC-050","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-050","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-051","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-051","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,19
+"2024-04_Geographe_BOSS","GB-DC-051","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,55
+"2024-04_Geographe_BOSS","GB-DC-052","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-052","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-052","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,22
+"2024-04_Geographe_BOSS","GB-DC-052","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,56
+"2024-04_Geographe_BOSS","GB-DC-053","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,15
+"2024-04_Geographe_BOSS","GB-DC-053","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-053","37990083","Biota","Fishes","Bony fishes",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-053","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,54
+"2024-04_Geographe_BOSS","GB-DC-053","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-054","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-054","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-054","37990083","Biota","Fishes","Bony fishes",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-054","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,12
+"2024-04_Geographe_BOSS","GB-DC-054","63605902","Biota","Seagrasses","Elliptical leaves",NA,NA,NA,NA,NA,"Hydrocharitaceae","Halophila","spp",1
+"2024-04_Geographe_BOSS","GB-DC-054","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",3
+"2024-04_Geographe_BOSS","GB-DC-054","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-054","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_BOSS","GB-DC-054","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-054","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-055","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-055","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,74
+"2024-04_Geographe_BOSS","GB-DC-056","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,20
+"2024-04_Geographe_BOSS","GB-DC-056","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,19
+"2024-04_Geographe_BOSS","GB-DC-056","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,19
+"2024-04_Geographe_BOSS","GB-DC-056","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,22
+"2024-04_Geographe_BOSS","GB-DC-057","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+"2024-04_Geographe_BOSS","GB-DC-057","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-057","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",17
+"2024-04_Geographe_BOSS","GB-DC-057","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-057","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-057","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-057","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-057","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_BOSS","GB-DC-057","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-058","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,26
+"2024-04_Geographe_BOSS","GB-DC-058","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-058","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",2
+"2024-04_Geographe_BOSS","GB-DC-058","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",8
+"2024-04_Geographe_BOSS","GB-DC-058","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-058","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-058","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,27
+"2024-04_Geographe_BOSS","GB-DC-058","82001001","Physical","Substrate","Consolidated (hard)",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-058","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-059","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,80
+"2024-04_Geographe_BOSS","GB-DC-060","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-060","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,74
+"2024-04_Geographe_BOSS","GB-DC-061","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-061","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-061","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",57
+"2024-04_Geographe_BOSS","GB-DC-061","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-062","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-062","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-062","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,67
+"2024-04_Geographe_BOSS","GB-DC-063","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-063","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-063","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,72
+"2024-04_Geographe_BOSS","GB-DC-064","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-064","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-064","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",64
+"2024-04_Geographe_BOSS","GB-DC-064","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-064","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-064","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-065","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-065","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-065","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",13
+"2024-04_Geographe_BOSS","GB-DC-065","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",5
+"2024-04_Geographe_BOSS","GB-DC-065","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-065","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-065","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,27
+"2024-04_Geographe_BOSS","GB-DC-065","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-066","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,20
+"2024-04_Geographe_BOSS","GB-DC-066","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-066","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",16
+"2024-04_Geographe_BOSS","GB-DC-066","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-066","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-066","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,29
+"2024-04_Geographe_BOSS","GB-DC-066","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-067","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-067","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,79
+"2024-04_Geographe_BOSS","GB-DC-068","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-068","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-068","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,65
+"2024-04_Geographe_BOSS","GB-DC-069","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,16
+"2024-04_Geographe_BOSS","GB-DC-069","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-069","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",4
+"2024-04_Geographe_BOSS","GB-DC-069","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",28
+"2024-04_Geographe_BOSS","GB-DC-069","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,24
+"2024-04_Geographe_BOSS","GB-DC-069","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-069","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-070","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,16
+"2024-04_Geographe_BOSS","GB-DC-070","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-070","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",1
+"2024-04_Geographe_BOSS","GB-DC-070","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",59
+"2024-04_Geographe_BOSS","GB-DC-071","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-071","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,79
+"2024-04_Geographe_BOSS","GB-DC-072","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-072","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-072","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,74
+"2024-04_Geographe_BOSS","GB-DC-073","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-073","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-073","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",11
+"2024-04_Geographe_BOSS","GB-DC-073","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-073","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-073","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,60
+"2024-04_Geographe_BOSS","GB-DC-074","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-074","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-074","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,72
+"2024-04_Geographe_BOSS","GB-DC-075","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-075","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",18
+"2024-04_Geographe_BOSS","GB-DC-075","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-075","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-075","82001001","Physical","Substrate","Consolidated (hard)",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-075","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,57
+"2024-04_Geographe_BOSS","GB-DC-076","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,29
+"2024-04_Geographe_BOSS","GB-DC-076","23199000","Biota","Molluscs","Bivalves",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-076","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-076","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",11
+"2024-04_Geographe_BOSS","GB-DC-076","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",1
+"2024-04_Geographe_BOSS","GB-DC-076","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-076","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-076","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,15
+"2024-04_Geographe_BOSS","GB-DC-076","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-077","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,16
+"2024-04_Geographe_BOSS","GB-DC-077","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-077","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",1
+"2024-04_Geographe_BOSS","GB-DC-077","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",53
+"2024-04_Geographe_BOSS","GB-DC-077","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-078","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,18
+"2024-04_Geographe_BOSS","GB-DC-078","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-078","63605902","Biota","Seagrasses","Elliptical leaves",NA,NA,NA,NA,NA,"Hydrocharitaceae","Halophila","spp",1
+"2024-04_Geographe_BOSS","GB-DC-078","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-078","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-078","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-078","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,29
+"2024-04_Geographe_BOSS","GB-DC-078","80300936","Biota","Macroalgae","Turfing",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-078","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,17
+"2024-04_Geographe_BOSS","GB-DC-078","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-079","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-079","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-079","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",31
+"2024-04_Geographe_BOSS","GB-DC-079","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,15
+"2024-04_Geographe_BOSS","GB-DC-079","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,20
+"2024-04_Geographe_BOSS","GB-DC-080","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,31
+"2024-04_Geographe_BOSS","GB-DC-080","10000000","Biota","Sponges",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-080","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-080","37990083","Biota","Fishes","Bony fishes",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-080","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",7
+"2024-04_Geographe_BOSS","GB-DC-080","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-080","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-080","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-080","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-080","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-080","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-081","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,19
+"2024-04_Geographe_BOSS","GB-DC-081","63600901","Biota","Seagrasses",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-081","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",15
+"2024-04_Geographe_BOSS","GB-DC-081","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-081","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,42
+"2024-04_Geographe_BOSS","GB-DC-082","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-082","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,67
+"2024-04_Geographe_BOSS","GB-DC-083","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-083","37990083","Biota","Fishes","Bony fishes",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-083","80300926","Biota","Macroalgae","Encrusting",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-083","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,71
+"2024-04_Geographe_BOSS","GB-DC-084","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-084","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,75
+"2024-04_Geographe_BOSS","GB-DC-085","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-085","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-085","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,67
+"2024-04_Geographe_BOSS","GB-DC-086","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,80
+"2024-04_Geographe_BOSS","GB-DC-087","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-087","63605902","Biota","Seagrasses","Elliptical leaves",NA,NA,NA,NA,NA,"Hydrocharitaceae","Halophila","spp",1
+"2024-04_Geographe_BOSS","GB-DC-087","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-087","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,65
+"2024-04_Geographe_BOSS","GB-DC-088","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_BOSS","GB-DC-088","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-088","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-088","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",6
+"2024-04_Geographe_BOSS","GB-DC-088","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",1
+"2024-04_Geographe_BOSS","GB-DC-088","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-088","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,15
+"2024-04_Geographe_BOSS","GB-DC-088","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-088","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-089","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-089","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-089","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",3
+"2024-04_Geographe_BOSS","GB-DC-089","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-089","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-089","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,21
+"2024-04_Geographe_BOSS","GB-DC-089","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,38
+"2024-04_Geographe_BOSS","GB-DC-090","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,18
+"2024-04_Geographe_BOSS","GB-DC-090","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",25
+"2024-04_Geographe_BOSS","GB-DC-090","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-090","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,27
+"2024-04_Geographe_BOSS","GB-DC-091","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,17
+"2024-04_Geographe_BOSS","GB-DC-091","63605902","Biota","Seagrasses","Elliptical leaves",NA,NA,NA,NA,NA,"Hydrocharitaceae","Halophila","spp",1
+"2024-04_Geographe_BOSS","GB-DC-091","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-091","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-091","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,21
+"2024-04_Geographe_BOSS","GB-DC-091","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-091","82001001","Physical","Substrate","Consolidated (hard)",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-091","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-091","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-092","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+"2024-04_Geographe_BOSS","GB-DC-092","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",3
+"2024-04_Geographe_BOSS","GB-DC-092","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-092","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,12
+"2024-04_Geographe_BOSS","GB-DC-092","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,51
+"2024-04_Geographe_BOSS","GB-DC-093","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-093","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-093","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",4
+"2024-04_Geographe_BOSS","GB-DC-093","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-093","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-093","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,53
+"2024-04_Geographe_BOSS","GB-DC-094","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_BOSS","GB-DC-094","10000903","Biota","Sponges","Massive forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-094","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-094","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,17
+"2024-04_Geographe_BOSS","GB-DC-094","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",6
+"2024-04_Geographe_BOSS","GB-DC-094","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-094","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-094","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-094","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-094","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-094","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-095","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-095","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-095","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,78
+"2024-04_Geographe_BOSS","GB-DC-096","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-096","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,73
+"2024-04_Geographe_BOSS","GB-DC-097","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-097","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-097","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",9
+"2024-04_Geographe_BOSS","GB-DC-097","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,15
+"2024-04_Geographe_BOSS","GB-DC-097","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-097","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,28
+"2024-04_Geographe_BOSS","GB-DC-098","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,17
+"2024-04_Geographe_BOSS","GB-DC-098","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-098","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",6
+"2024-04_Geographe_BOSS","GB-DC-098","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",1
+"2024-04_Geographe_BOSS","GB-DC-098","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-098","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,18
+"2024-04_Geographe_BOSS","GB-DC-098","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,21
+"2024-04_Geographe_BOSS","GB-DC-098","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-099","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-099","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-099","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,76
+"2024-04_Geographe_BOSS","GB-DC-100","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-100","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-100","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",40
+"2024-04_Geographe_BOSS","GB-DC-100","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-100","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,20
+"2024-04_Geographe_BOSS","GB-DC-100","99900044","Biota","Sessile invertebrates",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-101","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+"2024-04_Geographe_BOSS","GB-DC-101","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-101","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,18
+"2024-04_Geographe_BOSS","GB-DC-101","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",3
+"2024-04_Geographe_BOSS","GB-DC-101","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",39
+"2024-04_Geographe_BOSS","GB-DC-101","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-101","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-102","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-102","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-102","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",18
+"2024-04_Geographe_BOSS","GB-DC-102","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",53
+"2024-04_Geographe_BOSS","GB-DC-102","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-103","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-103","37990083","Biota","Fishes","Bony fishes",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-103","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-103","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",6
+"2024-04_Geographe_BOSS","GB-DC-103","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",12
+"2024-04_Geographe_BOSS","GB-DC-103","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,45
+"2024-04_Geographe_BOSS","GB-DC-104","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,19
+"2024-04_Geographe_BOSS","GB-DC-104","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-104","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",11
+"2024-04_Geographe_BOSS","GB-DC-104","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",36
+"2024-04_Geographe_BOSS","GB-DC-104","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-104","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-105","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-105","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-105","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",34
+"2024-04_Geographe_BOSS","GB-DC-105","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",17
+"2024-04_Geographe_BOSS","GB-DC-105","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-105","80300903","Biota","Macroalgae","Erect coarse branching",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-105","80300911","Biota","Macroalgae","Articulated calcareous",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-105","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,11
+"2024-04_Geographe_BOSS","GB-DC-106","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-106","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-106","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",70
+"2024-04_Geographe_BOSS","GB-DC-106","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-107","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-107","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",66
+"2024-04_Geographe_BOSS","GB-DC-108","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,22
+"2024-04_Geographe_BOSS","GB-DC-108","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-108","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",51
+"2024-04_Geographe_BOSS","GB-DC-108","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-109","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-109","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,15
+"2024-04_Geographe_BOSS","GB-DC-109","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",6
+"2024-04_Geographe_BOSS","GB-DC-109","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",50
+"2024-04_Geographe_BOSS","GB-DC-109","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-109","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-110","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+"2024-04_Geographe_BOSS","GB-DC-110","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-110","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",2
+"2024-04_Geographe_BOSS","GB-DC-110","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",52
+"2024-04_Geographe_BOSS","GB-DC-111","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,15
+"2024-04_Geographe_BOSS","GB-DC-111","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-111","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",55
+"2024-04_Geographe_BOSS","GB-DC-112","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+"2024-04_Geographe_BOSS","GB-DC-112","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",7
+"2024-04_Geographe_BOSS","GB-DC-112","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",20
+"2024-04_Geographe_BOSS","GB-DC-112","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-112","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-112","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,34
+"2024-04_Geographe_BOSS","GB-DC-113","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,22
+"2024-04_Geographe_BOSS","GB-DC-113","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-113","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",53
+"2024-04_Geographe_BOSS","GB-DC-113","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-113","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-114","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-114","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",1
+"2024-04_Geographe_BOSS","GB-DC-114","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",14
+"2024-04_Geographe_BOSS","GB-DC-114","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-114","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,31
+"2024-04_Geographe_BOSS","GB-DC-114","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,25
+"2024-04_Geographe_BOSS","GB-DC-115","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,18
+"2024-04_Geographe_BOSS","GB-DC-115","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,4
+"2024-04_Geographe_BOSS","GB-DC-115","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",1
+"2024-04_Geographe_BOSS","GB-DC-115","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",56
+"2024-04_Geographe_BOSS","GB-DC-115","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-116","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,29
+"2024-04_Geographe_BOSS","GB-DC-116","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,48
+"2024-04_Geographe_BOSS","GB-DC-116","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",3
+"2024-04_Geographe_BOSS","GB-DC-117","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,20
+"2024-04_Geographe_BOSS","GB-DC-117","10000000","Biota","Sponges",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-117","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,52
+"2024-04_Geographe_BOSS","GB-DC-117","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",5
+"2024-04_Geographe_BOSS","GB-DC-117","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",2
+"2024-04_Geographe_BOSS","GB-DC-118","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-118","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-118","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",1
+"2024-04_Geographe_BOSS","GB-DC-118","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",20
+"2024-04_Geographe_BOSS","GB-DC-118","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,2
+"2024-04_Geographe_BOSS","GB-DC-118","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,42
+"2024-04_Geographe_BOSS","GB-DC-119","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"2024-04_Geographe_BOSS","GB-DC-119","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,5
+"2024-04_Geographe_BOSS","GB-DC-119","63617901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Posidoniaceae","Posidonia","spp",1
+"2024-04_Geographe_BOSS","GB-DC-119","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",21
+"2024-04_Geographe_BOSS","GB-DC-119","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-119","80300907","Biota","Macroalgae","Erect fine branching",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-119","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,13
+"2024-04_Geographe_BOSS","GB-DC-119","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,32
+"2024-04_Geographe_BOSS","GB-DC-120","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+"2024-04_Geographe_BOSS","GB-DC-120","63600903","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,NA,NA,NA,3
+"2024-04_Geographe_BOSS","GB-DC-120","63618901","Biota","Seagrasses","Strap-like leaves",NA,NA,NA,NA,NA,"Cymodoceaceae","Amphibolis","spp",70
+"2024-04_Geographe_BOSS","GB-DC-C01","00000001","Biota","Unscorable",NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+"2024-04_Geographe_BOSS","GB-DC-C01","10000912","Biota","Sponges","Erect forms",NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-C01","80300000","Biota","Macroalgae",NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2024-04_Geographe_BOSS","GB-DC-C01","80300930","Biota","Macroalgae","Filamentous / filiform",NA,NA,NA,NA,NA,NA,NA,NA,14
+"2024-04_Geographe_BOSS","GB-DC-C01","82001005","Physical","Substrate","Unconsolidated (soft)",NA,NA,NA,NA,NA,NA,NA,NA,56

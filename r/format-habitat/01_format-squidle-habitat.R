@@ -34,9 +34,10 @@ benthos <- raw_benthos %>%
   clean_names() %>%
   dplyr::rename(campaignid = any_of(c("point_media_deployment_campaign_key",
                                       "point_media_deployment_campaign_name")),
-                sample = any_of(c("point_media_deployment_key",
+                period = any_of(c("point_media_deployment_key",
                                   "point_media_deployment_name")),
                 uuid = label_uuid) %>%
+  dplyr::mutate(campaignid = "2024-04_Geographe_BOSS") %>%
   left_join(schema) %>%
   dplyr::mutate(caab_code = if_else(label_lineage_names %in% c("Unscorable", "3 Field of View > Open"), "00000001", caab_code)) %>%
   left_join(CheckEM::catami) 
@@ -53,7 +54,7 @@ benthos_missing <- benthos %>%
 
 benthos_clean <- benthos %>%
   dplyr::mutate(count = 1) %>%
-  group_by(campaignid, sample, caab_code, across(starts_with("level")), family, genus, species) %>%
+  group_by(campaignid, period, caab_code, across(starts_with("level")), family, genus, species) %>%
   dplyr::summarise(count = sum(count)) %>%
   ungroup() %>%
   glimpse()
@@ -74,9 +75,10 @@ relief <- raw_relief %>%
   clean_names() %>%
   dplyr::rename(campaignid = any_of(c("point_media_deployment_campaign_key",
                                       "point_media_deployment_campaign_name")),
-                sample = any_of(c("point_media_deployment_key",
+                period = any_of(c("point_media_deployment_key",
                                   "point_media_deployment_name")),
                 uuid = label_uuid) %>%
+  dplyr::mutate(campaignid = "2024-04_Geographe_BOSS") %>%
   left_join(schema) %>%
   dplyr::mutate(caab_code = if_else(label_lineage_names %in% c("Unscorable", "3 Field of View > Open"), "00000001", caab_code)) %>%
   left_join(CheckEM::catami) 
@@ -90,7 +92,7 @@ relief_missing <- relief %>%
 
 relief_clean <- relief %>%
   dplyr::mutate(count = 1) %>%
-  group_by(campaignid, sample, caab_code, across(starts_with("level"))) %>%
+  group_by(campaignid, period, caab_code, across(starts_with("level"))) %>%
   dplyr::summarise(count = sum(count)) %>%
   ungroup() %>%
   glimpse()
