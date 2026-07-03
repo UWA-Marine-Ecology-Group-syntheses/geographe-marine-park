@@ -73,7 +73,7 @@ sum(metadata_number_of_samples$n)
 write_csv(metadata, paste0("data/uploads/BOSS/", name, "_metadata.csv"))
 
 # # Read in the maxn and length data ----
-maxn <- read_points(here::here("data/raw/BOSS//")) %>%
+maxn <- read_points(here::here("data/raw/BOSS//"), method = "BOSS") %>%
   dplyr::mutate(species = ifelse(species %in% c("sp", "sp1", "sp2", "sp10"), "spp", as.character(species))) %>%
   dplyr::group_by(campaignid, period, filename, periodtime, frame, family, genus, species, stage) %>% # If you have MaxN'd by stage (e.g. Adult, Juvenile) add stage here
   dplyr::mutate(number = as.numeric(number)) %>%
@@ -89,7 +89,7 @@ maxn <- read_points(here::here("data/raw/BOSS//")) %>%
   dplyr::mutate(maxn = as.numeric(maxn)) %>%
   dplyr::filter(maxn > 0) %>%
   dplyr::inner_join(metadata, by = join_by(campaignid, period)) %>%
-  dplyr::filter(successful_count %in% c("Yes")) %>%
+  dplyr::filter(successful_count %in% c("Y")) %>%
   dplyr::filter(maxn > 0) %>%
   dplyr::select(campaignid, period, family, genus, species, maxn, stage) %>%
   dplyr::mutate(family = ifelse(family %in% c("NA", "NANA", NA, "unknown", "", NULL, " ", NA_character_), "Unknown", as.character(family))) %>%
@@ -198,6 +198,44 @@ synonyms_in_count <- dplyr::left_join(count_upload, CheckEM::aus_synonyms) %>%
 # 
 # # Save GA upload data ----
 write_csv(count_upload, paste0("data/uploads/BOSS/", name, "_count.csv"))
+
+mismatches <- dplyr::anti_join(count_upload, metadata, by = c("campaignid", "period"))
+mismatches %>% dplyr::distinct(campaignid, period)  
+head(mismatches)
+
+class(metadata$period)
+class(count_upload$period)
+# make sure neither has trailing decimals when printed
+head(metadata$period, 20)
+head(count_upload$period, 20)
+
+metadata_upload <- metadata %>% dplyr::mutate(period = as.integer(period))
+count_upload_final <- count_upload %>% dplyr::mutate(period = as.integer(period))
+
+metadata %>%
+  dplyr::filter(is.na(suppressWarnings(as.integer(period)))) %>%
+  dplyr::select(campaignid, period)
+metadata %>%
+  dplyr::filter(period == "" | grepl("^\\s|\\s$", period) | is.na(period)) %>%
+  dplyr::select(campaignid, period)
+
+dplyr::anti_join(count_upload, metadata, by = c("campaignid", "period")) %>%
+  dplyr::distinct(campaignid, period)
+
+# Re-write fresh, right now, from the confirmed-clean objects
+write_csv(metadata, "data/uploads/BOSS/geographe-marine-park_metadata.csv")
+write_csv(count_upload, "data/uploads/BOSS/geographe-marine-park_count.csv")
+
+# Then read it back in as a completely independent check - not from the R objects in memory
+check_meta  <- read_csv("data/uploads/BOSS/geographe-marine-park_metadata.csv")
+check_count <- read_csv("data/uploads/BOSS/geographe-marine-park_count.csv")
+
+names(check_meta)   # confirm "period" is really the header, not "sample"
+dplyr::anti_join(check_count, check_meta, by = c("campaignid", "period")) %>%
+  dplyr::distinct(campaignid, period)
+
+
+# shows the raw character codes so you can spot the difference
 # write_csv(length_upload, paste0("data/uploads/", name, "_length.csv"))
 # 
 # 
